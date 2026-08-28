@@ -31,17 +31,38 @@
         }
       ],
       "image": {
-        "url": null,
+        "url": "images/business-meetings-influence-001/anticipate.jpg",
         "searchPrompt": "editorial photograph of a thoughtful professional preparing before a meeting, notes and window light, candid, no text",
         "alt": "A professional preparing carefully for a meeting",
-        "source": null,
-        "license": null,
-        "palette": ["#D95D46", "#F2C6A8"]
+        "source": "https://www.pexels.com/photo/5668507/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#D95D46",
+          "#F2C6A8"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Sora Shimazaki on Pexels"
       },
-      "audio": { "text": "anticipate", "language": "en-GB", "voiceHint": "British English" },
-      "youglish": { "query": "anticipate", "language": "english", "accent": "uk" },
-      "aliases": ["anticipated", "anticipates", "anticipating"],
-      "tags": ["planning", "meetings", "risk"]
+      "audio": {
+        "text": "anticipate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "anticipate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "anticipated",
+        "anticipates",
+        "anticipating"
+      ],
+      "tags": [
+        "planning",
+        "meetings",
+        "risk"
+      ]
     },
     {
       "id": "articulate",
@@ -65,17 +86,38 @@
         }
       ],
       "image": {
-        "url": null,
+        "url": "images/business-meetings-influence-001/articulate.jpg",
         "searchPrompt": "confident professional presenting a concise idea to attentive colleagues, contemporary office, editorial photography, no text",
         "alt": "A confident speaker explaining an idea clearly",
-        "source": null,
-        "license": null,
-        "palette": ["#264653", "#7CB6B8"]
+        "source": "https://www.pexels.com/photo/17501008/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#264653",
+          "#7CB6B8"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Asoje Emprende on Pexels"
       },
-      "audio": { "text": "articulate", "language": "en-GB", "voiceHint": "British English" },
-      "youglish": { "query": "articulate", "language": "english", "accent": "uk" },
-      "aliases": ["articulated", "articulates", "articulating"],
-      "tags": ["clarity", "speaking", "influence"]
+      "audio": {
+        "text": "articulate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "articulate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "articulated",
+        "articulates",
+        "articulating"
+      ],
+      "tags": [
+        "clarity",
+        "speaking",
+        "influence"
+      ]
     },
     {
       "id": "nuance",
@@ -99,17 +141,36 @@
         }
       ],
       "image": {
-        "url": null,
+        "url": "images/business-meetings-influence-001/nuance.jpg",
         "searchPrompt": "subtle facial expressions between colleagues in a serious meeting, natural light, realistic editorial photograph, no text",
         "alt": "Colleagues noticing subtle reactions in a meeting",
-        "source": null,
-        "license": null,
-        "palette": ["#4D5B77", "#C7CEDB"]
+        "source": "https://www.pexels.com/photo/7845341/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4D5B77",
+          "#C7CEDB"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by RDNE Stock project on Pexels"
       },
-      "audio": { "text": "nuance", "language": "en-GB", "voiceHint": "British English" },
-      "youglish": { "query": "nuance", "language": "english", "accent": "uk" },
-      "aliases": ["nuances"],
-      "tags": ["meaning", "tone", "interpretation"]
+      "audio": {
+        "text": "nuance",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "nuance",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "nuances"
+      ],
+      "tags": [
+        "meaning",
+        "tone",
+        "interpretation"
+      ]
     },
     {
       "id": "concede",
@@ -133,17 +194,38 @@
         }
       ],
       "image": {
-        "url": null,
+        "url": "images/business-meetings-influence-001/concede.jpg",
         "searchPrompt": "two professionals reaching a thoughtful agreement across a meeting table, candid editorial photo, no text",
         "alt": "Two colleagues acknowledging each other's points",
-        "source": null,
-        "license": null,
-        "palette": ["#7A5137", "#D6B98C"]
+        "source": "https://www.pexels.com/photo/8730172/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#7A5137",
+          "#D6B98C"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Mikhail Nilov on Pexels"
       },
-      "audio": { "text": "concede", "language": "en-GB", "voiceHint": "British English" },
-      "youglish": { "query": "concede", "language": "english", "accent": "uk" },
-      "aliases": ["conceded", "concedes", "conceding"],
-      "tags": ["agreement", "negotiation", "diplomacy"]
+      "audio": {
+        "text": "concede",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "concede",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "conceded",
+        "concedes",
+        "conceding"
+      ],
+      "tags": [
+        "agreement",
+        "negotiation",
+        "diplomacy"
+      ]
     },
     {
       "id": "compelling",
@@ -167,17 +249,34 @@
         }
       ],
       "image": {
-        "url": null,
+        "url": "images/business-meetings-influence-001/compelling.jpg",
         "searchPrompt": "engaged meeting audience listening closely to a persuasive speaker, cinematic office photography, no text",
         "alt": "An audience engaged by a persuasive presentation",
-        "source": null,
-        "license": null,
-        "palette": ["#5D3A66", "#C5A6C9"]
+        "source": "https://www.pexels.com/photo/6476778/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#5D3A66",
+          "#C5A6C9"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Mikael Blomkvist on Pexels"
       },
-      "audio": { "text": "compelling", "language": "en-GB", "voiceHint": "British English" },
-      "youglish": { "query": "compelling", "language": "english", "accent": "uk" },
+      "audio": {
+        "text": "compelling",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "compelling",
+        "language": "english",
+        "accent": "uk"
+      },
       "aliases": [],
-      "tags": ["persuasion", "presentation", "argument"]
+      "tags": [
+        "persuasion",
+        "presentation",
+        "argument"
+      ]
     },
     {
       "id": "raise-a-concern",
@@ -201,17 +300,40 @@
         }
       ],
       "image": {
-        "url": null,
+        "url": "images/business-meetings-influence-001/raise-a-concern.jpg",
         "searchPrompt": "professional meeting with one participant thoughtfully raising a concern, realistic candid photography, no text",
         "alt": "A participant raising a concern during a meeting",
-        "source": null,
-        "license": null,
-        "palette": ["#B64B3B", "#E7A177"]
+        "source": "https://www.pexels.com/photo/7648052/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#B64B3B",
+          "#E7A177"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by RDNE Stock project on Pexels"
       },
-      "audio": { "text": "raise a concern", "language": "en-GB", "voiceHint": "British English" },
-      "youglish": { "query": "raise a concern", "language": "english", "accent": "uk" },
-      "aliases": ["raises a concern", "raised a concern", "raising a concern", "raise concerns", "raised concerns"],
-      "tags": ["objection", "meetings", "diplomacy"]
+      "audio": {
+        "text": "raise a concern",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "raise a concern",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "raises a concern",
+        "raised a concern",
+        "raising a concern",
+        "raise concerns",
+        "raised concerns"
+      ],
+      "tags": [
+        "objection",
+        "meetings",
+        "diplomacy"
+      ]
     },
     {
       "id": "establish-rapport",
@@ -235,17 +357,38 @@
         }
       ],
       "image": {
-        "url": null,
+        "url": "images/business-meetings-influence-001/establish-rapport.jpg",
         "searchPrompt": "two diverse professionals sharing a warm authentic moment before a meeting, editorial office photography, no text",
         "alt": "Two professionals building a comfortable connection",
-        "source": null,
-        "license": null,
-        "palette": ["#2F6F62", "#A6D2B7"]
+        "source": "https://www.pexels.com/photo/7964367/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#2F6F62",
+          "#A6D2B7"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Felicity Tai on Pexels"
       },
-      "audio": { "text": "establish rapport", "language": "en-GB", "voiceHint": "British English" },
-      "youglish": { "query": "establish rapport", "language": "english", "accent": "uk" },
-      "aliases": ["established rapport", "establishing rapport", "establishes rapport"],
-      "tags": ["trust", "relationships", "meetings"]
+      "audio": {
+        "text": "establish rapport",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "establish rapport",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "established rapport",
+        "establishing rapport",
+        "establishes rapport"
+      ],
+      "tags": [
+        "trust",
+        "relationships",
+        "meetings"
+      ]
     },
     {
       "id": "challenge-an-assumption",
@@ -269,17 +412,39 @@
         }
       ],
       "image": {
-        "url": null,
+        "url": "images/business-meetings-influence-001/challenge-an-assumption.jpg",
         "searchPrompt": "analyst pointing to evidence while colleagues reconsider a plan, realistic editorial meeting photograph, no text",
         "alt": "An analyst inviting colleagues to reconsider an assumption",
-        "source": null,
-        "license": null,
-        "palette": ["#315B7A", "#9FC3D9"]
+        "source": "https://www.pexels.com/photo/8171223/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#315B7A",
+          "#9FC3D9"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Kampus Production on Pexels"
       },
-      "audio": { "text": "challenge an assumption", "language": "en-GB", "voiceHint": "British English" },
-      "youglish": { "query": "challenge an assumption", "language": "english", "accent": "uk" },
-      "aliases": ["challenges an assumption", "challenged an assumption", "challenging an assumption", "challenge assumptions"],
-      "tags": ["critical thinking", "questions", "meetings"]
+      "audio": {
+        "text": "challenge an assumption",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "challenge an assumption",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "challenges an assumption",
+        "challenged an assumption",
+        "challenging an assumption",
+        "challenge assumptions"
+      ],
+      "tags": [
+        "critical thinking",
+        "questions",
+        "meetings"
+      ]
     },
     {
       "id": "find-common-ground",
@@ -303,17 +468,38 @@
         }
       ],
       "image": {
-        "url": null,
+        "url": "images/business-meetings-influence-001/find-common-ground.jpg",
         "searchPrompt": "colleagues from opposing teams leaning over one shared plan, warm realistic office photography, no text",
         "alt": "Different teams working toward shared priorities",
-        "source": null,
-        "license": null,
-        "palette": ["#52613E", "#C2D09A"]
+        "source": "https://www.pexels.com/photo/6930300/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#52613E",
+          "#C2D09A"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Mikhail Nilov on Pexels"
       },
-      "audio": { "text": "find common ground", "language": "en-GB", "voiceHint": "British English" },
-      "youglish": { "query": "find common ground", "language": "english", "accent": "uk" },
-      "aliases": ["finds common ground", "found common ground", "finding common ground"],
-      "tags": ["agreement", "conflict", "alignment"]
+      "audio": {
+        "text": "find common ground",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "find common ground",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "finds common ground",
+        "found common ground",
+        "finding common ground"
+      ],
+      "tags": [
+        "agreement",
+        "conflict",
+        "alignment"
+      ]
     },
     {
       "id": "steer-the-conversation",
@@ -337,17 +523,38 @@
         }
       ],
       "image": {
-        "url": null,
+        "url": "images/business-meetings-influence-001/steer-the-conversation.jpg",
         "searchPrompt": "meeting facilitator calmly guiding a lively group discussion, documentary office photography, no text",
         "alt": "A facilitator guiding a focused group discussion",
-        "source": null,
-        "license": null,
-        "palette": ["#A84A44", "#E0AA88"]
+        "source": "https://www.pexels.com/photo/7446600/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A84A44",
+          "#E0AA88"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Gustavo Fring on Pexels"
       },
-      "audio": { "text": "steer the conversation", "language": "en-GB", "voiceHint": "British English" },
-      "youglish": { "query": "steer the conversation", "language": "english", "accent": "uk" },
-      "aliases": ["steers the conversation", "steered the conversation", "steering the conversation"],
-      "tags": ["facilitation", "focus", "meetings"]
+      "audio": {
+        "text": "steer the conversation",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "steer the conversation",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "steers the conversation",
+        "steered the conversation",
+        "steering the conversation"
+      ],
+      "tags": [
+        "facilitation",
+        "focus",
+        "meetings"
+      ]
     }
   ],
   "story": {
@@ -365,20 +572,55 @@
     ]
   },
   "quiz": [
-    { "itemId": "anticipate", "definition": "to expect a situation and prepare for it in advance" },
-    { "itemId": "articulate", "definition": "able to express ideas clearly and effectively" },
-    { "itemId": "nuance", "definition": "a subtle difference in meaning, feeling or interpretation" },
-    { "itemId": "concede", "definition": "to admit that a point is true, often reluctantly" },
-    { "itemId": "compelling", "definition": "convincing enough to command attention or prompt action" },
-    { "itemId": "raise-a-concern", "definition": "to mention a problem or objection that deserves attention" },
-    { "itemId": "establish-rapport", "definition": "to create a comfortable relationship based on trust" },
-    { "itemId": "challenge-an-assumption", "definition": "to question whether an accepted belief is actually justified" },
-    { "itemId": "find-common-ground", "definition": "to identify interests shared by people who disagree" },
-    { "itemId": "steer-the-conversation", "definition": "to guide a discussion deliberately towards a useful outcome" }
+    {
+      "itemId": "anticipate",
+      "definition": "to expect a situation and prepare for it in advance"
+    },
+    {
+      "itemId": "articulate",
+      "definition": "able to express ideas clearly and effectively"
+    },
+    {
+      "itemId": "nuance",
+      "definition": "a subtle difference in meaning, feeling or interpretation"
+    },
+    {
+      "itemId": "concede",
+      "definition": "to admit that a point is true, often reluctantly"
+    },
+    {
+      "itemId": "compelling",
+      "definition": "convincing enough to command attention or prompt action"
+    },
+    {
+      "itemId": "raise-a-concern",
+      "definition": "to mention a problem or objection that deserves attention"
+    },
+    {
+      "itemId": "establish-rapport",
+      "definition": "to create a comfortable relationship based on trust"
+    },
+    {
+      "itemId": "challenge-an-assumption",
+      "definition": "to question whether an accepted belief is actually justified"
+    },
+    {
+      "itemId": "find-common-ground",
+      "definition": "to identify interests shared by people who disagree"
+    },
+    {
+      "itemId": "steer-the-conversation",
+      "definition": "to guide a discussion deliberately towards a useful outcome"
+    }
   ],
   "metadata": {
     "createdAt": "2026-08-27",
     "reviewStatus": "approved",
-    "tags": ["business", "meetings", "influence", "c1"]
+    "tags": [
+      "business",
+      "meetings",
+      "influence",
+      "c1"
+    ]
   }
 }
