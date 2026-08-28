@@ -22,6 +22,18 @@ describe('content validation', () => {
     expect(result.valid).toBe(true)
   })
 
+  it('requires traceable real-photo metadata for every learning item', () => {
+    const result = validateLesson(lesson, registry)
+    expect(result.valid).toBe(true)
+    expect(lesson.items.every((item: { image: { url: string; provider: string; source: string; attribution: string; license: string } }) =>
+      item.image.url.startsWith('images/')
+      && item.image.provider === 'Pexels'
+      && item.image.source.startsWith('https://www.pexels.com/photo/')
+      && item.image.attribution.includes('Photo by')
+      && item.image.license.includes('Pexels License'),
+    )).toBe(true)
+  })
+
   it('rejects duplicate terms', () => {
     const invalid = structuredClone(lesson)
     invalid.items[1].term = invalid.items[0].term
