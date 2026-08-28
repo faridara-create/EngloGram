@@ -15,6 +15,7 @@ type Props = {
   isActive: boolean
   progress?: ItemProgress
   onUpdate: (patch: Partial<ItemProgress>) => void
+  onHome: () => void
 }
 
 function SlideDots({ active, count }: { active: number; count: number }) {
@@ -25,7 +26,7 @@ function SlideDots({ active, count }: { active: number; count: number }) {
   )
 }
 
-export function LearningPost({ item, position, isActive, progress, onUpdate }: Props) {
+export function LearningPost({ item, position, isActive, progress, onUpdate, onHome }: Props) {
   const { ref, index, settledIndex, onScroll } = useCarousel()
   const { speak, stop, speaking, supported } = useSpeech()
   const practice = useSpeechRecognition()
@@ -94,6 +95,9 @@ export function LearningPost({ item, position, isActive, progress, onUpdate }: P
             <p className="translation">{item.translation}</p>
             <p className="definition">{item.definition}</p>
             <div className="social-actions">
+              <button onClick={onHome} aria-label="Back to EngloGram home">
+                <SocialIcon name="home" /><span>Home</span>
+              </button>
               <button className={state.liked ? 'selected like-active' : ''} onClick={() => onUpdate({ liked: !state.liked })} aria-label={state.liked ? 'Unlike' : 'Like'} aria-pressed={state.liked}>
                 <SocialIcon name="heart" filled={state.liked} /><span>Like</span>
               </button>
