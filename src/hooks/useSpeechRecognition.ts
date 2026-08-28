@@ -24,53 +24,123 @@ declare global {
   }
 }
 
-function normalize(value: string) {
-  return value.toLowerCase().replace(/[^a-z0-9\\s]/g, '').replace(/\\s+/g, ' ').trim()
+export type PronunciationAssessment = {
+  expected: string
+  transcript: string
+  score: number
 }
 
-function similarity(expected: string, actual: string) {
-  const expectedWords = new Set(normalize(expected).split(' ').filter(Boolean))
-  const actualWords = new Set(normalize(actual).split(' ').filter(Boolean))
-  if (!expectedWords.size) return 0
-  const matched = [...expectedWords].filter((word) => actualWords.has(word)).length
-  return matched / expectedWords.size
+export type PronunciationAssessmentProvider = {
+  assess: (expected: string, transcript: string) => PronunciationAssessment
 }
 
-export function useSpeechRecognition() {
+function tokens(value: string) {
+  return value
+    .toLocaleLowerCase('en')
+    .replace(/[^a-z0-9\s]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .split(' ')
+    .filter(Boolean)
+}
+
+function editDistance(expected: string[], actual: string[]) {
+  const rows = Array.from({ length: expected.length + 1 }, () => Array<number>(actual.length + 1).fill(0))
+  for (let row = 0; row <= expected.length; row += 1) rows[row][0] = row
+  for (let column = 0; column <= actual.length; column += 1) rows[0][column] = column
+
+  for (let row = 1; row <= expected.length; row += 1) {
+    for (let column = 1; column <= actual.length; column += 1) {
+      const substitution = expected[row - 1] === actual[column - 1] ? 0 : 1
+      rows[row][column] = Math.min(
+        rows[row - 1][column] + 1,
+        rows[row][column - 1] + 1,
+        rows[row - 1][column - 1] + substitution,
+      )
+    }
+  }
+  return rows[expected.length][actual.length]
+}
+
+export function assessRecognition(expected: string, transcript: string): PronunciationAssessment {
+  const expectedTokens = tokens(expected)
+  const actualTokens = tokens(transcript)
+  const longest = Math.max(expectedTokens.length, actualTokens.length, 1)
+  const score = Math.max(0, Math.round((1 - editDistance(expectedTokens, actualTokens) / longest) * 100))
+  return { expected, transcript: transcript.trim(), score }
+}
+
+export const browserRecognitionAssessmentProvider: PronunciationAssessmentProvider = {
+  assess: assessRecognition,
+}
+
+export function useSpeechRecognition(provider: PronunciationAssessmentProvider = browserRecognitionAssessmentProvider) {
   const recognitionRef = useRef<RecognitionInstance | null>(null)
   const [listening, setListening] = useState(false)
-  const [feedback, setFeedback] = useState('')
+  const [assessment, setAssessment] = useState<PronunciationAssessment | null>(null)
+  const [error, setError] = useState('')
   const Recognition = typeof window !== 'undefined' ? window.SpeechRecognition ?? window.webkitSpeechRecognition : undefined
   const supported = Boolean(Recognition)
 
   const stopListening = useCallback(() => {
-    recognitionRef.current?.abort()
+    const recognition = recognitionRef.current
+    if (recognition) {
+      recognition.onresult = null
+      recognition.onerror = null
+      recognition.onend = null
+      recognition.abort()
+    }
     recognitionRef.current = null
     setListening(false)
   }, [])
 
+  const clearFeedback = useCallback(() => {
+    setAssessment(null)
+    setError('')
+  }, [])
+
   const startListening = useCallback((expected: string) => {
     if (!Recognition) {
-      setFeedback('Speaking practice is not available in this browser. You can still replay and read the sentence aloud.')
+      setAssessment(null)
+      setError('Speaking practice is not supported in this browser.')
       return
     }
+
     stopListening()
     const recognition = new Recognition()
     recognition.lang = 'en-GB'
     recognition.continuous = false
     recognition.interimResults = false
     recognition.onresult = (event) => {
-      const transcript = Array.from({ length: event.results.length }, (_, index) => event.results[index][0].transcript).join(' ')
-      const score = similarity(expected, transcript)
-      setFeedback(score >= .82 ? 'Excellent match — clear and complete.' : score >= .58 ? 'Good attempt. Replay once and try the missing words.' : 'Try again slowly, keeping the full sentence together.')
+      const transcript = Array.from(
+        { length: event.results.length },
+        (_, index) => event.results[index][0].transcript,
+      ).join(' ')
+      setAssessment(provider.assess(expected, transcript))
+      setError('')
     }
-    recognition.onerror = () => setFeedback('I could not reliably hear that attempt. Replay the model and try again.')
-    recognition.onend = () => setListening(false)
+    recognition.onerror = () => {
+      setAssessment(null)
+      setError('I could not reliably hear that attempt. Listen once more and try again.')
+    }
+    recognition.onend = () => {
+      recognitionRef.current = null
+      setListening(false)
+    }
     recognitionRef.current = recognition
-    setFeedback('')
+    setAssessment(null)
+    setError('')
     setListening(true)
     recognition.start()
-  }, [Recognition, stopListening])
+  }, [Recognition, provider, stopListening])
 
-  return { supported, listening, feedback, startListening, stopListening }
+  return {
+    supported,
+    listening,
+    assessment,
+    error,
+    startListening,
+    stopListening,
+    clearFeedback,
+  }
 }
