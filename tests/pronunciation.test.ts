@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { assessRecognition } from '../src/hooks/useSpeechRecognition'
+import { assessRecognition } from '../src/content/pronunciation'
 
 describe('sentence recognition assessment', () => {
   it('scores an exact sentence match at 100 percent', () => {
