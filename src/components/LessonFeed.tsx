@@ -30,15 +30,10 @@ export function LessonFeed({ lesson, onBack }: { lesson: Lesson; onBack: () => v
 
   return (
     <main className="lesson-shell">
-      <header className="lesson-nav">
-        <button onClick={onBack} aria-label="Back to topics">←</button>
-        <div><small>{lesson.level} · {lesson.subtopic}</small><b>{lesson.title}</b></div>
-        <span>{activePost + 1}<i>/</i>{totalPosts}</span>
-      </header>
       <div className="vertical-feed" ref={feedRef} onScroll={updateActivePost}>
         {lesson.items.map((item, itemIndex) => (
           <section className="feed-page" key={item.id}>
-            <LearningPost item={item} position={itemIndex + 1} isActive={activePost === itemIndex} progress={progress.items[item.id]} onUpdate={(patch) => updateItem(item.id, patch)} />
+            <LearningPost item={item} position={itemIndex + 1} isActive={activePost === itemIndex} progress={progress.items[item.id]} onUpdate={(patch) => updateItem(item.id, patch)} onHome={onBack} />
           </section>
         ))}
         <section className="feed-page"><StoryPost lesson={lesson} isActive={activePost === lesson.items.length} /></section>
