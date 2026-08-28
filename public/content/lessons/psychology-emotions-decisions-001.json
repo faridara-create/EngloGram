@@ -1,0 +1,612 @@
+{
+  "schemaVersion": "1.0",
+  "id": "psychology-emotions-decisions-001",
+  "topicId": "psychology",
+  "subtopic": "EMOTIONS & DECISIONS",
+  "title": "Behaviour, Emotions & Decision-Making",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "impulsive",
+      "type": "vocabulary",
+      "term": "impulsive",
+      "translation": "impulsiv",
+      "ipa": "/ɪmˈpʌlsɪv/",
+      "definition": "acting suddenly without considering the consequences",
+      "examples": [
+        {
+          "source": "During the discussion, the decision seemed impulsive once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Entscheidung impulsiv, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the decision appeared impulsive at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Entscheidung zunächst impulsiv erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more impulsive decision could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker impulsiv geprägte Sicht auf die Entscheidung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/impulsive.webp",
+        "searchPrompt": "person pausing before an impulsive purchase",
+        "alt": "Person pausing before an impulsive purchase",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3768126/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ]
+      },
+      "audio": {
+        "text": "impulsive",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "impulsive",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "vocabulary",
+        "impulsive"
+      ]
+    },
+    {
+      "id": "self-aware",
+      "type": "vocabulary",
+      "term": "self-aware",
+      "translation": "selbstreflektiert",
+      "ipa": "/ˌselfəˈweə/",
+      "definition": "conscious of your own feelings, motives and behaviour",
+      "examples": [
+        {
+          "source": "During the discussion, the person seemed self-aware once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Person selbstreflektiert, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the person appeared self-aware at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Person zunächst selbstreflektiert erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more self-aware person could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker selbstreflektiert geprägte Sicht auf die Person Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/self-aware.webp",
+        "searchPrompt": "person reflecting in a mirror with self awareness",
+        "alt": "Person reflecting in a mirror with self awareness",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/4101143/",
+        "attribution": "Photo by cottonbro studio on Pexels",
+        "photographer": "cottonbro studio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ]
+      },
+      "audio": {
+        "text": "self-aware",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "self-aware",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "vocabulary",
+        "self-aware"
+      ]
+    },
+    {
+      "id": "ambivalent",
+      "type": "vocabulary",
+      "term": "ambivalent",
+      "translation": "zwiespältig",
+      "ipa": "/æmˈbɪvələnt/",
+      "definition": "having conflicting feelings about someone or something",
+      "examples": [
+        {
+          "source": "During the discussion, the reaction seemed ambivalent once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Reaktion zwiespältig, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the reaction appeared ambivalent at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Reaktion zunächst zwiespältig erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more ambivalent reaction could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker zwiespältig geprägte Sicht auf die Reaktion Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/ambivalent.webp",
+        "searchPrompt": "person weighing conflicting feelings",
+        "alt": "Person weighing conflicting feelings",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/5699456/",
+        "attribution": "Photo by Alex Green on Pexels",
+        "photographer": "Alex Green",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ]
+      },
+      "audio": {
+        "text": "ambivalent",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "ambivalent",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "vocabulary",
+        "ambivalent"
+      ]
+    },
+    {
+      "id": "empathetic",
+      "type": "vocabulary",
+      "term": "empathetic",
+      "translation": "einfühlsam",
+      "ipa": "/ˌempəˈθetɪk/",
+      "definition": "able to understand and share another person's feelings",
+      "examples": [
+        {
+          "source": "During the discussion, the response seemed empathetic once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Reaktion einfühlsam, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the response appeared empathetic at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Reaktion zunächst einfühlsam erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more empathetic response could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker einfühlsam geprägte Sicht auf die Reaktion Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/empathetic.webp",
+        "searchPrompt": "friend listening with empathy",
+        "alt": "Friend listening with empathy",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/4049989/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ]
+      },
+      "audio": {
+        "text": "empathetic",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "empathetic",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "vocabulary",
+        "empathetic"
+      ]
+    },
+    {
+      "id": "inhibiting",
+      "type": "vocabulary",
+      "term": "inhibiting",
+      "translation": "hemmend",
+      "ipa": "/ɪnˈhɪbɪtɪŋ/",
+      "definition": "preventing someone from acting or expressing themselves freely",
+      "examples": [
+        {
+          "source": "During the discussion, the belief seemed inhibiting once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Überzeugung hemmend, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the belief appeared inhibiting at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Überzeugung zunächst hemmend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more inhibiting belief could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker hemmend geprägte Sicht auf die Überzeugung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/inhibiting.webp",
+        "searchPrompt": "person held back by anxiety in a group",
+        "alt": "Person held back by anxiety in a group",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/4098228/",
+        "attribution": "Photo by cottonbro studio on Pexels",
+        "photographer": "cottonbro studio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ]
+      },
+      "audio": {
+        "text": "inhibiting",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "inhibiting",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "vocabulary",
+        "inhibiting"
+      ]
+    },
+    {
+      "id": "regulate-emotions",
+      "type": "collocation",
+      "term": "regulate emotions",
+      "translation": "Emotionen regulieren",
+      "ipa": "/ˈreɡjəleɪt ɪˈməʊʃənz/",
+      "definition": "to manage feelings without denying them",
+      "examples": [
+        {
+          "source": "The group decided to regulate emotions before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, Emotionen regulieren, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to regulate emotions, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie Emotionen regulieren sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to regulate emotions, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, Emotionen regulieren, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/regulate-emotions.webp",
+        "searchPrompt": "person using breathing to regulate emotions",
+        "alt": "Person using breathing to regulate emotions",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3807738/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ]
+      },
+      "audio": {
+        "text": "regulate emotions",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "regulate emotions",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "collocation",
+        "regulate",
+        "emotions"
+      ]
+    },
+    {
+      "id": "trust-your-instincts",
+      "type": "collocation",
+      "term": "trust your instincts",
+      "translation": "dem eigenen Instinkt vertrauen",
+      "ipa": "/trʌst jɔːr ˈɪnstɪŋkts/",
+      "definition": "to rely on an immediate intuitive judgement",
+      "examples": [
+        {
+          "source": "The group decided to trust your instincts before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, dem eigenen Instinkt vertrauen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to trust your instincts, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie dem eigenen Instinkt vertrauen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to trust your instincts, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, dem eigenen Instinkt vertrauen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/trust-your-instincts.webp",
+        "searchPrompt": "person choosing between two paths",
+        "alt": "Person choosing between two paths",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/417173/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ]
+      },
+      "audio": {
+        "text": "trust your instincts",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "trust your instincts",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "collocation",
+        "trust",
+        "your"
+      ]
+    },
+    {
+      "id": "weigh-up-options",
+      "type": "collocation",
+      "term": "weigh up options",
+      "translation": "Möglichkeiten sorgfältig abwägen",
+      "ipa": "/weɪ ʌp ˈɒpʃənz/",
+      "definition": "to compare alternatives before deciding",
+      "examples": [
+        {
+          "source": "The group decided to weigh up options before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, Möglichkeiten sorgfältig abwägen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to weigh up options, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie Möglichkeiten sorgfältig abwägen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to weigh up options, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, Möglichkeiten sorgfältig abwägen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/weigh-up-options.webp",
+        "searchPrompt": "person comparing written options",
+        "alt": "Person comparing written options",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3756168/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ]
+      },
+      "audio": {
+        "text": "weigh up options",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "weigh up options",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "collocation",
+        "weigh",
+        "up"
+      ]
+    },
+    {
+      "id": "fall-into-a-pattern",
+      "type": "collocation",
+      "term": "fall into a pattern",
+      "translation": "in ein Verhaltensmuster geraten",
+      "ipa": "/fɔːl ˌɪntə ə ˈpætən/",
+      "definition": "to begin repeating the same behaviour automatically",
+      "examples": [
+        {
+          "source": "The group decided to fall into a pattern before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, in ein Verhaltensmuster geraten, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to fall into a pattern, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie in ein Verhaltensmuster geraten sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to fall into a pattern, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, in ein Verhaltensmuster geraten, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/fall-into-a-pattern.webp",
+        "searchPrompt": "person repeating an everyday routine",
+        "alt": "Person repeating an everyday routine",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/7176026/",
+        "attribution": "Photo by Alex Green on Pexels",
+        "photographer": "Alex Green",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ]
+      },
+      "audio": {
+        "text": "fall into a pattern",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "fall into a pattern",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "collocation",
+        "fall",
+        "into"
+      ]
+    },
+    {
+      "id": "cope-with-uncertainty",
+      "type": "collocation",
+      "term": "cope with uncertainty",
+      "translation": "mit Unsicherheit umgehen",
+      "ipa": "/kəʊp wɪð ʌnˈsɜːtənti/",
+      "definition": "to function despite not knowing what will happen",
+      "examples": [
+        {
+          "source": "The group decided to cope with uncertainty before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, mit Unsicherheit umgehen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to cope with uncertainty, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie mit Unsicherheit umgehen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to cope with uncertainty, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, mit Unsicherheit umgehen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/cope-with-uncertainty.webp",
+        "searchPrompt": "person staying calm while facing uncertainty",
+        "alt": "Person staying calm while facing uncertainty",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3769021/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ]
+      },
+      "audio": {
+        "text": "cope with uncertainty",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "cope with uncertainty",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "collocation",
+        "cope",
+        "with"
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Choice Behind the Reaction",
+    "pages": [
+      {
+        "text": "Daniel arrived at a community workshop about everyday decisions and emotional habits. The setting felt impulsive, but the people involved did not yet share a clear plan. Rather than rushing towards an answer, Daniel asked the group to regulate emotions and explain what success would mean in practice."
+      },
+      {
+        "text": "A second difficulty soon emerged. The existing approach looked self-aware to some participants, while others feared that the change would create new problems. They agreed to trust your instincts so that every perspective could be tested against the same evidence instead of personal preference."
+      },
+      {
+        "text": "The most ambivalent moment came when a quiet participant questioned the assumption behind the original plan. Daniel encouraged everyone to weigh up options. That pause did not weaken the discussion; it made the risks visible and allowed the group to respond with more care."
+      },
+      {
+        "text": "By the afternoon, one part of the proposal seemed empathetic. The group therefore chose to fall into a pattern rather than defend an option simply because time had already been invested in it. The decision created room for a practical alternative that nobody had considered that morning."
+      },
+      {
+        "text": "One final issue remained inhibiting. To resolve it, the participants had to cope with uncertainty while keeping their shared purpose in view. Daniel summarised the strongest points, invited one last objection and made sure that the next steps had clear owners."
+      },
+      {
+        "text": "The result was a practical framework that made difficult choices slower, clearer and more compassionate. Nobody pretended that uncertainty had disappeared, yet the group left with a decision they could explain and support. Daniel reflected that progress rarely comes from certainty alone; it comes from precise language, attentive listening and the courage to revise a plan."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "impulsive",
+      "definition": "acting suddenly without considering the consequences"
+    },
+    {
+      "itemId": "self-aware",
+      "definition": "conscious of your own feelings, motives and behaviour"
+    },
+    {
+      "itemId": "ambivalent",
+      "definition": "having conflicting feelings about someone or something"
+    },
+    {
+      "itemId": "empathetic",
+      "definition": "able to understand and share another person's feelings"
+    },
+    {
+      "itemId": "inhibiting",
+      "definition": "preventing someone from acting or expressing themselves freely"
+    },
+    {
+      "itemId": "regulate-emotions",
+      "definition": "to manage feelings without denying them"
+    },
+    {
+      "itemId": "trust-your-instincts",
+      "definition": "to rely on an immediate intuitive judgement"
+    },
+    {
+      "itemId": "weigh-up-options",
+      "definition": "to compare alternatives before deciding"
+    },
+    {
+      "itemId": "fall-into-a-pattern",
+      "definition": "to begin repeating the same behaviour automatically"
+    },
+    {
+      "itemId": "cope-with-uncertainty",
+      "definition": "to function despite not knowing what will happen"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-28",
+    "reviewStatus": "approved",
+    "tags": [
+      "psychology",
+      "c1",
+      "english-german"
+    ]
+  }
+}
