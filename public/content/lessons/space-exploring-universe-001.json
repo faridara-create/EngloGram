@@ -1,0 +1,612 @@
+{
+  "schemaVersion": "1.0",
+  "id": "space-exploring-universe-001",
+  "topicId": "space",
+  "subtopic": "EXPLORING THE UNIVERSE",
+  "title": "Exploring the Universe",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "vast",
+      "type": "vocabulary",
+      "term": "vast",
+      "translation": "riesig; unermesslich",
+      "ipa": "/vɑːst/",
+      "definition": "extremely large in area, amount or extent",
+      "examples": [
+        {
+          "source": "During the discussion, the universe seemed vast once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte das Universum riesig; unermesslich, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the universe appeared vast at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl das Universum zunächst riesig; unermesslich erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more vast universe could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker riesig; unermesslich geprägte Sicht auf das Universum Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/vast.webp",
+        "searchPrompt": "astronaut above the vast Earth",
+        "alt": "Astronaut above the vast Earth",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/355956/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ]
+      },
+      "audio": {
+        "text": "vast",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "vast",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "vocabulary",
+        "vast"
+      ]
+    },
+    {
+      "id": "celestial",
+      "type": "vocabulary",
+      "term": "celestial",
+      "translation": "himmlisch; astronomisch",
+      "ipa": "/səˈlestiəl/",
+      "definition": "relating to the sky or objects in space",
+      "examples": [
+        {
+          "source": "During the discussion, the object seemed celestial once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte das Objekt himmlisch; astronomisch, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the object appeared celestial at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl das Objekt zunächst himmlisch; astronomisch erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more celestial object could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker himmlisch; astronomisch geprägte Sicht auf das Objekt Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/celestial.webp",
+        "searchPrompt": "astronaut exploring a celestial landscape",
+        "alt": "Astronaut exploring a celestial landscape",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8474475/",
+        "attribution": "Photo by RDNE Stock project on Pexels",
+        "photographer": "RDNE Stock project",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ]
+      },
+      "audio": {
+        "text": "celestial",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "celestial",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "vocabulary",
+        "celestial"
+      ]
+    },
+    {
+      "id": "habitable",
+      "type": "vocabulary",
+      "term": "habitable",
+      "translation": "bewohnbar",
+      "ipa": "/ˈhæbɪtəbəl/",
+      "definition": "suitable for people or other life to live in",
+      "examples": [
+        {
+          "source": "During the discussion, the environment seemed habitable once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Umgebung bewohnbar, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the environment appeared habitable at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Umgebung zunächst bewohnbar erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more habitable environment could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker bewohnbar geprägte Sicht auf die Umgebung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/habitable.webp",
+        "searchPrompt": "telescope searching for habitable planets",
+        "alt": "Telescope searching for habitable planets",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/34180947/",
+        "attribution": "Photo by Jason Pittman on Pexels",
+        "photographer": "Jason Pittman",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ]
+      },
+      "audio": {
+        "text": "habitable",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "habitable",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "vocabulary",
+        "habitable"
+      ]
+    },
+    {
+      "id": "unprecedented",
+      "type": "vocabulary",
+      "term": "unprecedented",
+      "translation": "beispiellos",
+      "ipa": "/ʌnˈpresɪdentɪd/",
+      "definition": "never having happened or existed before",
+      "examples": [
+        {
+          "source": "During the discussion, the observation seemed unprecedented once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Beobachtung beispiellos, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the observation appeared unprecedented at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Beobachtung zunächst beispiellos erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more unprecedented observation could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker beispiellos geprägte Sicht auf die Beobachtung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/unprecedented.webp",
+        "searchPrompt": "astronaut observing Earth from space",
+        "alt": "Astronaut observing Earth from space",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/2156/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ]
+      },
+      "audio": {
+        "text": "unprecedented",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "unprecedented",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "vocabulary",
+        "unprecedented"
+      ]
+    },
+    {
+      "id": "elusive",
+      "type": "vocabulary",
+      "term": "elusive",
+      "translation": "schwer fassbar",
+      "ipa": "/iˈluːsɪv/",
+      "definition": "difficult to find, achieve or understand",
+      "examples": [
+        {
+          "source": "During the discussion, the signal seemed elusive once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte das Signal schwer fassbar, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the signal appeared elusive at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl das Signal zunächst schwer fassbar erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more elusive signal could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker schwer fassbar geprägte Sicht auf das Signal Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/elusive.webp",
+        "searchPrompt": "satellite dish searching the night sky",
+        "alt": "Satellite dish searching the night sky",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/87080/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ]
+      },
+      "audio": {
+        "text": "elusive",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "elusive",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "vocabulary",
+        "elusive"
+      ]
+    },
+    {
+      "id": "venture-into-space",
+      "type": "collocation",
+      "term": "venture into space",
+      "translation": "sich ins All wagen",
+      "ipa": "/ˈventʃə ˌɪntə ˈspeɪs/",
+      "definition": "to travel beyond Earth despite difficulty or risk",
+      "examples": [
+        {
+          "source": "The group decided to venture into space before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, sich ins All wagen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to venture into space, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie sich ins All wagen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to venture into space, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, sich ins All wagen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/venture-into-space.webp",
+        "searchPrompt": "rocket and stars representing space exploration",
+        "alt": "Rocket and stars representing space exploration",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1169754/",
+        "attribution": "Photo by Miriam Espacio on Pexels",
+        "photographer": "Miriam Espacio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ]
+      },
+      "audio": {
+        "text": "venture into space",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "venture into space",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "collocation",
+        "venture",
+        "into"
+      ]
+    },
+    {
+      "id": "orbit-a-planet",
+      "type": "collocation",
+      "term": "orbit a planet",
+      "translation": "einen Planeten umkreisen",
+      "ipa": "/ˈɔːbɪt ə ˈplænɪt/",
+      "definition": "to travel repeatedly around a planet",
+      "examples": [
+        {
+          "source": "The group decided to orbit a planet before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, einen Planeten umkreisen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to orbit a planet, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie einen Planeten umkreisen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to orbit a planet, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, einen Planeten umkreisen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/orbit-a-planet.webp",
+        "searchPrompt": "moon and stars above a dark landscape",
+        "alt": "Moon and stars above a dark landscape",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1274260/",
+        "attribution": "Photo by Philippe Donn on Pexels",
+        "photographer": "Philippe Donn",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ]
+      },
+      "audio": {
+        "text": "orbit a planet",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "orbit a planet",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "collocation",
+        "orbit",
+        "a"
+      ]
+    },
+    {
+      "id": "withstand-extreme-conditions",
+      "type": "collocation",
+      "term": "withstand extreme conditions",
+      "translation": "extremen Bedingungen standhalten",
+      "ipa": "/wɪðˈstænd ɪkˌstriːm kənˈdɪʃənz/",
+      "definition": "to remain functional in a very hostile environment",
+      "examples": [
+        {
+          "source": "The group decided to withstand extreme conditions before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, extremen Bedingungen standhalten, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to withstand extreme conditions, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie extremen Bedingungen standhalten sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to withstand extreme conditions, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, extremen Bedingungen standhalten, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/withstand-extreme-conditions.webp",
+        "searchPrompt": "space equipment in a harsh rocky environment",
+        "alt": "Space equipment in a harsh rocky environment",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/998641/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ]
+      },
+      "audio": {
+        "text": "withstand extreme conditions",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "withstand extreme conditions",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "collocation",
+        "withstand",
+        "extreme"
+      ]
+    },
+    {
+      "id": "shed-light-on",
+      "type": "collocation",
+      "term": "shed light on",
+      "translation": "Aufschluss über etwas geben",
+      "ipa": "/ʃed ˈlaɪt ɒn/",
+      "definition": "to make a difficult subject clearer",
+      "examples": [
+        {
+          "source": "The group decided to shed light on before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, Aufschluss über etwas geben, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to shed light on, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie Aufschluss über etwas geben sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to shed light on, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, Aufschluss über etwas geben, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/shed-light-on.webp",
+        "searchPrompt": "scientist using telescope to understand stars",
+        "alt": "Scientist using telescope to understand stars",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/821718/",
+        "attribution": "Photo by Miriam Espacio on Pexels",
+        "photographer": "Miriam Espacio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ]
+      },
+      "audio": {
+        "text": "shed light on",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "shed light on",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "collocation",
+        "shed",
+        "light"
+      ]
+    },
+    {
+      "id": "push-the-boundaries",
+      "type": "collocation",
+      "term": "push the boundaries",
+      "translation": "die Grenzen erweitern",
+      "ipa": "/pʊʃ ðə ˈbaʊndəriz/",
+      "definition": "to go beyond what is currently known or possible",
+      "examples": [
+        {
+          "source": "The group decided to push the boundaries before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, die Grenzen erweitern, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to push the boundaries, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie die Grenzen erweitern sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to push the boundaries, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, die Grenzen erweitern, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/push-the-boundaries.webp",
+        "searchPrompt": "rocket launch pushing exploration forward",
+        "alt": "Rocket launch pushing exploration forward",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/23769/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ]
+      },
+      "audio": {
+        "text": "push the boundaries",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "push the boundaries",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "collocation",
+        "push",
+        "the"
+      ]
+    }
+  ],
+  "story": {
+    "title": "A Night at the Desert Observatory",
+    "pages": [
+      {
+        "text": "Noah arrived at a remote desert observatory during an international research week. The setting felt vast, but the people involved did not yet share a clear plan. Rather than rushing towards an answer, Noah asked the group to venture into space and explain what success would mean in practice."
+      },
+      {
+        "text": "A second difficulty soon emerged. The existing approach looked celestial to some participants, while others feared that the change would create new problems. They agreed to orbit a planet so that every perspective could be tested against the same evidence instead of personal preference."
+      },
+      {
+        "text": "The most habitable moment came when a quiet participant questioned the assumption behind the original plan. Noah encouraged everyone to withstand extreme conditions. That pause did not weaken the discussion; it made the risks visible and allowed the group to respond with more care."
+      },
+      {
+        "text": "By the afternoon, one part of the proposal seemed unprecedented. The group therefore chose to shed light on rather than defend an option simply because time had already been invested in it. The decision created room for a practical alternative that nobody had considered that morning."
+      },
+      {
+        "text": "One final issue remained elusive. To resolve it, the participants had to push the boundaries while keeping their shared purpose in view. Noah summarised the strongest points, invited one last objection and made sure that the next steps had clear owners."
+      },
+      {
+        "text": "The result was a careful result that opened a promising new direction for the next mission. Nobody pretended that uncertainty had disappeared, yet the group left with a decision they could explain and support. Noah reflected that progress rarely comes from certainty alone; it comes from precise language, attentive listening and the courage to revise a plan."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "vast",
+      "definition": "extremely large in area, amount or extent"
+    },
+    {
+      "itemId": "celestial",
+      "definition": "relating to the sky or objects in space"
+    },
+    {
+      "itemId": "habitable",
+      "definition": "suitable for people or other life to live in"
+    },
+    {
+      "itemId": "unprecedented",
+      "definition": "never having happened or existed before"
+    },
+    {
+      "itemId": "elusive",
+      "definition": "difficult to find, achieve or understand"
+    },
+    {
+      "itemId": "venture-into-space",
+      "definition": "to travel beyond Earth despite difficulty or risk"
+    },
+    {
+      "itemId": "orbit-a-planet",
+      "definition": "to travel repeatedly around a planet"
+    },
+    {
+      "itemId": "withstand-extreme-conditions",
+      "definition": "to remain functional in a very hostile environment"
+    },
+    {
+      "itemId": "shed-light-on",
+      "definition": "to make a difficult subject clearer"
+    },
+    {
+      "itemId": "push-the-boundaries",
+      "definition": "to go beyond what is currently known or possible"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-28",
+    "reviewStatus": "approved",
+    "tags": [
+      "space",
+      "c1",
+      "english-german"
+    ]
+  }
+}
