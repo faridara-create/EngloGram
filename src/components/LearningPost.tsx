@@ -1,8 +1,12 @@
 import { useEffect, useRef, useState, type CSSProperties } from 'react'
 import type { LearningItem } from '../content/schema'
+import { splitWithTargets } from '../content/lexical'
+import { resolvePublicAsset } from '../content/loadContent'
 import { useCarousel } from '../hooks/useCarousel'
 import { useSpeech } from '../hooks/useSpeech'
+import { useSpeechRecognition } from '../hooks/useSpeechRecognition'
 import type { ItemProgress } from '../state/progress'
+import { SocialIcon } from './SocialIcon'
 import { YouGlishWidget } from './YouGlishWidget'
 
 type Props = {
@@ -22,8 +26,9 @@ function SlideDots({ active, count }: { active: number; count: number }) {
 }
 
 export function LearningPost({ item, position, isActive, progress, onUpdate }: Props) {
-  const { ref, index, onScroll } = useCarousel()
+  const { ref, index, settledIndex, onScroll } = useCarousel()
   const { speak, stop, speaking, supported } = useSpeech()
+  const practice = useSpeechRecognition()
   const [noteOpen, setNoteOpen] = useState(false)
   const lastAutoRef = useRef('')
   const state = { liked: false, saved: false, note: '', ...progress }
@@ -33,16 +38,31 @@ export function LearningPost({ item, position, isActive, progress, onUpdate }: P
   } as CSSProperties
 
   useEffect(() => {
-    const autoKey = `${isActive}-${index}`
-    if (isActive && index === 1 && lastAutoRef.current !== autoKey) {
-      lastAutoRef.current = autoKey
-      speak(item.audio.text, item.audio.language)
-    }
     if (!isActive) {
       lastAutoRef.current = ''
       stop()
+      practice.stopListening()
+      return
     }
-  }, [index, isActive, item.audio.language, item.audio.text, speak, stop])
+
+    const autoKey = `${item.id}-${settledIndex}`
+    const autoText = settledIndex === 1
+      ? item.audio.text
+      : settledIndex >= 3 && settledIndex <= 5
+        ? item.examples[settledIndex - 3]?.source
+        : undefined
+
+    if (autoText && lastAutoRef.current !== autoKey) {
+      lastAutoRef.current = autoKey
+      stop()
+      speak(autoText, 'en-GB')
+    }
+
+    return () => {
+      stop()
+      practice.stopListening()
+    }
+  }, [isActive, item.audio.text, item.examples, item.id, practice.stopListening, settledIndex, speak, stop])
 
   const share = async () => {
     const text = `EngloGram\n${item.term}\n${item.translation}\n\n${item.examples[0].source}`
@@ -61,9 +81,10 @@ export function LearningPost({ item, position, isActive, progress, onUpdate }: P
     <article className="learning-post" style={paletteStyle}>
       <div className="horizontal-carousel" ref={ref} onScroll={onScroll}>
         <section className="post-slide hero-slide">
-          <div className="photo-field" role="img" aria-label={item.image.alt}>
+          <div className="photo-field">
+            {item.image.url && <img src={resolvePublicAsset(item.image.url)} alt={item.image.alt} loading={position <= 2 ? 'eager' : 'lazy'} />}
             <span className="photo-index">{String(position).padStart(2, '0')}</span>
-            <span className="photo-brief">PHOTO CUE · {item.tags[0]}</span>
+            {item.image.source && <a className="photo-credit" href={item.image.source} target="_blank" rel="noreferrer">{item.image.attribution ?? item.image.provider}</a>}
           </div>
           <div className="hero-content">
             <div className="type-row">
@@ -73,17 +94,17 @@ export function LearningPost({ item, position, isActive, progress, onUpdate }: P
             <p className="translation">{item.translation}</p>
             <p className="definition">{item.definition}</p>
             <div className="social-actions">
-              <button className={state.liked ? 'selected' : ''} onClick={() => onUpdate({ liked: !state.liked })} aria-label="Like">
-                <b>{state.liked ? '♥' : '♡'}</b><span>Like</span>
+              <button className={state.liked ? 'selected like-active' : ''} onClick={() => onUpdate({ liked: !state.liked })} aria-label={state.liked ? 'Unlike' : 'Like'} aria-pressed={state.liked}>
+                <SocialIcon name="heart" filled={state.liked} /><span>Like</span>
               </button>
-              <button className={state.note ? 'selected' : ''} onClick={() => setNoteOpen(true)} aria-label="Private note">
-                <b>✎</b><span>Note</span>
+              <button className={state.note ? 'selected' : ''} onClick={() => setNoteOpen(true)} aria-label="Add private note">
+                <SocialIcon name="comment" filled={Boolean(state.note)} /><span>Note</span>
               </button>
               <button onClick={share} aria-label="Share">
-                <b>↗</b><span>Share</span>
+                <SocialIcon name="share" /><span>Share</span>
               </button>
-              <button className={state.saved ? 'selected' : ''} onClick={() => onUpdate({ saved: !state.saved })} aria-label="Save">
-                <b>{state.saved ? '▰' : '▱'}</b><span>Save</span>
+              <button className={state.saved ? 'selected save-active' : ''} onClick={() => onUpdate({ saved: !state.saved })} aria-label={state.saved ? 'Remove from saved words' : 'Save word'} aria-pressed={state.saved}>
+                <SocialIcon name="bookmark" filled={state.saved} /><span>Save</span>
               </button>
             </div>
           </div>
@@ -105,7 +126,7 @@ export function LearningPost({ item, position, isActive, progress, onUpdate }: P
             <p className="ipa-large">{item.ipa}</p>
             <p>{item.translation}</p>
           </div>
-          <button className="audio-pill" onClick={() => speaking ? stop() : speak(item.audio.text, item.audio.language)} disabled={!supported}>
+          <button className="audio-pill" onClick={() => speaking ? stop() : speak(item.audio.text, 'en-GB')} disabled={!supported}>
             {speaking ? '■ Stop' : '▶ Replay pronunciation'}
           </button>
           {!supported && <small className="support-note">Speech synthesis is not supported by this browser.</small>}
@@ -129,11 +150,20 @@ export function LearningPost({ item, position, isActive, progress, onUpdate }: P
             <p className="slide-label">{String(exampleIndex + 4).padStart(2, '0')} · EXAMPLE {exampleIndex + 1}</p>
             <span className="quote-mark" aria-hidden="true">“</span>
             <div className="example-copy">
-              <p className="source-sentence">{example.source}</p>
+              <p className="source-sentence">
+                {splitWithTargets(example.source, item).map((part, partIndex) => part.highlighted
+                  ? <mark className="target-highlight" key={partIndex}>{part.text}</mark>
+                  : <span key={partIndex}>{part.text}</span>)}
+              </p>
               <div className="rule" />
               <p className="translated-sentence">{example.translation}</p>
             </div>
-            <button className="round-audio" onClick={() => speak(example.source, item.audio.language)} aria-label="Read English example aloud">▶</button>
+            <div className="practice-actions">
+              <button onClick={() => speak(example.source, 'en-GB')} disabled={!supported}><SocialIcon name="speaker" /><span>Listen / Replay</span></button>
+              <button onClick={() => practice.listening ? practice.stopListening() : practice.startListening(example.source)}><SocialIcon name="microphone" /><span>{practice.listening ? 'Stop listening' : 'Read aloud'}</span></button>
+            </div>
+            {practice.feedback && <p className="practice-feedback" role="status">{practice.feedback}</p>}
+            {!practice.supported && <p className="practice-capability">Voice feedback is unavailable here; use Listen / Replay and read the whole sentence aloud.</p>}
           </section>
         ))}
       </div>
