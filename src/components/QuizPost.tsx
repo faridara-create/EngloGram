@@ -16,7 +16,6 @@ export function QuizPost({ lesson, progress, onAnswer, onComplete, onReviewItem 
   const { ref, index, onScroll, goTo } = useCarousel()
   const questions = useMemo(() => createQuizQuestions(lesson), [lesson])
   const [reviewMode, setReviewMode] = useState(false)
-  const [showSaved, setShowSaved] = useState(false)
   const answeredCount = Object.keys(progress.quiz).length
   const correctCount = Object.values(progress.quiz).filter((answer) => answer.correct).length
   const incorrectItems = lesson.items.filter((item) => progress.quiz[item.id] && !progress.quiz[item.id].correct)
@@ -42,10 +41,9 @@ export function QuizPost({ lesson, progress, onAnswer, onComplete, onReviewItem 
         <h2>You finished<br /><em>{lesson.title}</em></h2>
         <p>{incorrectItems.length ? `${incorrectItems.length} item${incorrectItems.length === 1 ? '' : 's'} to strengthen next.` : 'A perfect result — every item landed.'}</p>
         {incorrectItems.length > 0 && <div className="mistake-list">{incorrectItems.map((item) => <span key={item.id}>{item.term}<small>{item.translation}</small></span>)}</div>}
-        {showSaved && <div className="saved-review">{savedItems.length ? savedItems.map((item) => <button onClick={() => onReviewItem(item.id)} key={item.id}>{item.term}<small>{item.translation}</small></button>) : <span>No saved words yet.</span>}</div>}
         <div className="completion-actions">
           <button onClick={reviewMistakes} disabled={!incorrectItems.length}>Review mistakes</button>
-          <button onClick={() => setShowSaved((current) => !current)}>Review saved words</button>
+          <button onClick={() => savedItems[0] && onReviewItem(savedItems[0].id)} disabled={!savedItems.length}>Review saved words</button>
           <button disabled>Next lesson <small>Coming soon</small></button>
         </div>
         <small className="completion-saved">Progress saved on this device</small>
