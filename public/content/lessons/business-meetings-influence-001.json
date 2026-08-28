@@ -1,0 +1,384 @@
+{
+  "schemaVersion": "1.0",
+  "id": "business-meetings-influence-001",
+  "topicId": "business",
+  "subtopic": "Meetings & Influence",
+  "title": "Meetings & Influence",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "anticipate",
+      "type": "vocabulary",
+      "term": "anticipate",
+      "translation": "voraussehen; mit etwas rechnen",
+      "ipa": "/ænˈtɪsɪpeɪt/",
+      "definition": "to expect a situation and prepare for it before it happens",
+      "examples": [
+        {
+          "source": "A seasoned facilitator learns to anticipate resistance before it begins to dominate the discussion.",
+          "translation": "Eine erfahrene Moderation lernt, Widerstand vorauszusehen, bevor er die Diskussion zu beherrschen beginnt."
+        },
+        {
+          "source": "Because Mira had anticipated the finance director’s objections, she answered them without sounding defensive.",
+          "translation": "Weil Mira die Einwände des Finanzdirektors vorausgesehen hatte, beantwortete sie diese, ohne defensiv zu wirken."
+        },
+        {
+          "source": "We should anticipate how the proposal might affect teams whose priorities differ from ours.",
+          "translation": "Wir sollten voraussehen, wie sich der Vorschlag auf Teams auswirken könnte, deren Prioritäten von unseren abweichen."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "editorial photograph of a thoughtful professional preparing before a meeting, notes and window light, candid, no text",
+        "alt": "A professional preparing carefully for a meeting",
+        "source": null,
+        "license": null,
+        "palette": ["#D95D46", "#F2C6A8"]
+      },
+      "audio": { "text": "anticipate", "language": "en-GB", "voiceHint": "British English" },
+      "youglish": { "query": "anticipate", "language": "english", "accent": "uk" },
+      "aliases": ["anticipated", "anticipates", "anticipating"],
+      "tags": ["planning", "meetings", "risk"]
+    },
+    {
+      "id": "articulate",
+      "type": "vocabulary",
+      "term": "articulate",
+      "translation": "wortgewandt; sich klar ausdrücken",
+      "ipa": "/ɑːˈtɪkjələt/",
+      "definition": "able to express ideas clearly, confidently and effectively",
+      "examples": [
+        {
+          "source": "Her articulate summary transformed a vague disagreement into three concrete decisions.",
+          "translation": "Ihre wortgewandte Zusammenfassung verwandelte eine vage Meinungsverschiedenheit in drei konkrete Entscheidungen."
+        },
+        {
+          "source": "You do not need to dominate the room to be an articulate and persuasive contributor.",
+          "translation": "Man muss den Raum nicht dominieren, um sich klar auszudrücken und überzeugend beizutragen."
+        },
+        {
+          "source": "Although he was technically brilliant, he struggled to articulate why the change mattered to customers.",
+          "translation": "Obwohl er fachlich brillant war, fiel es ihm schwer, klar auszudrücken, warum die Änderung für Kunden wichtig war."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "confident professional presenting a concise idea to attentive colleagues, contemporary office, editorial photography, no text",
+        "alt": "A confident speaker explaining an idea clearly",
+        "source": null,
+        "license": null,
+        "palette": ["#264653", "#7CB6B8"]
+      },
+      "audio": { "text": "articulate", "language": "en-GB", "voiceHint": "British English" },
+      "youglish": { "query": "articulate", "language": "english", "accent": "uk" },
+      "aliases": ["articulated", "articulates", "articulating"],
+      "tags": ["clarity", "speaking", "influence"]
+    },
+    {
+      "id": "nuance",
+      "type": "vocabulary",
+      "term": "nuance",
+      "translation": "Nuance; feiner Bedeutungsunterschied",
+      "ipa": "/ˈnjuːɑːns/",
+      "definition": "a subtle difference in meaning, feeling or interpretation",
+      "examples": [
+        {
+          "source": "The written summary missed an important nuance in the client’s response to the revised timetable.",
+          "translation": "In der schriftlichen Zusammenfassung fehlte eine wichtige Nuance in der Reaktion des Kunden auf den überarbeiteten Zeitplan."
+        },
+        {
+          "source": "Experienced negotiators notice every nuance of tone without overreacting to a single phrase.",
+          "translation": "Erfahrene Verhandlungsführer achten auf jede Nuance im Tonfall, ohne auf eine einzelne Formulierung überzureagieren."
+        },
+        {
+          "source": "The distinction may appear minor, but that nuance will shape how the policy is implemented.",
+          "translation": "Die Unterscheidung mag gering erscheinen, doch diese Nuance wird prägen, wie die Richtlinie umgesetzt wird."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "subtle facial expressions between colleagues in a serious meeting, natural light, realistic editorial photograph, no text",
+        "alt": "Colleagues noticing subtle reactions in a meeting",
+        "source": null,
+        "license": null,
+        "palette": ["#4D5B77", "#C7CEDB"]
+      },
+      "audio": { "text": "nuance", "language": "en-GB", "voiceHint": "British English" },
+      "youglish": { "query": "nuance", "language": "english", "accent": "uk" },
+      "aliases": ["nuances"],
+      "tags": ["meaning", "tone", "interpretation"]
+    },
+    {
+      "id": "concede",
+      "type": "vocabulary",
+      "term": "concede",
+      "translation": "einräumen; zugestehen",
+      "ipa": "/kənˈsiːd/",
+      "definition": "to admit that a point is true, often reluctantly",
+      "examples": [
+        {
+          "source": "The sponsor conceded that the original deadline had been based on incomplete information.",
+          "translation": "Der Sponsor räumte ein, dass die ursprüngliche Frist auf unvollständigen Informationen beruht hatte."
+        },
+        {
+          "source": "I concede that your approach is faster, although it may expose us to greater operational risk.",
+          "translation": "Ich räume ein, dass Ihr Ansatz schneller ist, auch wenn er uns möglicherweise einem größeren operativen Risiko aussetzt."
+        },
+        {
+          "source": "She was willing to concede a minor point without abandoning the central recommendation.",
+          "translation": "Sie war bereit, einen weniger wichtigen Punkt einzuräumen, ohne die zentrale Empfehlung aufzugeben."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "two professionals reaching a thoughtful agreement across a meeting table, candid editorial photo, no text",
+        "alt": "Two colleagues acknowledging each other's points",
+        "source": null,
+        "license": null,
+        "palette": ["#7A5137", "#D6B98C"]
+      },
+      "audio": { "text": "concede", "language": "en-GB", "voiceHint": "British English" },
+      "youglish": { "query": "concede", "language": "english", "accent": "uk" },
+      "aliases": ["conceded", "concedes", "conceding"],
+      "tags": ["agreement", "negotiation", "diplomacy"]
+    },
+    {
+      "id": "compelling",
+      "type": "vocabulary",
+      "term": "compelling",
+      "translation": "überzeugend; zwingend",
+      "ipa": "/kəmˈpelɪŋ/",
+      "definition": "convincing enough to command attention or prompt action",
+      "examples": [
+        {
+          "source": "The team presented a compelling case for testing the service with a smaller group first.",
+          "translation": "Das Team legte überzeugende Argumente dafür vor, den Service zunächst mit einer kleineren Gruppe zu testen."
+        },
+        {
+          "source": "Data alone rarely creates a compelling narrative unless the audience understands what is at stake.",
+          "translation": "Daten allein ergeben selten eine überzeugende Geschichte, wenn das Publikum nicht versteht, was auf dem Spiel steht."
+        },
+        {
+          "source": "Her most compelling argument linked the technical investment directly to a better customer experience.",
+          "translation": "Ihr überzeugendstes Argument verband die technische Investition unmittelbar mit einem besseren Kundenerlebnis."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "engaged meeting audience listening closely to a persuasive speaker, cinematic office photography, no text",
+        "alt": "An audience engaged by a persuasive presentation",
+        "source": null,
+        "license": null,
+        "palette": ["#5D3A66", "#C5A6C9"]
+      },
+      "audio": { "text": "compelling", "language": "en-GB", "voiceHint": "British English" },
+      "youglish": { "query": "compelling", "language": "english", "accent": "uk" },
+      "aliases": [],
+      "tags": ["persuasion", "presentation", "argument"]
+    },
+    {
+      "id": "raise-a-concern",
+      "type": "collocation",
+      "term": "raise a concern",
+      "translation": "Bedenken äußern; ein Problem ansprechen",
+      "ipa": "/reɪz ə kənˈsɜːn/",
+      "definition": "to mention a problem or objection that deserves attention",
+      "examples": [
+        {
+          "source": "During the steering committee, the legal adviser raised a concern about the scope of data sharing.",
+          "translation": "Während des Lenkungskreises äußerte die Rechtsberaterin Bedenken hinsichtlich des Umfangs der Datenweitergabe."
+        },
+        {
+          "source": "If you need to raise a concern, explain its impact rather than merely signalling that you disagree.",
+          "translation": "Wenn Sie Bedenken äußern müssen, erklären Sie deren Auswirkungen, anstatt lediglich Widerspruch zu signalisieren."
+        },
+        {
+          "source": "He raised a concern in a measured way, which allowed the group to reconsider the decision without losing momentum.",
+          "translation": "Er brachte seinen Einwand besonnen vor, sodass die Gruppe die Entscheidung überdenken konnte, ohne an Schwung zu verlieren."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "professional meeting with one participant thoughtfully raising a concern, realistic candid photography, no text",
+        "alt": "A participant raising a concern during a meeting",
+        "source": null,
+        "license": null,
+        "palette": ["#B64B3B", "#E7A177"]
+      },
+      "audio": { "text": "raise a concern", "language": "en-GB", "voiceHint": "British English" },
+      "youglish": { "query": "raise a concern", "language": "english", "accent": "uk" },
+      "aliases": ["raises a concern", "raised a concern", "raising a concern", "raise concerns", "raised concerns"],
+      "tags": ["objection", "meetings", "diplomacy"]
+    },
+    {
+      "id": "establish-rapport",
+      "type": "collocation",
+      "term": "establish rapport",
+      "translation": "eine gute Beziehung aufbauen; einen Draht zueinander finden",
+      "ipa": "/ɪˈstæblɪʃ ræˈpɔː/",
+      "definition": "to create a comfortable relationship based on trust and understanding",
+      "examples": [
+        {
+          "source": "Before discussing the contract, Lena took a few minutes to establish rapport with the new procurement lead.",
+          "translation": "Bevor sie den Vertrag besprach, nahm sich Lena einige Minuten Zeit, um eine gute Beziehung zur neuen Einkaufsleiterin aufzubauen."
+        },
+        {
+          "source": "A shared joke can establish rapport, provided it is appropriate for the people and context.",
+          "translation": "Ein gemeinsamer Scherz kann einen guten Draht schaffen, sofern er zu den Menschen und zum Kontext passt."
+        },
+        {
+          "source": "He asked thoughtful questions to establish rapport rather than launching immediately into his sales pitch.",
+          "translation": "Er stellte aufmerksame Fragen, um eine gute Beziehung aufzubauen, statt sofort mit seinem Verkaufsgespräch zu beginnen."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "two diverse professionals sharing a warm authentic moment before a meeting, editorial office photography, no text",
+        "alt": "Two professionals building a comfortable connection",
+        "source": null,
+        "license": null,
+        "palette": ["#2F6F62", "#A6D2B7"]
+      },
+      "audio": { "text": "establish rapport", "language": "en-GB", "voiceHint": "British English" },
+      "youglish": { "query": "establish rapport", "language": "english", "accent": "uk" },
+      "aliases": ["established rapport", "establishing rapport", "establishes rapport"],
+      "tags": ["trust", "relationships", "meetings"]
+    },
+    {
+      "id": "challenge-an-assumption",
+      "type": "collocation",
+      "term": "challenge an assumption",
+      "translation": "eine Annahme hinterfragen",
+      "ipa": "/ˈtʃælɪndʒ ən əˈsʌmpʃən/",
+      "definition": "to question whether a belief treated as true is actually justified",
+      "examples": [
+        {
+          "source": "The analyst challenged an assumption that younger customers would automatically prefer a mobile-only service.",
+          "translation": "Die Analystin hinterfragte die Annahme, dass jüngere Kunden automatisch einen rein mobilen Service bevorzugen würden."
+        },
+        {
+          "source": "You can challenge an assumption without implying that the person who made it was careless.",
+          "translation": "Man kann eine Annahme hinterfragen, ohne anzudeuten, dass die Person dahinter nachlässig war."
+        },
+        {
+          "source": "His question challenged our central assumption and revealed that the forecast relied on outdated behaviour.",
+          "translation": "Seine Frage stellte unsere zentrale Annahme infrage und zeigte, dass die Prognose auf veraltetem Verhalten beruhte."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "analyst pointing to evidence while colleagues reconsider a plan, realistic editorial meeting photograph, no text",
+        "alt": "An analyst inviting colleagues to reconsider an assumption",
+        "source": null,
+        "license": null,
+        "palette": ["#315B7A", "#9FC3D9"]
+      },
+      "audio": { "text": "challenge an assumption", "language": "en-GB", "voiceHint": "British English" },
+      "youglish": { "query": "challenge an assumption", "language": "english", "accent": "uk" },
+      "aliases": ["challenges an assumption", "challenged an assumption", "challenging an assumption", "challenge assumptions"],
+      "tags": ["critical thinking", "questions", "meetings"]
+    },
+    {
+      "id": "find-common-ground",
+      "type": "collocation",
+      "term": "find common ground",
+      "translation": "eine gemeinsame Basis finden",
+      "ipa": "/faɪnd ˌkɒmən ˈɡraʊnd/",
+      "definition": "to identify beliefs or interests shared by people who disagree",
+      "examples": [
+        {
+          "source": "Both teams wanted a reliable launch, which helped them find common ground on the testing schedule.",
+          "translation": "Beide Teams wollten einen zuverlässigen Start, was ihnen half, beim Testplan eine gemeinsame Basis zu finden."
+        },
+        {
+          "source": "When positions harden, return to the underlying goals and look for a way to find common ground.",
+          "translation": "Wenn sich Positionen verhärten, sollte man zu den zugrunde liegenden Zielen zurückkehren und nach einer gemeinsamen Basis suchen."
+        },
+        {
+          "source": "They found common ground without pretending that their concerns about cost had disappeared.",
+          "translation": "Sie fanden eine gemeinsame Basis, ohne so zu tun, als seien ihre Bedenken hinsichtlich der Kosten verschwunden."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "colleagues from opposing teams leaning over one shared plan, warm realistic office photography, no text",
+        "alt": "Different teams working toward shared priorities",
+        "source": null,
+        "license": null,
+        "palette": ["#52613E", "#C2D09A"]
+      },
+      "audio": { "text": "find common ground", "language": "en-GB", "voiceHint": "British English" },
+      "youglish": { "query": "find common ground", "language": "english", "accent": "uk" },
+      "aliases": ["finds common ground", "found common ground", "finding common ground"],
+      "tags": ["agreement", "conflict", "alignment"]
+    },
+    {
+      "id": "steer-the-conversation",
+      "type": "collocation",
+      "term": "steer the conversation",
+      "translation": "das Gespräch gezielt lenken",
+      "ipa": "/stɪə ðə ˌkɒnvəˈseɪʃən/",
+      "definition": "to guide a discussion deliberately towards a useful subject or outcome",
+      "examples": [
+        {
+          "source": "The chair steered the conversation back to the decision once everyone had voiced their concerns.",
+          "translation": "Die Vorsitzende lenkte das Gespräch zurück zur Entscheidung, nachdem alle ihre Bedenken geäußert hatten."
+        },
+        {
+          "source": "A precise follow-up question can steer the conversation away from blame and towards practical action.",
+          "translation": "Eine präzise Anschlussfrage kann das Gespräch weg von Schuldzuweisungen und hin zu praktischem Handeln lenken."
+        },
+        {
+          "source": "He tried to steer the conversation, but the group needed more time to explore the underlying disagreement.",
+          "translation": "Er versuchte, das Gespräch zu lenken, doch die Gruppe brauchte mehr Zeit, um die zugrunde liegende Meinungsverschiedenheit zu untersuchen."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "meeting facilitator calmly guiding a lively group discussion, documentary office photography, no text",
+        "alt": "A facilitator guiding a focused group discussion",
+        "source": null,
+        "license": null,
+        "palette": ["#A84A44", "#E0AA88"]
+      },
+      "audio": { "text": "steer the conversation", "language": "en-GB", "voiceHint": "British English" },
+      "youglish": { "query": "steer the conversation", "language": "english", "accent": "uk" },
+      "aliases": ["steers the conversation", "steered the conversation", "steering the conversation"],
+      "tags": ["facilitation", "focus", "meetings"]
+    }
+  ],
+  "story": {
+    "title": "The Decision Behind the Deadline",
+    "pages": [
+      {
+        "text": "Elena arrived early for the final planning meeting. Rather than opening her laptop immediately, she used the quiet minutes to establish rapport with Jonas, the operations lead who had criticised the launch plan. She knew she had to anticipate resistance: his team would carry most of the operational risk. When the others joined, Elena gave an articulate account of the customer research and presented a compelling reason to launch in October. She did not hide the uncertainty. Instead, she invited anyone who wished to raise a concern to do so before the group discussed solutions."
+      },
+      {
+        "text": "Jonas responded carefully. He accepted the commercial opportunity but pointed to an important nuance: the proposed date was realistic only if the support team received additional training. Elena chose to challenge an assumption behind the schedule rather than defend every detail. Did all regions genuinely need to launch at once? The product director had to concede that a simultaneous release was attractive mainly because it looked decisive. As the debate became more animated, Elena used short, specific questions to steer the conversation away from personal ownership and towards customer impact."
+      },
+      {
+        "text": "The atmosphere shifted. Marketing still wanted a visible milestone, while operations needed time to test the new support process. Elena helped both sides find common ground in a phased release: two regions would launch in October, followed by the remaining markets in November. Jonas offered to define the operational checks, and marketing agreed to adapt the campaign. The final plan was less dramatic than the original proposal, but far more credible. After the meeting, Jonas admitted that he had expected a battle. Elena replied that influence did not mean winning every point; it meant creating the conditions for a decision people could support when the meeting was over."
+      }
+    ]
+  },
+  "quiz": [
+    { "itemId": "anticipate", "definition": "to expect a situation and prepare for it in advance" },
+    { "itemId": "articulate", "definition": "able to express ideas clearly and effectively" },
+    { "itemId": "nuance", "definition": "a subtle difference in meaning, feeling or interpretation" },
+    { "itemId": "concede", "definition": "to admit that a point is true, often reluctantly" },
+    { "itemId": "compelling", "definition": "convincing enough to command attention or prompt action" },
+    { "itemId": "raise-a-concern", "definition": "to mention a problem or objection that deserves attention" },
+    { "itemId": "establish-rapport", "definition": "to create a comfortable relationship based on trust" },
+    { "itemId": "challenge-an-assumption", "definition": "to question whether an accepted belief is actually justified" },
+    { "itemId": "find-common-ground", "definition": "to identify interests shared by people who disagree" },
+    { "itemId": "steer-the-conversation", "definition": "to guide a discussion deliberately towards a useful outcome" }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-27",
+    "reviewStatus": "approved",
+    "tags": ["business", "meetings", "influence", "c1"]
+  }
+}

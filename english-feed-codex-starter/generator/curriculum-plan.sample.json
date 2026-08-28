@@ -1,0 +1,35 @@
+{
+  "targetLessonCount": 100,
+  "level": "C1",
+  "translationLanguage": "de",
+  "lessons": [
+    {
+      "id": "business-meetings-influence-001",
+      "topic": "business",
+      "subtopic": "Meetings & Influence",
+      "communicativeGoal": "Contribute confidently and diplomatically in professional meetings.",
+      "status": "planned"
+    },
+    {
+      "id": "business-handling-disagreement-002",
+      "topic": "business",
+      "subtopic": "Handling Disagreement",
+      "communicativeGoal": "Disagree, challenge assumptions and preserve rapport.",
+      "status": "planned"
+    },
+    {
+      "id": "technology-ai-adoption-001",
+      "topic": "technology",
+      "subtopic": "AI at Work",
+      "communicativeGoal": "Discuss AI adoption, trade-offs, governance and impact.",
+      "status": "planned"
+    },
+    {
+      "id": "psychology-habits-001",
+      "topic": "psychology",
+      "subtopic": "Habits",
+      "communicativeGoal": "Discuss how habits form, persist and change.",
+      "status": "planned"
+    }
+  ]
+}

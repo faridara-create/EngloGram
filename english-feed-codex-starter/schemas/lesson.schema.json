@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://english-feed.local/schemas/lesson.schema.json",
+  "title": "English Feed Lesson",
+  "type": "object",
+  "required": [
+    "id",
+    "topicId",
+    "title",
+    "level",
+    "items",
+    "story",
+    "quiz"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "topicId": {
+      "type": "string"
+    },
+    "subtopic": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "level": {
+      "enum": [
+        "B2",
+        "C1",
+        "C2"
+      ]
+    },
+    "translationLanguage": {
+      "const": "de"
+    },
+    "accent": {
+      "default": "en-GB",
+      "type": "string"
+    },
+    "items": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10,
+      "items": {
+        "$ref": "learning-item.schema.json"
+      }
+    },
+    "story": {
+      "type": "object",
+      "required": [
+        "title",
+        "pages"
+      ],
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "pages": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "text"
+            ],
+            "properties": {
+              "text": {
+                "type": "string",
+                "minLength": 100
+              }
+            }
+          }
+        }
+      }
+    },
+    "quiz": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10,
+      "items": {
+        "type": "object",
+        "required": [
+          "itemId",
+          "definition"
+        ],
+        "properties": {
+          "itemId": {
+            "type": "string"
+          },
+          "definition": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "createdAt": {
+          "type": "string"
+        },
+        "generatorVersion": {
+          "type": "string"
+        },
+        "reviewStatus": {
+          "enum": [
+            "draft",
+            "validated",
+            "approved",
+            "published"
+          ]
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

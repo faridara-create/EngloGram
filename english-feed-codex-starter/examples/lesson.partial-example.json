@@ -1,0 +1,120 @@
+{
+  "id": "business-meetings-influence-001",
+  "topicId": "business",
+  "subtopic": "Meetings & Influence",
+  "title": "Meetings & Influence",
+  "level": "C1",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "raise-a-concern",
+      "type": "collocation",
+      "term": "raise a concern",
+      "translationDe": "Bedenken äußern; ein Problem ansprechen",
+      "ipa": "/reɪz ə kənˈsɜːn/",
+      "definitionEn": "to mention a problem, worry, or objection that should be discussed",
+      "examples": [
+        {
+          "en": "During the steering committee, the legal adviser raised a concern about the scope of data sharing.",
+          "de": "Während des Lenkungskreises äußerte die Rechtsberaterin Bedenken hinsichtlich des Umfangs der Datenweitergabe."
+        },
+        {
+          "en": "Rather than dismissing the objection, she raised a concern in a measured and constructive way.",
+          "de": "Anstatt den Einwand abzutun, sprach sie das Problem in einer nüchternen und konstruktiven Weise an."
+        },
+        {
+          "en": "He hesitated for a moment and then raised a concern that ultimately changed the decision.",
+          "de": "Er zögerte einen Moment und brachte dann einen Einwand vor, der die Entscheidung letztlich veränderte."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "realistic professional meeting, one participant thoughtfully raising a concern, natural office photography, candid, no text",
+        "alt": "A participant raising a concern during a professional meeting",
+        "source": null,
+        "license": null
+      },
+      "audio": {
+        "text": "raise a concern",
+        "voice": "en-GB"
+      },
+      "youglish": {
+        "query": "raise a concern"
+      },
+      "tags": [
+        "meetings",
+        "influence",
+        "professional communication"
+      ]
+    },
+    {
+      "id": "anticipate",
+      "type": "vocabulary",
+      "term": "anticipate",
+      "translationDe": "voraussehen; erwarten; mit etwas rechnen",
+      "ipa": "/ænˈtɪsɪpeɪt/",
+      "definitionEn": "to expect something and prepare for it before it happens",
+      "examples": [
+        {
+          "en": "A seasoned project lead learns to anticipate resistance long before it becomes explicit.",
+          "de": "Eine erfahrene Projektleiterin lernt, Widerstand vorauszusehen, lange bevor er offen ausgesprochen wird."
+        },
+        {
+          "en": "Because we had anticipated the customer’s questions, the discussion remained calm and focused.",
+          "de": "Weil wir die Fragen des Kunden vorausgesehen hatten, blieb die Diskussion ruhig und fokussiert."
+        },
+        {
+          "en": "If you fail to anticipate operational risks, even a well-designed plan may unravel quickly.",
+          "de": "Wenn du operative Risiken nicht voraussiehst, kann selbst ein gut durchdachter Plan schnell scheitern."
+        }
+      ],
+      "image": {
+        "url": null,
+        "searchPrompt": "professional planning ahead, calendar and meeting notes, realistic editorial photography, natural light, no text",
+        "alt": "A professional planning ahead before a meeting",
+        "source": null,
+        "license": null
+      },
+      "audio": {
+        "text": "anticipate",
+        "voice": "en-GB"
+      },
+      "youglish": {
+        "query": "anticipate"
+      },
+      "tags": [
+        "planning",
+        "meetings",
+        "risk"
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Meeting That Changed Direction",
+    "pages": [
+      {
+        "text": "At the start of the meeting, Elena tried to establish rapport before discussing the more delicate points. Because she had anticipated resistance, she chose her words carefully and articulated the broader objective in a calm, compelling way."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "raise-a-concern",
+      "definition": "to mention a problem, worry, or objection that needs attention"
+    },
+    {
+      "itemId": "anticipate",
+      "definition": "to expect something in advance and prepare for it"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-27",
+    "generatorVersion": "starter-example",
+    "reviewStatus": "draft",
+    "tags": [
+      "business",
+      "meetings"
+    ]
+  }
+}

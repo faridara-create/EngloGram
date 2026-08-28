@@ -1,0 +1,84 @@
+{
+  "product": "EngloGram",
+  "topics": [
+    {
+      "id": "business",
+      "title": "Business",
+      "eyebrow": "01 · PROFESSIONAL",
+      "symbol": "BR",
+      "color": "coral",
+      "description": "Speak with clarity, tact and influence.",
+      "lessons": [
+        {
+          "id": "business-meetings-influence-001",
+          "title": "Meetings & Influence",
+          "path": "/content/lessons/business-meetings-influence-001.json",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "title": "Technology",
+      "eyebrow": "02 · SYSTEMS",
+      "symbol": "TX",
+      "color": "blue",
+      "description": "Discuss products, AI and digital change.",
+      "lessons": [{ "id": "technology-coming-soon", "title": "AI at Work", "path": "", "available": false }]
+    },
+    {
+      "id": "space",
+      "title": "Space",
+      "eyebrow": "03 · EXPLORATION",
+      "symbol": "SP",
+      "color": "violet",
+      "description": "Explore discovery beyond our atmosphere.",
+      "lessons": [{ "id": "space-coming-soon", "title": "Human Spaceflight", "path": "", "available": false }]
+    },
+    {
+      "id": "health",
+      "title": "Health",
+      "eyebrow": "04 · WELLBEING",
+      "symbol": "HL",
+      "color": "green",
+      "description": "Talk about wellbeing with precision.",
+      "lessons": [{ "id": "health-coming-soon", "title": "Healthy Ageing", "path": "", "available": false }]
+    },
+    {
+      "id": "travel",
+      "title": "Travel",
+      "eyebrow": "05 · WORLD",
+      "symbol": "TR",
+      "color": "gold",
+      "description": "Navigate places, people and problems.",
+      "lessons": [{ "id": "travel-coming-soon", "title": "Culture & Etiquette", "path": "", "available": false }]
+    },
+    {
+      "id": "family",
+      "title": "Family",
+      "eyebrow": "06 · CONNECTION",
+      "symbol": "FM",
+      "color": "pink",
+      "description": "Express the subtleties of close relationships.",
+      "lessons": [{ "id": "family-coming-soon", "title": "Everyday Conflicts", "path": "", "available": false }]
+    },
+    {
+      "id": "art",
+      "title": "Art",
+      "eyebrow": "07 · CULTURE",
+      "symbol": "AR",
+      "color": "orange",
+      "description": "Find language for creative expression.",
+      "lessons": [{ "id": "art-coming-soon", "title": "Creative Expression", "path": "", "available": false }]
+    },
+    {
+      "id": "psychology",
+      "title": "Psychology",
+      "eyebrow": "08 · MIND",
+      "symbol": "PS",
+      "color": "teal",
+      "description": "Understand habits, emotions and bias.",
+      "lessons": [{ "id": "psychology-coming-soon", "title": "Cognitive Biases", "path": "", "available": false }]
+    }
+  ]
+}

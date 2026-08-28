@@ -1,0 +1,22 @@
+{
+  "package": "english-feed-codex-starter",
+  "version": "0.1.0",
+  "created": "2026-08-27",
+  "files": [
+    "README.md",
+    "docs/PRODUCT_SPEC.md",
+    "docs/ARCHITECTURE.md",
+    "docs/CONTENT_RULES.md",
+    "schemas/lesson.schema.json",
+    "schemas/user-progress.schema.json",
+    "schemas/learning-item.schema.json",
+    "prompts/LESSON_REVIEWER_AGENT.md",
+    "prompts/CODEX_IMPLEMENTATION_BRIEF.md",
+    "prompts/LESSON_GENERATOR_AGENT.md",
+    "generator/AGENT_SPEC.md",
+    "generator/VALIDATOR_REQUIREMENTS.md",
+    "generator/curriculum-plan.sample.json",
+    "examples/topics.json",
+    "examples/lesson.partial-example.json"
+  ]
+}

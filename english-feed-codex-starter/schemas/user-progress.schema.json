@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "User Progress",
+  "type": "object",
+  "required": [
+    "itemId"
+  ],
+  "properties": {
+    "itemId": {
+      "type": "string"
+    },
+    "seenCount": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "liked": {
+      "type": "boolean"
+    },
+    "saved": {
+      "type": "boolean"
+    },
+    "note": {
+      "type": "string"
+    },
+    "quizCorrect": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "quizIncorrect": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "lastSeenAt": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "nextReviewAt": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "mastery": {
+      "type": "object",
+      "properties": {
+        "recognition": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "meaning": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "production": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "listening": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    }
+  }
+}

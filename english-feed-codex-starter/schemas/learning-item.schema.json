@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://english-feed.local/schemas/learning-item.schema.json",
+  "title": "Learning Item",
+  "type": "object",
+  "required": [
+    "id",
+    "type",
+    "term",
+    "translationDe",
+    "ipa",
+    "definitionEn",
+    "examples",
+    "youglish"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "type": {
+      "enum": [
+        "vocabulary",
+        "collocation"
+      ]
+    },
+    "term": {
+      "type": "string"
+    },
+    "translationDe": {
+      "type": "string"
+    },
+    "ipa": {
+      "type": "string"
+    },
+    "definitionEn": {
+      "type": "string"
+    },
+    "examples": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "required": [
+          "en",
+          "de"
+        ],
+        "properties": {
+          "en": {
+            "type": "string"
+          },
+          "de": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "image": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "searchPrompt": {
+          "type": "string"
+        },
+        "alt": {
+          "type": "string"
+        },
+        "source": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "license": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "audio": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        },
+        "voice": {
+          "type": "string"
+        }
+      }
+    },
+    "youglish": {
+      "type": "object",
+      "required": [
+        "query"
+      ],
+      "properties": {
+        "query": {
+          "type": "string"
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

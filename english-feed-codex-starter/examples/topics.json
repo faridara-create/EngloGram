@@ -1,0 +1,100 @@
+{
+  "topics": [
+    {
+      "id": "business",
+      "title": "Business",
+      "emoji": "💼",
+      "subtopics": [
+        "Meetings & Influence",
+        "Handling Conflict",
+        "Executive Communication",
+        "Negotiating Scope",
+        "Presenting Recommendations"
+      ]
+    },
+    {
+      "id": "technology",
+      "title": "Technology",
+      "emoji": "💻",
+      "subtopics": [
+        "AI at Work",
+        "Product Development",
+        "Cybersecurity",
+        "Digital Transformation",
+        "Software & Systems"
+      ]
+    },
+    {
+      "id": "space",
+      "title": "Space",
+      "emoji": "🚀",
+      "subtopics": [
+        "Human Spaceflight",
+        "Astronomy",
+        "Planetary Science",
+        "Space Technology",
+        "The Future of Exploration"
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Health",
+      "emoji": "🫀",
+      "subtopics": [
+        "Nutrition",
+        "Exercise",
+        "Sleep",
+        "Healthy Ageing",
+        "Medical Communication"
+      ]
+    },
+    {
+      "id": "travel",
+      "title": "Travel",
+      "emoji": "✈️",
+      "subtopics": [
+        "Hotels",
+        "Air Travel",
+        "Travel Problems",
+        "Culture & Etiquette",
+        "Planning a Trip"
+      ]
+    },
+    {
+      "id": "family",
+      "title": "Family",
+      "emoji": "👨‍👩‍👧‍👦",
+      "subtopics": [
+        "Relationships",
+        "Parenting",
+        "Everyday Conflicts",
+        "Family Traditions",
+        "Growing Up"
+      ]
+    },
+    {
+      "id": "art",
+      "title": "Art",
+      "emoji": "🎨",
+      "subtopics": [
+        "Museums",
+        "Painting",
+        "Film",
+        "Literature",
+        "Creative Expression"
+      ]
+    },
+    {
+      "id": "psychology",
+      "title": "Psychology",
+      "emoji": "🧠",
+      "subtopics": [
+        "Emotions",
+        "Habits",
+        "Motivation",
+        "Relationships",
+        "Cognitive Biases"
+      ]
+    }
+  ]
+}
