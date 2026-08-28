@@ -2,13 +2,16 @@ import { catalogSchema, lessonSchema, type Catalog, type Lesson } from './schema
 import { validateLesson } from './validateLesson'
 
 async function loadJson(path: string): Promise<unknown> {
-  const response = await fetch(path)
+  const publicPath = /^https?:\/\//.test(path)
+    ? path
+    : `${import.meta.env.BASE_URL}${path.replace(/^\/+/, '')}`
+  const response = await fetch(publicPath)
   if (!response.ok) throw new Error(`Content could not be loaded (${response.status}).`)
   return response.json()
 }
 
 export async function loadCatalog(): Promise<Catalog> {
-  return catalogSchema.parse(await loadJson('/content/catalog.json'))
+  return catalogSchema.parse(await loadJson('content/catalog.json'))
 }
 
 export async function loadLesson(path: string): Promise<Lesson> {

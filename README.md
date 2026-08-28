@@ -14,6 +14,10 @@ npm run build
 
 Vite prints the local browser address after `npm run dev` (normally `http://localhost:5173`).
 
+## Deployment
+
+Every push to `main` runs content validation, tests and the production build before deploying `dist` to GitHub Pages. The published app is available at `https://faridara-create.github.io/EngloGram/` once Pages uses **GitHub Actions** as its publishing source.
+
 ## Content architecture
 
 - `public/content/catalog.json` registers topics and available lessons.
