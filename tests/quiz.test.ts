@@ -1,13 +1,16 @@
-import { readFileSync } from 'node:fs'
+import { readFileSync, readdirSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import { createQuizQuestions } from '../src/content/quiz'
 import { lessonSchema } from '../src/content/schema'
 
-const lesson = lessonSchema.parse(JSON.parse(readFileSync(resolve(process.cwd(), 'public/content/lessons/business-meetings-influence-001.json'), 'utf8')))
+const lessonDirectory = resolve(process.cwd(), 'public/content/lessons')
+const lessons = readdirSync(lessonDirectory)
+  .filter((file) => file.endsWith('.json'))
+  .map((file) => lessonSchema.parse(JSON.parse(readFileSync(resolve(lessonDirectory, file), 'utf8'))))
 
 describe('runtime quiz transformation', () => {
-  it('builds ten questions with five unique lesson options and one correct answer', () => {
+  it.each(lessons.map((lesson) => [lesson.id, lesson] as const))('builds ten valid questions for %s', (_id, lesson) => {
     let seed = 17
     const random = () => ((seed = (seed * 9301 + 49297) % 233280) / 233280)
     const questions = createQuizQuestions(lesson, random)
