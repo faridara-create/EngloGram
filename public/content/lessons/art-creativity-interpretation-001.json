@@ -1,0 +1,612 @@
+{
+  "schemaVersion": "1.0",
+  "id": "art-creativity-interpretation-001",
+  "topicId": "art",
+  "subtopic": "CREATIVITY & INTERPRETATION",
+  "title": "Art, Creativity & Interpretation",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "evocative",
+      "type": "vocabulary",
+      "term": "evocative",
+      "translation": "eindringlich; Erinnerungen weckend",
+      "ipa": "/ɪˈvɒkətɪv/",
+      "definition": "bringing strong images, memories or feelings to mind",
+      "examples": [
+        {
+          "source": "During the discussion, the artwork seemed evocative once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte das Kunstwerk eindringlich; Erinnerungen weckend, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the artwork appeared evocative at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl das Kunstwerk zunächst eindringlich; Erinnerungen weckend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more evocative artwork could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker eindringlich; Erinnerungen weckend geprägte Sicht auf das Kunstwerk Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/evocative.webp",
+        "searchPrompt": "evocative painting in an artist studio",
+        "alt": "Evocative painting in an artist studio",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/27853838/",
+        "attribution": "Photo by Dinara Guseinova on Pexels",
+        "photographer": "Dinara Guseinova",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ]
+      },
+      "audio": {
+        "text": "evocative",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "evocative",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "vocabulary",
+        "evocative"
+      ]
+    },
+    {
+      "id": "intricate",
+      "type": "vocabulary",
+      "term": "intricate",
+      "translation": "detailreich; komplex",
+      "ipa": "/ˈɪntrɪkət/",
+      "definition": "containing many small and carefully arranged details",
+      "examples": [
+        {
+          "source": "During the discussion, the composition seemed intricate once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Komposition detailreich; komplex, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the composition appeared intricate at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Komposition zunächst detailreich; komplex erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more intricate composition could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker detailreich; komplex geprägte Sicht auf die Komposition Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/intricate.webp",
+        "searchPrompt": "visitor studying intricate sculpture",
+        "alt": "Visitor studying intricate sculpture",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/31332836/",
+        "attribution": "Photo by Gül Işık on Pexels",
+        "photographer": "Gül Işık",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ]
+      },
+      "audio": {
+        "text": "intricate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "intricate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "vocabulary",
+        "intricate"
+      ]
+    },
+    {
+      "id": "provocative",
+      "type": "vocabulary",
+      "term": "provocative",
+      "translation": "provokativ; herausfordernd",
+      "ipa": "/prəˈvɒkətɪv/",
+      "definition": "intended to make people think or react strongly",
+      "examples": [
+        {
+          "source": "During the discussion, the installation seemed provocative once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Installation provokativ; herausfordernd, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the installation appeared provocative at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Installation zunächst provokativ; herausfordernd erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more provocative installation could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker provokativ; herausfordernd geprägte Sicht auf die Installation Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/provocative.webp",
+        "searchPrompt": "provocative contemporary art installation",
+        "alt": "Provocative contemporary art installation",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/35079824/",
+        "attribution": "Photo by yun zhu on Pexels",
+        "photographer": "yun zhu",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ]
+      },
+      "audio": {
+        "text": "provocative",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "provocative",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "vocabulary",
+        "provocative"
+      ]
+    },
+    {
+      "id": "unconventional",
+      "type": "vocabulary",
+      "term": "unconventional",
+      "translation": "unkonventionell",
+      "ipa": "/ˌʌnkənˈvenʃənəl/",
+      "definition": "different from what is usually accepted or expected",
+      "examples": [
+        {
+          "source": "During the discussion, the technique seemed unconventional once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Technik unkonventionell, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the technique appeared unconventional at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Technik zunächst unkonventionell erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more unconventional technique could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker unkonventionell geprägte Sicht auf die Technik Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/unconventional.webp",
+        "searchPrompt": "unconventional artwork displayed in museum",
+        "alt": "Unconventional artwork displayed in museum",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/13614101/",
+        "attribution": "Photo by Ekaterina Astakhova on Pexels",
+        "photographer": "Ekaterina Astakhova",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ]
+      },
+      "audio": {
+        "text": "unconventional",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "unconventional",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "vocabulary",
+        "unconventional"
+      ]
+    },
+    {
+      "id": "timeless",
+      "type": "vocabulary",
+      "term": "timeless",
+      "translation": "zeitlos",
+      "ipa": "/ˈtaɪmləs/",
+      "definition": "remaining meaningful and attractive despite changing fashions",
+      "examples": [
+        {
+          "source": "During the discussion, the work seemed timeless once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte das Werk zeitlos, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the work appeared timeless at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl das Werk zunächst zeitlos erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more timeless work could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker zeitlos geprägte Sicht auf das Werk Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/timeless.webp",
+        "searchPrompt": "timeless sculpture and painting in studio",
+        "alt": "Timeless sculpture and painting in studio",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/10322846/",
+        "attribution": "Photo by Lisett Kruusimäe on Pexels",
+        "photographer": "Lisett Kruusimäe",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ]
+      },
+      "audio": {
+        "text": "timeless",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "timeless",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "vocabulary",
+        "timeless"
+      ]
+    },
+    {
+      "id": "convey-a-message",
+      "type": "collocation",
+      "term": "convey a message",
+      "translation": "eine Botschaft vermitteln",
+      "ipa": "/kənˈveɪ ə ˈmesɪdʒ/",
+      "definition": "to communicate an idea or feeling through a work",
+      "examples": [
+        {
+          "source": "The group decided to convey a message before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, eine Botschaft vermitteln, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to convey a message, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie eine Botschaft vermitteln sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to convey a message, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, eine Botschaft vermitteln, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/convey-a-message.webp",
+        "searchPrompt": "artist painting to convey a message",
+        "alt": "Artist painting to convey a message",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/33924920/",
+        "attribution": "Photo by Tahir Xəlfə on Pexels",
+        "photographer": "Tahir Xəlfə",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ]
+      },
+      "audio": {
+        "text": "convey a message",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "convey a message",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "collocation",
+        "convey",
+        "a"
+      ]
+    },
+    {
+      "id": "defy-conventions",
+      "type": "collocation",
+      "term": "defy conventions",
+      "translation": "Konventionen bewusst missachten",
+      "ipa": "/dɪˈfaɪ kənˈvenʃənz/",
+      "definition": "to deliberately reject established artistic rules",
+      "examples": [
+        {
+          "source": "The group decided to defy conventions before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, Konventionen bewusst missachten, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to defy conventions, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie Konventionen bewusst missachten sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to defy conventions, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, Konventionen bewusst missachten, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/defy-conventions.webp",
+        "searchPrompt": "experimental art studio that defies conventions",
+        "alt": "Experimental art studio that defies conventions",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/5682333/",
+        "attribution": "Photo by Anna Shvets on Pexels",
+        "photographer": "Anna Shvets",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ]
+      },
+      "audio": {
+        "text": "defy conventions",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "defy conventions",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "collocation",
+        "defy",
+        "conventions"
+      ]
+    },
+    {
+      "id": "draw-inspiration-from",
+      "type": "collocation",
+      "term": "draw inspiration from",
+      "translation": "sich von etwas inspirieren lassen",
+      "ipa": "/drɔː ˌɪnspəˈreɪʃən frəm/",
+      "definition": "to develop creative ideas from a source",
+      "examples": [
+        {
+          "source": "The group decided to draw inspiration from before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, sich von etwas inspirieren lassen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to draw inspiration from, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie sich von etwas inspirieren lassen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to draw inspiration from, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, sich von etwas inspirieren lassen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/draw-inspiration-from.webp",
+        "searchPrompt": "artist drawing inspiration in a gallery",
+        "alt": "Artist drawing inspiration in a gallery",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/37486742/",
+        "attribution": "Photo by Adalet gok on Pexels",
+        "photographer": "Adalet gok",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ]
+      },
+      "audio": {
+        "text": "draw inspiration from",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "draw inspiration from",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "collocation",
+        "draw",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "leave-room-for-interpretation",
+      "type": "collocation",
+      "term": "leave room for interpretation",
+      "translation": "Interpretationsspielraum lassen",
+      "ipa": "/liːv ruːm fər ɪnˌtɜːprɪˈteɪʃən/",
+      "definition": "to avoid fixing one single meaning",
+      "examples": [
+        {
+          "source": "The group decided to leave room for interpretation before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, Interpretationsspielraum lassen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to leave room for interpretation, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie Interpretationsspielraum lassen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to leave room for interpretation, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, Interpretationsspielraum lassen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/leave-room-for-interpretation.webp",
+        "searchPrompt": "abstract painting open to interpretation",
+        "alt": "Abstract painting open to interpretation",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1646953/",
+        "attribution": "Photo by Steve Johnson on Pexels",
+        "photographer": "Steve Johnson",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ]
+      },
+      "audio": {
+        "text": "leave room for interpretation",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "leave room for interpretation",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "collocation",
+        "leave",
+        "room"
+      ]
+    },
+    {
+      "id": "bring-a-vision-to-life",
+      "type": "collocation",
+      "term": "bring a vision to life",
+      "translation": "eine Vision Wirklichkeit werden lassen",
+      "ipa": "/brɪŋ ə ˈvɪʒən tə laɪf/",
+      "definition": "to turn a creative idea into a finished work",
+      "examples": [
+        {
+          "source": "The group decided to bring a vision to life before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, eine Vision Wirklichkeit werden lassen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to bring a vision to life, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie eine Vision Wirklichkeit werden lassen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to bring a vision to life, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, eine Vision Wirklichkeit werden lassen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/bring-a-vision-to-life.webp",
+        "searchPrompt": "artist bringing a painting to life",
+        "alt": "Artist bringing a painting to life",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1763075/",
+        "attribution": "Photo by Daian Gan on Pexels",
+        "photographer": "Daian Gan",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ]
+      },
+      "audio": {
+        "text": "bring a vision to life",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "bring a vision to life",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "collocation",
+        "bring",
+        "a"
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Empty Space in the Exhibition",
+    "pages": [
+      {
+        "text": "Iris arrived at a small gallery preparing an exhibition by three emerging artists. The setting felt evocative, but the people involved did not yet share a clear plan. Rather than rushing towards an answer, Iris asked the group to convey a message and explain what success would mean in practice."
+      },
+      {
+        "text": "A second difficulty soon emerged. The existing approach looked intricate to some participants, while others feared that the change would create new problems. They agreed to defy conventions so that every perspective could be tested against the same evidence instead of personal preference."
+      },
+      {
+        "text": "The most provocative moment came when a quiet participant questioned the assumption behind the original plan. Iris encouraged everyone to draw inspiration from. That pause did not weaken the discussion; it made the risks visible and allowed the group to respond with more care."
+      },
+      {
+        "text": "By the afternoon, one part of the proposal seemed unconventional. The group therefore chose to leave room for interpretation rather than defend an option simply because time had already been invested in it. The decision created room for a practical alternative that nobody had considered that morning."
+      },
+      {
+        "text": "One final issue remained timeless. To resolve it, the participants had to bring a vision to life while keeping their shared purpose in view. Iris summarised the strongest points, invited one last objection and made sure that the next steps had clear owners."
+      },
+      {
+        "text": "The result was an exhibition whose careful contrasts encouraged visitors to form their own interpretations. Nobody pretended that uncertainty had disappeared, yet the group left with a decision they could explain and support. Iris reflected that progress rarely comes from certainty alone; it comes from precise language, attentive listening and the courage to revise a plan."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "evocative",
+      "definition": "bringing strong images, memories or feelings to mind"
+    },
+    {
+      "itemId": "intricate",
+      "definition": "containing many small and carefully arranged details"
+    },
+    {
+      "itemId": "provocative",
+      "definition": "intended to make people think or react strongly"
+    },
+    {
+      "itemId": "unconventional",
+      "definition": "different from what is usually accepted or expected"
+    },
+    {
+      "itemId": "timeless",
+      "definition": "remaining meaningful and attractive despite changing fashions"
+    },
+    {
+      "itemId": "convey-a-message",
+      "definition": "to communicate an idea or feeling through a work"
+    },
+    {
+      "itemId": "defy-conventions",
+      "definition": "to deliberately reject established artistic rules"
+    },
+    {
+      "itemId": "draw-inspiration-from",
+      "definition": "to develop creative ideas from a source"
+    },
+    {
+      "itemId": "leave-room-for-interpretation",
+      "definition": "to avoid fixing one single meaning"
+    },
+    {
+      "itemId": "bring-a-vision-to-life",
+      "definition": "to turn a creative idea into a finished work"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-28",
+    "reviewStatus": "approved",
+    "tags": [
+      "art",
+      "c1",
+      "english-german"
+    ]
+  }
+}
