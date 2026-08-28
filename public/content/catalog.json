@@ -24,7 +24,14 @@
       "symbol": "TX",
       "color": "blue",
       "description": "Discuss products, AI and digital change.",
-      "lessons": [{ "id": "technology-coming-soon", "title": "AI at Work", "path": "", "available": false }]
+      "lessons": [
+        {
+          "id": "technology-ai-digital-transformation-001",
+          "title": "AI & Digital Transformation",
+          "path": "/content/lessons/technology-ai-digital-transformation-001.json",
+          "available": true
+        }
+      ]
     },
     {
       "id": "space",
@@ -33,7 +40,14 @@
       "symbol": "SP",
       "color": "violet",
       "description": "Explore discovery beyond our atmosphere.",
-      "lessons": [{ "id": "space-coming-soon", "title": "Human Spaceflight", "path": "", "available": false }]
+      "lessons": [
+        {
+          "id": "space-exploring-universe-001",
+          "title": "Exploring the Universe",
+          "path": "/content/lessons/space-exploring-universe-001.json",
+          "available": true
+        }
+      ]
     },
     {
       "id": "health",
@@ -42,7 +56,14 @@
       "symbol": "HL",
       "color": "green",
       "description": "Talk about wellbeing with precision.",
-      "lessons": [{ "id": "health-coming-soon", "title": "Healthy Ageing", "path": "", "available": false }]
+      "lessons": [
+        {
+          "id": "health-habits-wellbeing-001",
+          "title": "Health, Habits & Wellbeing",
+          "path": "/content/lessons/health-habits-wellbeing-001.json",
+          "available": true
+        }
+      ]
     },
     {
       "id": "travel",
@@ -51,7 +72,14 @@
       "symbol": "TR",
       "color": "gold",
       "description": "Navigate places, people and problems.",
-      "lessons": [{ "id": "travel-coming-soon", "title": "Culture & Etiquette", "path": "", "available": false }]
+      "lessons": [
+        {
+          "id": "travel-unexpected-journeys-001",
+          "title": "Travel Experiences & Unexpected Situations",
+          "path": "/content/lessons/travel-unexpected-journeys-001.json",
+          "available": true
+        }
+      ]
     },
     {
       "id": "family",
@@ -60,7 +88,14 @@
       "symbol": "FM",
       "color": "pink",
       "description": "Express the subtleties of close relationships.",
-      "lessons": [{ "id": "family-coming-soon", "title": "Everyday Conflicts", "path": "", "available": false }]
+      "lessons": [
+        {
+          "id": "family-relationships-dynamics-001",
+          "title": "Relationships & Family Dynamics",
+          "path": "/content/lessons/family-relationships-dynamics-001.json",
+          "available": true
+        }
+      ]
     },
     {
       "id": "art",
@@ -69,7 +104,14 @@
       "symbol": "AR",
       "color": "orange",
       "description": "Find language for creative expression.",
-      "lessons": [{ "id": "art-coming-soon", "title": "Creative Expression", "path": "", "available": false }]
+      "lessons": [
+        {
+          "id": "art-creativity-interpretation-001",
+          "title": "Art, Creativity & Interpretation",
+          "path": "/content/lessons/art-creativity-interpretation-001.json",
+          "available": true
+        }
+      ]
     },
     {
       "id": "psychology",
@@ -78,7 +120,14 @@
       "symbol": "PS",
       "color": "teal",
       "description": "Understand habits, emotions and bias.",
-      "lessons": [{ "id": "psychology-coming-soon", "title": "Cognitive Biases", "path": "", "available": false }]
+      "lessons": [
+        {
+          "id": "psychology-emotions-decisions-001",
+          "title": "Behaviour, Emotions & Decision-Making",
+          "path": "/content/lessons/psychology-emotions-decisions-001.json",
+          "available": true
+        }
+      ]
     }
   ]
 }
