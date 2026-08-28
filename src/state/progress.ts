@@ -16,6 +16,8 @@ export type LessonProgress = {
   quiz: Record<string, QuizAnswer>
   completed: boolean
   completedAt: string | null
+  currentPost: number
+  lastVisitedAt: string | null
 }
 
 const emptyProgress: LessonProgress = {
@@ -23,23 +25,25 @@ const emptyProgress: LessonProgress = {
   quiz: {},
   completed: false,
   completedAt: null,
+  currentPost: 0,
+  lastVisitedAt: null,
 }
 
 function storageKey(lessonId: string) {
   return `englogram:progress:${lessonId}`
 }
 
-function readProgress(lessonId: string): LessonProgress {
+export function readLessonProgress(lessonId: string): LessonProgress {
   try {
     const stored = localStorage.getItem(storageKey(lessonId))
-    return stored ? { ...emptyProgress, ...JSON.parse(stored) } : emptyProgress
+    return stored ? { ...emptyProgress, ...JSON.parse(stored) } : { ...emptyProgress }
   } catch {
     return emptyProgress
   }
 }
 
 export function useLessonProgress(lessonId: string) {
-  const [progress, setProgress] = useState<LessonProgress>(() => readProgress(lessonId))
+  const [progress, setProgress] = useState<LessonProgress>(() => readLessonProgress(lessonId))
 
   useEffect(() => {
     setProgress(readProgress(lessonId))
@@ -77,5 +81,13 @@ export function useLessonProgress(lessonId: string) {
     })
   }, [])
 
-  return { progress, updateItem, answerQuestion, completeLesson }
+  const updateCurrentPost = useCallback((currentPost: number) => {
+    setProgress((current) => ({
+      ...current,
+      currentPost,
+      lastVisitedAt: new Date().toISOString(),
+    }))
+  }, [])
+
+  return { progress, updateItem, answerQuestion, completeLesson, updateCurrentPost }
 }

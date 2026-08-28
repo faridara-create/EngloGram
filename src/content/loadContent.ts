@@ -10,6 +10,12 @@ async function loadJson(path: string): Promise<unknown> {
   return response.json()
 }
 
+export function resolvePublicAsset(path: string): string {
+  return /^https?:\/\//.test(path)
+    ? path
+    : `${import.meta.env.BASE_URL}${path.replace(/^\/+/, '')}`
+}
+
 export async function loadCatalog(): Promise<Catalog> {
   return catalogSchema.parse(await loadJson('content/catalog.json'))
 }

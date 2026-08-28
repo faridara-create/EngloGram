@@ -78,6 +78,12 @@ export function validateLesson(input: unknown, registry?: Registry): ValidationR
 
   const storyText = lesson.story.pages.map((page) => page.text).join(' ')
   lesson.items.forEach((item, index) => {
+    if (!item.image.url) {
+      add({ severity: 'error', path: `items.${index}.image.url`, code: 'MISSING_IMAGE', message: `“${item.term}” needs a real photographic image.` })
+    }
+    if (item.image.url && (!item.image.provider || !item.image.source || !item.image.license)) {
+      add({ severity: 'error', path: `items.${index}.image`, code: 'INCOMPLETE_IMAGE_CREDIT', message: `“${item.term}” needs provider, source and license metadata.` })
+    }
     if (!storyContainsItem(storyText, item.term, item.aliases)) {
       add({ severity: 'error', path: `items.${index}.term`, code: 'STORY_COVERAGE', message: `“${item.term}” or one of its declared variants is missing from the story.` })
     }

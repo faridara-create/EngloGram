@@ -17,10 +17,12 @@ export const learningItemSchema = z.object({
   definition: nonEmpty,
   examples: z.array(exampleSchema).length(3),
   image: z.object({
-    url: z.string().url().nullable(),
+    url: nonEmpty.nullable(),
     searchPrompt: nonEmpty,
     alt: nonEmpty,
+    provider: z.string().nullable(),
     source: z.string().nullable(),
+    attribution: z.string().nullable(),
     license: z.string().nullable(),
     palette: z.tuple([nonEmpty, nonEmpty]),
   }),
