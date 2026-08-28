@@ -31,12 +31,18 @@ export function LearningPost({ item, position, isActive, progress, onUpdate, onH
   const { speak, stop, speaking, supported } = useSpeech()
   const practice = useSpeechRecognition()
   const [noteOpen, setNoteOpen] = useState(false)
+  const [youglishLoaded, setYouglishLoaded] = useState(false)
+  const [practiceTarget, setPracticeTarget] = useState('')
   const lastAutoRef = useRef('')
   const state = { liked: false, saved: false, note: '', ...progress }
   const paletteStyle = {
     '--tone-a': item.image.palette[0],
     '--tone-b': item.image.palette[1],
   } as CSSProperties
+
+  useEffect(() => {
+    if (isActive && index === 2) setYouglishLoaded(true)
+  }, [index, isActive])
 
   useEffect(() => {
     if (!isActive) {
@@ -64,6 +70,18 @@ export function LearningPost({ item, position, isActive, progress, onUpdate, onH
       practice.stopListening()
     }
   }, [isActive, item.audio.text, item.examples, item.id, practice.stopListening, settledIndex, speak, stop])
+
+  const listenToExample = (sentence: string) => {
+    practice.stopListening()
+    setPracticeTarget('')
+    speak(sentence, 'en-GB')
+  }
+
+  const practiseExample = (sentence: string) => {
+    stop()
+    setPracticeTarget(sentence)
+    practice.startListening(sentence)
+  }
 
   const share = async () => {
     const text = `EngloGram\n${item.term}\n${item.translation}\n\n${item.examples[0].source}`
@@ -140,8 +158,8 @@ export function LearningPost({ item, position, isActive, progress, onUpdate, onH
           <p className="slide-label">03 · IN THE WILD</p>
           <div className="external-heading"><span>Real people.</span><h2>Real context.</h2><p>Hear “{item.term}” in authentic English clips.</p></div>
           <div className="widget-shell">
-            {isActive && index === 2
-              ? <YouGlishWidget query={item.youglish.query} language={item.youglish.language} accent={item.youglish.accent} />
+            {youglishLoaded
+              ? <YouGlishWidget query={item.youglish.query} language={item.youglish.language} accent={item.youglish.accent} active={isActive && index === 2} />
               : <div className="widget-loading">Swipe here to load YouGlish.</div>}
           </div>
           <small className="privacy-copy">
@@ -163,11 +181,25 @@ export function LearningPost({ item, position, isActive, progress, onUpdate, onH
               <p className="translated-sentence">{example.translation}</p>
             </div>
             <div className="practice-actions">
-              <button onClick={() => speak(example.source, 'en-GB')} disabled={!supported}><SocialIcon name="speaker" /><span>Listen / Replay</span></button>
-              <button onClick={() => practice.listening ? practice.stopListening() : practice.startListening(example.source)}><SocialIcon name="microphone" /><span>{practice.listening ? 'Stop listening' : 'Read aloud'}</span></button>
+              <button onClick={() => listenToExample(example.source)} disabled={!supported}><SocialIcon name="speaker" /><span>Listen</span></button>
+              <button onClick={() => practice.listening && practiceTarget === example.source ? practice.stopListening() : practiseExample(example.source)} disabled={!practice.supported}>
+                <SocialIcon name="microphone" /><span>{practice.listening && practiceTarget === example.source ? 'Stop' : 'Read aloud'}</span>
+              </button>
             </div>
-            {practice.feedback && <p className="practice-feedback" role="status">{practice.feedback}</p>}
-            {!practice.supported && <p className="practice-capability">Voice feedback is unavailable here; use Listen / Replay and read the whole sentence aloud.</p>}
+            {practice.assessment?.expected === example.source && (
+              <div className="practice-feedback" role="status">
+                <span>Recognised sentence:</span>
+                <q>{practice.assessment.transcript}</q>
+                <div><b>Match: {practice.assessment.score}%</b><button onClick={() => practiseExample(example.source)}>Try again</button></div>
+              </div>
+            )}
+            {practice.error && practiceTarget === example.source && (
+              <div className="practice-feedback practice-error" role="status">
+                <span>{practice.error}</span>
+                {practice.supported && <button onClick={() => practiseExample(example.source)}>Try again</button>}
+              </div>
+            )}
+            {!practice.supported && <p className="practice-capability">Speaking practice is not supported in this browser.</p>}
           </section>
         ))}
       </div>
