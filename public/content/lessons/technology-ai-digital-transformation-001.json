@@ -1,0 +1,612 @@
+{
+  "schemaVersion": "1.0",
+  "id": "technology-ai-digital-transformation-001",
+  "topicId": "technology",
+  "subtopic": "AI & DIGITAL TRANSFORMATION",
+  "title": "AI & Digital Transformation",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "ubiquitous",
+      "type": "vocabulary",
+      "term": "ubiquitous",
+      "translation": "allgegenwärtig",
+      "ipa": "/juːˈbɪkwɪtəs/",
+      "definition": "present or found everywhere",
+      "examples": [
+        {
+          "source": "During the discussion, the digital presence seemed ubiquitous once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die digitale Präsenz allgegenwärtig, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the digital presence appeared ubiquitous at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die digitale Präsenz zunächst allgegenwärtig erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more ubiquitous digital presence could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker allgegenwärtig geprägte Sicht auf die digitale Präsenz Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/ubiquitous.webp",
+        "searchPrompt": "people using connected devices in everyday work",
+        "alt": "People using connected devices in everyday work",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3861969/",
+        "attribution": "Photo by ThisIsEngineering on Pexels",
+        "photographer": "ThisIsEngineering",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ]
+      },
+      "audio": {
+        "text": "ubiquitous",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "ubiquitous",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "vocabulary",
+        "ubiquitous"
+      ]
+    },
+    {
+      "id": "scalable",
+      "type": "vocabulary",
+      "term": "scalable",
+      "translation": "skalierbar",
+      "ipa": "/ˈskeɪləbəl/",
+      "definition": "able to grow without losing effectiveness",
+      "examples": [
+        {
+          "source": "During the discussion, the platform seemed scalable once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Plattform skalierbar, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the platform appeared scalable at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Plattform zunächst skalierbar erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more scalable platform could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker skalierbar geprägte Sicht auf die Plattform Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/scalable.webp",
+        "searchPrompt": "software team planning a scalable cloud platform",
+        "alt": "Software team planning a scalable cloud platform",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3861958/",
+        "attribution": "Photo by ThisIsEngineering on Pexels",
+        "photographer": "ThisIsEngineering",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ]
+      },
+      "audio": {
+        "text": "scalable",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "scalable",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "vocabulary",
+        "scalable"
+      ]
+    },
+    {
+      "id": "disruptive",
+      "type": "vocabulary",
+      "term": "disruptive",
+      "translation": "grundlegend verändernd",
+      "ipa": "/dɪsˈrʌptɪv/",
+      "definition": "causing major change to an established system",
+      "examples": [
+        {
+          "source": "During the discussion, the innovation seemed disruptive once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Innovation grundlegend verändernd, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the innovation appeared disruptive at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Innovation zunächst grundlegend verändernd erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more disruptive innovation could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker grundlegend verändernd geprägte Sicht auf die Innovation Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/disruptive.webp",
+        "searchPrompt": "technology workshop discussing disruptive innovation",
+        "alt": "Technology workshop discussing disruptive innovation",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3183150/",
+        "attribution": "Photo by fauxels on Pexels",
+        "photographer": "fauxels",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ]
+      },
+      "audio": {
+        "text": "disruptive",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "disruptive",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "vocabulary",
+        "disruptive"
+      ]
+    },
+    {
+      "id": "obsolete",
+      "type": "vocabulary",
+      "term": "obsolete",
+      "translation": "veraltet; überholt",
+      "ipa": "/ˈɒbsəliːt/",
+      "definition": "no longer useful because something newer exists",
+      "examples": [
+        {
+          "source": "During the discussion, the system seemed obsolete once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte das System veraltet; überholt, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the system appeared obsolete at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl das System zunächst veraltet; überholt erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more obsolete system could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker veraltet; überholt geprägte Sicht auf das System Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/obsolete.webp",
+        "searchPrompt": "office worker replacing outdated computer equipment",
+        "alt": "Office worker replacing outdated computer equipment",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3184465/",
+        "attribution": "Photo by fauxels on Pexels",
+        "photographer": "fauxels",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ]
+      },
+      "audio": {
+        "text": "obsolete",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "obsolete",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "vocabulary",
+        "obsolete"
+      ]
+    },
+    {
+      "id": "interoperable",
+      "type": "vocabulary",
+      "term": "interoperable",
+      "translation": "kompatibel und vernetzbar",
+      "ipa": "/ˌɪntərˈɒpərəbəl/",
+      "definition": "able to exchange and use information with other systems",
+      "examples": [
+        {
+          "source": "During the discussion, the service seemed interoperable once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte der Dienst kompatibel und vernetzbar, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the service appeared interoperable at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl der Dienst zunächst kompatibel und vernetzbar erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more interoperable service could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker kompatibel und vernetzbar geprägte Sicht auf der Dienst Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/interoperable.webp",
+        "searchPrompt": "developers connecting different digital systems",
+        "alt": "Developers connecting different digital systems",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1181244/",
+        "attribution": "Photo by Christina Morillo on Pexels",
+        "photographer": "Christina Morillo",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ]
+      },
+      "audio": {
+        "text": "interoperable",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "interoperable",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "vocabulary",
+        "interoperable"
+      ]
+    },
+    {
+      "id": "harness-the-potential",
+      "type": "collocation",
+      "term": "harness the potential",
+      "translation": "das Potenzial ausschöpfen",
+      "ipa": "/ˈhɑːnɪs ðə pəˈtenʃəl/",
+      "definition": "to use an opportunity or technology effectively",
+      "examples": [
+        {
+          "source": "The group decided to harness the potential before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, das Potenzial ausschöpfen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to harness the potential, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie das Potenzial ausschöpfen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to harness the potential, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, das Potenzial ausschöpfen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/harness-the-potential.webp",
+        "searchPrompt": "diverse team exploring useful artificial intelligence",
+        "alt": "Diverse team exploring useful artificial intelligence",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1181675/",
+        "attribution": "Photo by Christina Morillo on Pexels",
+        "photographer": "Christina Morillo",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ]
+      },
+      "audio": {
+        "text": "harness the potential",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "harness the potential",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "collocation",
+        "harness",
+        "the"
+      ]
+    },
+    {
+      "id": "bridge-the-digital-divide",
+      "type": "collocation",
+      "term": "bridge the digital divide",
+      "translation": "die digitale Kluft überbrücken",
+      "ipa": "/brɪdʒ ðə ˌdɪdʒɪtəl dɪˈvaɪd/",
+      "definition": "to reduce unequal access to digital technology",
+      "examples": [
+        {
+          "source": "The group decided to bridge the digital divide before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, die digitale Kluft überbrücken, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to bridge the digital divide, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie die digitale Kluft überbrücken sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to bridge the digital divide, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, die digitale Kluft überbrücken, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/bridge-the-digital-divide.webp",
+        "searchPrompt": "community technology training with laptops",
+        "alt": "Community technology training with laptops",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3861458/",
+        "attribution": "Photo by ThisIsEngineering on Pexels",
+        "photographer": "ThisIsEngineering",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ]
+      },
+      "audio": {
+        "text": "bridge the digital divide",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "bridge the digital divide",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "collocation",
+        "bridge",
+        "the"
+      ]
+    },
+    {
+      "id": "safeguard-privacy",
+      "type": "collocation",
+      "term": "safeguard privacy",
+      "translation": "die Privatsphäre schützen",
+      "ipa": "/ˈseɪfɡɑːd ˈprɪvəsi/",
+      "definition": "to protect personal information from misuse",
+      "examples": [
+        {
+          "source": "The group decided to safeguard privacy before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, die Privatsphäre schützen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to safeguard privacy, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie die Privatsphäre schützen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to safeguard privacy, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, die Privatsphäre schützen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/safeguard-privacy.webp",
+        "searchPrompt": "professional reviewing digital privacy settings",
+        "alt": "Professional reviewing digital privacy settings",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8386440/",
+        "attribution": "Photo by Pavel Danilyuk on Pexels",
+        "photographer": "Pavel Danilyuk",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ]
+      },
+      "audio": {
+        "text": "safeguard privacy",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "safeguard privacy",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "collocation",
+        "safeguard",
+        "privacy"
+      ]
+    },
+    {
+      "id": "automate-a-process",
+      "type": "collocation",
+      "term": "automate a process",
+      "translation": "einen Prozess automatisieren",
+      "ipa": "/ˈɔːtəmeɪt ə ˈprəʊses/",
+      "definition": "to make a repeated task operate automatically",
+      "examples": [
+        {
+          "source": "The group decided to automate a process before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, einen Prozess automatisieren, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to automate a process, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie einen Prozess automatisieren sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to automate a process, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, einen Prozess automatisieren, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/automate-a-process.webp",
+        "searchPrompt": "operations team mapping an automated workflow",
+        "alt": "Operations team mapping an automated workflow",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8439093/",
+        "attribution": "Photo by Pavel Danilyuk on Pexels",
+        "photographer": "Pavel Danilyuk",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ]
+      },
+      "audio": {
+        "text": "automate a process",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "automate a process",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "collocation",
+        "automate",
+        "a"
+      ]
+    },
+    {
+      "id": "keep-pace-with",
+      "type": "collocation",
+      "term": "keep pace with",
+      "translation": "mit etwas Schritt halten",
+      "ipa": "/kiːp ˈpeɪs wɪð/",
+      "definition": "to develop as quickly as something that is changing",
+      "examples": [
+        {
+          "source": "The group decided to keep pace with before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, mit etwas Schritt halten, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to keep pace with, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie mit etwas Schritt halten sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to keep pace with, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, mit etwas Schritt halten, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/keep-pace-with.webp",
+        "searchPrompt": "professional learning new technology at work",
+        "alt": "Professional learning new technology at work",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/5473955/",
+        "attribution": "Photo by cottonbro studio on Pexels",
+        "photographer": "cottonbro studio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ]
+      },
+      "audio": {
+        "text": "keep pace with",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "keep pace with",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "collocation",
+        "keep",
+        "pace"
+      ]
+    }
+  ],
+  "story": {
+    "title": "The System Nobody Wanted",
+    "pages": [
+      {
+        "text": "Maya arrived at a regional hospital preparing to replace its ageing appointment system. The setting felt ubiquitous, but the people involved did not yet share a clear plan. Rather than rushing towards an answer, Maya asked the group to harness the potential and explain what success would mean in practice."
+      },
+      {
+        "text": "A second difficulty soon emerged. The existing approach looked scalable to some participants, while others feared that the change would create new problems. They agreed to bridge the digital divide so that every perspective could be tested against the same evidence instead of personal preference."
+      },
+      {
+        "text": "The most disruptive moment came when a quiet participant questioned the assumption behind the original plan. Maya encouraged everyone to safeguard privacy. That pause did not weaken the discussion; it made the risks visible and allowed the group to respond with more care."
+      },
+      {
+        "text": "By the afternoon, one part of the proposal seemed obsolete. The group therefore chose to automate a process rather than defend an option simply because time had already been invested in it. The decision created room for a practical alternative that nobody had considered that morning."
+      },
+      {
+        "text": "One final issue remained interoperable. To resolve it, the participants had to keep pace with while keeping their shared purpose in view. Maya summarised the strongest points, invited one last objection and made sure that the next steps had clear owners."
+      },
+      {
+        "text": "The result was a phased launch that staff understood and patients could actually use. Nobody pretended that uncertainty had disappeared, yet the group left with a decision they could explain and support. Maya reflected that progress rarely comes from certainty alone; it comes from precise language, attentive listening and the courage to revise a plan."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "ubiquitous",
+      "definition": "present or found everywhere"
+    },
+    {
+      "itemId": "scalable",
+      "definition": "able to grow without losing effectiveness"
+    },
+    {
+      "itemId": "disruptive",
+      "definition": "causing major change to an established system"
+    },
+    {
+      "itemId": "obsolete",
+      "definition": "no longer useful because something newer exists"
+    },
+    {
+      "itemId": "interoperable",
+      "definition": "able to exchange and use information with other systems"
+    },
+    {
+      "itemId": "harness-the-potential",
+      "definition": "to use an opportunity or technology effectively"
+    },
+    {
+      "itemId": "bridge-the-digital-divide",
+      "definition": "to reduce unequal access to digital technology"
+    },
+    {
+      "itemId": "safeguard-privacy",
+      "definition": "to protect personal information from misuse"
+    },
+    {
+      "itemId": "automate-a-process",
+      "definition": "to make a repeated task operate automatically"
+    },
+    {
+      "itemId": "keep-pace-with",
+      "definition": "to develop as quickly as something that is changing"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-28",
+    "reviewStatus": "approved",
+    "tags": [
+      "technology",
+      "c1",
+      "english-german"
+    ]
+  }
+}
