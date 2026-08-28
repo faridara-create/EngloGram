@@ -23,6 +23,7 @@ export const learningItemSchema = z.object({
     provider: z.string().nullable(),
     source: z.string().nullable(),
     attribution: z.string().nullable(),
+    photographer: nonEmpty,
     license: z.string().nullable(),
     palette: z.tuple([nonEmpty, nonEmpty]),
   }),
