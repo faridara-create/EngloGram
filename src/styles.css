@@ -483,3 +483,142 @@ button:focus-visible, a:focus-visible, textarea:focus-visible { outline: 3px sol
 .youglish-slide { padding-top: max(48px, calc(36px + env(safe-area-inset-top))); }
 .vertical-rail { top: 18%; height: 64%; }
 
+
+/* Video-first YouGlish and inline sentence practice */
+.youglish-slide {
+  padding: max(43px, calc(34px + env(safe-area-inset-top))) 12px 42px;
+}
+.youglish-slide .slide-label { top: max(23px, calc(14px + env(safe-area-inset-top))); left: 14px; }
+.external-heading span { font-size: 15px; }
+.external-heading h2 { margin: -1px 0 3px; font-size: 31px; line-height: .92; }
+.external-heading p { font-size: 11px; line-height: 1.3; }
+.widget-shell {
+  display: flex;
+  flex: 1 1 auto;
+  width: 100%;
+  min-height: 0;
+  max-height: 430px;
+  margin-top: 8px;
+}
+.youglish-frame {
+  position: relative;
+  display: grid;
+  grid-template-rows: minmax(220px, 1fr) auto auto;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+}
+.youglish-target {
+  width: 100%;
+  height: 100%;
+  min-height: 220px;
+  overflow: hidden;
+}
+.youglish-target > iframe,
+.youglish-target iframe {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 220px !important;
+  max-height: 100% !important;
+  border: 0;
+}
+.widget-loading {
+  position: absolute;
+  z-index: 3;
+  inset: 0 0 auto;
+  height: 220px;
+  min-height: 0;
+  background: #111714;
+}
+.youglish-panel { padding: 6px 7px 7px; }
+.youglish-count { margin-bottom: 5px; font-size: 9px; }
+.youglish-controls { grid-template-columns: 1.18fr .72fr 1.18fr; gap: 5px; }
+.youglish-controls button {
+  min-height: 42px;
+  padding: 5px 4px;
+  font-size: 9px;
+  line-height: 1.15;
+}
+.youglish-controls button:disabled { opacity: .38; }
+.youglish-controls .youglish-next {
+  border-color: #f39076;
+  background: #f39076;
+  color: #17211d;
+}
+.youglish-credit { margin: 3px 8px 5px; font-size: 9px; }
+.privacy-copy { margin-top: 6px; font-size: 8px; line-height: 1.25; }
+
+.example-slide {
+  padding: max(58px, calc(48px + env(safe-area-inset-top))) 18px 36px;
+}
+.example-slide .slide-label { top: max(42px, calc(32px + env(safe-area-inset-top))); left: 18px; }
+.quote-mark { top: 42px; right: 14px; font-size: 66px; }
+.example-copy { margin-top: 10px; }
+.source-sentence { font-size: clamp(23px, 6.25vw, 31px); line-height: 1.08; }
+.rule { margin: 11px 0 9px; }
+.translated-sentence { font-size: clamp(12.5px, 3.45vw, 14px); line-height: 1.32; }
+.practice-actions { margin: 10px 0 18px; gap: 6px; }
+.practice-actions button { min-height: 41px; padding: 6px 8px; }
+.practice-feedback,
+.practice-capability {
+  position: static;
+  left: auto;
+  right: auto;
+  bottom: auto;
+  flex: 0 0 auto;
+  margin: -9px 0 18px;
+  font-size: 9px;
+  line-height: 1.25;
+}
+.practice-feedback {
+  display: grid;
+  gap: 3px;
+  padding: 7px 9px;
+  border: 1px solid rgba(50,109,88,.2);
+  border-radius: 10px;
+  background: rgba(50,109,88,.08);
+  color: #326d58;
+  text-align: left;
+}
+.practice-feedback > span { font-size: 8px; font-weight: 700; }
+.practice-feedback q { color: var(--ink); font-size: 9px; }
+.practice-feedback > div { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.practice-feedback button,
+.practice-error > button {
+  min-height: 28px;
+  padding: 3px 9px;
+  border: 1px solid rgba(23,33,29,.16);
+  border-radius: 999px;
+  background: white;
+  color: var(--ink);
+  font-size: 8px;
+  font-weight: 700;
+}
+.practice-error { border-color: rgba(141,44,39,.2); background: rgba(141,44,39,.07); color: #8d2c27; }
+.practice-capability { color: var(--muted); text-align: center; }
+
+@media (max-height: 840px) {
+  .youglish-slide { padding-top: max(39px, calc(31px + env(safe-area-inset-top))); padding-bottom: 38px; }
+  .youglish-slide .slide-label { top: max(20px, calc(12px + env(safe-area-inset-top))); }
+  .external-heading span { font-size: 13px; }
+  .external-heading h2 { font-size: 27px; }
+  .external-heading p { font-size: 10px; }
+  .widget-shell { max-height: 405px; margin-top: 6px; }
+  .youglish-frame { grid-template-rows: minmax(205px, 1fr) auto auto; }
+  .youglish-target,
+  .youglish-target > iframe,
+  .youglish-target iframe { min-height: 205px !important; }
+  .widget-loading { height: 205px; }
+  .youglish-controls button { min-height: 39px; }
+
+  .example-slide { padding-top: max(53px, calc(45px + env(safe-area-inset-top))); padding-bottom: 33px; }
+  .example-slide .slide-label { top: max(38px, calc(30px + env(safe-area-inset-top))); }
+  .quote-mark { display: none; }
+  .source-sentence { font-size: clamp(22px, 6vw, 29px); }
+  .translated-sentence { font-size: 12.5px; line-height: 1.28; }
+  .practice-actions { margin-top: 8px; margin-bottom: 16px; }
+  .practice-actions button { min-height: 39px; }
+  .practice-feedback,
+  .practice-capability { margin-top: -8px; margin-bottom: 16px; font-size: 8.5px; }
+}
