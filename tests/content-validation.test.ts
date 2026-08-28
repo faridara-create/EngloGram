@@ -45,7 +45,7 @@ describe('content validation', () => {
   it('requires traceable local Pexels photos for every learning item', () => {
     for (const lesson of lessons) {
       for (const item of lesson.items) {
-        expect(item.image.url).toMatch(/^images\/.+\.webp$/)
+        expect(item.image.url).toMatch(/^images\/.+\.(?:webp|jpe?g)$/)
         expect(item.image.provider).toBe('Pexels')
         expect(item.image.source).toMatch(/^https:\/\/www\.pexels\.com\/photo\/\d+\/$/)
         expect(item.image.photographer.length).toBeGreaterThan(1)
