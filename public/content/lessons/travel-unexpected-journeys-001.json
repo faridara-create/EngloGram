@@ -1,0 +1,612 @@
+{
+  "schemaVersion": "1.0",
+  "id": "travel-unexpected-journeys-001",
+  "topicId": "travel",
+  "subtopic": "UNEXPECTED JOURNEYS",
+  "title": "Travel Experiences & Unexpected Situations",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "spontaneous",
+      "type": "vocabulary",
+      "term": "spontaneous",
+      "translation": "spontan",
+      "ipa": "/spɒnˈteɪniəs/",
+      "definition": "done naturally without being planned in advance",
+      "examples": [
+        {
+          "source": "During the discussion, the decision seemed spontaneous once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Entscheidung spontan, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the decision appeared spontaneous at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Entscheidung zunächst spontan erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more spontaneous decision could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker spontan geprägte Sicht auf die Entscheidung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/spontaneous.webp",
+        "searchPrompt": "traveller making a spontaneous route choice",
+        "alt": "Traveller making a spontaneous route choice",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1008155/",
+        "attribution": "Photo by ArtHouse Studio on Pexels",
+        "photographer": "ArtHouse Studio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ]
+      },
+      "audio": {
+        "text": "spontaneous",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "spontaneous",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "vocabulary",
+        "spontaneous"
+      ]
+    },
+    {
+      "id": "remote",
+      "type": "vocabulary",
+      "term": "remote",
+      "translation": "abgelegen",
+      "ipa": "/rɪˈməʊt/",
+      "definition": "far away from towns and easy access",
+      "examples": [
+        {
+          "source": "During the discussion, the destination seemed remote once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte das Reiseziel abgelegen, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the destination appeared remote at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl das Reiseziel zunächst abgelegen erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more remote destination could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker abgelegen geprägte Sicht auf das Reiseziel Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/remote.webp",
+        "searchPrompt": "remote mountain road and small settlement",
+        "alt": "Remote mountain road and small settlement",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/346885/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ]
+      },
+      "audio": {
+        "text": "remote",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "remote",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "vocabulary",
+        "remote"
+      ]
+    },
+    {
+      "id": "immersive",
+      "type": "vocabulary",
+      "term": "immersive",
+      "translation": "intensiv erlebbar",
+      "ipa": "/ɪˈmɜːsɪv/",
+      "definition": "surrounding you so completely that you feel involved",
+      "examples": [
+        {
+          "source": "During the discussion, the experience seemed immersive once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte das Erlebnis intensiv erlebbar, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the experience appeared immersive at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl das Erlebnis zunächst intensiv erlebbar erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more immersive experience could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker intensiv erlebbar geprägte Sicht auf das Erlebnis Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/immersive.webp",
+        "searchPrompt": "traveller immersed in local street life",
+        "alt": "Traveller immersed in local street life",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3769138/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ]
+      },
+      "audio": {
+        "text": "immersive",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "immersive",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "vocabulary",
+        "immersive"
+      ]
+    },
+    {
+      "id": "disorienting",
+      "type": "vocabulary",
+      "term": "disorienting",
+      "translation": "desorientierend",
+      "ipa": "/dɪsˈɔːrientɪŋ/",
+      "definition": "making it difficult to know where you are or what to do",
+      "examples": [
+        {
+          "source": "During the discussion, the experience seemed disorienting once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Erfahrung desorientierend, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the experience appeared disorienting at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Erfahrung zunächst desorientierend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more disorienting experience could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker desorientierend geprägte Sicht auf die Erfahrung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/disorienting.webp",
+        "searchPrompt": "traveller studying signs in an unfamiliar station",
+        "alt": "Traveller studying signs in an unfamiliar station",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/723240/",
+        "attribution": "Photo by Nubia Navarro on Pexels",
+        "photographer": "Nubia Navarro",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ]
+      },
+      "audio": {
+        "text": "disorienting",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "disorienting",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "vocabulary",
+        "disorienting"
+      ]
+    },
+    {
+      "id": "resourceful",
+      "type": "vocabulary",
+      "term": "resourceful",
+      "translation": "einfallsreich",
+      "ipa": "/rɪˈzɔːsfəl/",
+      "definition": "good at finding practical solutions in difficult situations",
+      "examples": [
+        {
+          "source": "During the discussion, the traveller seemed resourceful once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die reisende Person einfallsreich, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the traveller appeared resourceful at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die reisende Person zunächst einfallsreich erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more resourceful traveller could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker einfallsreich geprägte Sicht auf die reisende Person Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/resourceful.webp",
+        "searchPrompt": "traveller solving a problem with a map",
+        "alt": "Traveller solving a problem with a map",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/21014/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ]
+      },
+      "audio": {
+        "text": "resourceful",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "resourceful",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "vocabulary",
+        "resourceful"
+      ]
+    },
+    {
+      "id": "miss-a-connection",
+      "type": "collocation",
+      "term": "miss a connection",
+      "translation": "einen Anschluss verpassen",
+      "ipa": "/mɪs ə kəˈnekʃən/",
+      "definition": "to arrive too late for the next part of a journey",
+      "examples": [
+        {
+          "source": "The group decided to miss a connection before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, einen Anschluss verpassen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to miss a connection, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie einen Anschluss verpassen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to miss a connection, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, einen Anschluss verpassen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/miss-a-connection.webp",
+        "searchPrompt": "passenger running through a railway station",
+        "alt": "Passenger running through a railway station",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/164287/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ]
+      },
+      "audio": {
+        "text": "miss a connection",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "miss a connection",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "collocation",
+        "miss",
+        "a"
+      ]
+    },
+    {
+      "id": "navigate-unfamiliar-territory",
+      "type": "collocation",
+      "term": "navigate unfamiliar territory",
+      "translation": "sich in unbekanntem Gebiet zurechtfinden",
+      "ipa": "/ˈnævɪɡeɪt ˌʌnfəˈmɪliə ˈterətri/",
+      "definition": "to find a way through a place or situation you do not know",
+      "examples": [
+        {
+          "source": "The group decided to navigate unfamiliar territory before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, sich in unbekanntem Gebiet zurechtfinden, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to navigate unfamiliar territory, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie sich in unbekanntem Gebiet zurechtfinden sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to navigate unfamiliar territory, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, sich in unbekanntem Gebiet zurechtfinden, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/navigate-unfamiliar-territory.webp",
+        "searchPrompt": "traveller navigating a new city with a map",
+        "alt": "Traveller navigating a new city with a map",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/358319/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ]
+      },
+      "audio": {
+        "text": "navigate unfamiliar territory",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "navigate unfamiliar territory",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "collocation",
+        "navigate",
+        "unfamiliar"
+      ]
+    },
+    {
+      "id": "make-the-most-of",
+      "type": "collocation",
+      "term": "make the most of",
+      "translation": "das Beste aus etwas machen",
+      "ipa": "/meɪk ðə ˈməʊst əv/",
+      "definition": "to use an imperfect opportunity as well as possible",
+      "examples": [
+        {
+          "source": "The group decided to make the most of before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, das Beste aus etwas machen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to make the most of, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie das Beste aus etwas machen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to make the most of, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, das Beste aus etwas machen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/make-the-most-of.webp",
+        "searchPrompt": "friends enjoying an unexpected travel delay",
+        "alt": "Friends enjoying an unexpected travel delay",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1309644/",
+        "attribution": "Photo by Oleksandr P on Pexels",
+        "photographer": "Oleksandr P",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ]
+      },
+      "audio": {
+        "text": "make the most of",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "make the most of",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "collocation",
+        "make",
+        "the"
+      ]
+    },
+    {
+      "id": "venture-off-the-beaten-track",
+      "type": "collocation",
+      "term": "venture off the beaten track",
+      "translation": "abseits der üblichen Wege unterwegs sein",
+      "ipa": "/ˈventʃər ɒf ðə ˌbiːtən ˈtræk/",
+      "definition": "to visit places that most tourists do not go to",
+      "examples": [
+        {
+          "source": "The group decided to venture off the beaten track before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, abseits der üblichen Wege unterwegs sein, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to venture off the beaten track, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie abseits der üblichen Wege unterwegs sein sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to venture off the beaten track, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, abseits der üblichen Wege unterwegs sein, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/venture-off-the-beaten-track.webp",
+        "searchPrompt": "traveller hiking beyond the usual tourist route",
+        "alt": "Traveller hiking beyond the usual tourist route",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/2868242/",
+        "attribution": "Photo by Quang Nguyen Vinh on Pexels",
+        "photographer": "Quang Nguyen Vinh",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ]
+      },
+      "audio": {
+        "text": "venture off the beaten track",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "venture off the beaten track",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "collocation",
+        "venture",
+        "off"
+      ]
+    },
+    {
+      "id": "adapt-to-circumstances",
+      "type": "collocation",
+      "term": "adapt to circumstances",
+      "translation": "sich den Umständen anpassen",
+      "ipa": "/əˈdæpt tə ˈsɜːkəmstænsɪz/",
+      "definition": "to change plans in response to a new situation",
+      "examples": [
+        {
+          "source": "The group decided to adapt to circumstances before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, sich den Umständen anpassen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to adapt to circumstances, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie sich den Umständen anpassen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to adapt to circumstances, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, sich den Umständen anpassen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/adapt-to-circumstances.webp",
+        "searchPrompt": "travellers adjusting plans during bad weather",
+        "alt": "Travellers adjusting plans during bad weather",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1271619/",
+        "attribution": "Photo by Vojta Kovařík on Pexels",
+        "photographer": "Vojta Kovařík",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ]
+      },
+      "audio": {
+        "text": "adapt to circumstances",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "adapt to circumstances",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "collocation",
+        "adapt",
+        "to"
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Journey Beyond the Timetable",
+    "pages": [
+      {
+        "text": "Samira arrived at a mountain railway station after a storm cancelled the final connection. The setting felt spontaneous, but the people involved did not yet share a clear plan. Rather than rushing towards an answer, Samira asked the group to miss a connection and explain what success would mean in practice."
+      },
+      {
+        "text": "A second difficulty soon emerged. The existing approach looked remote to some participants, while others feared that the change would create new problems. They agreed to navigate unfamiliar territory so that every perspective could be tested against the same evidence instead of personal preference."
+      },
+      {
+        "text": "The most immersive moment came when a quiet participant questioned the assumption behind the original plan. Samira encouraged everyone to make the most of. That pause did not weaken the discussion; it made the risks visible and allowed the group to respond with more care."
+      },
+      {
+        "text": "By the afternoon, one part of the proposal seemed disorienting. The group therefore chose to venture off the beaten track rather than defend an option simply because time had already been invested in it. The decision created room for a practical alternative that nobody had considered that morning."
+      },
+      {
+        "text": "One final issue remained resourceful. To resolve it, the participants had to adapt to circumstances while keeping their shared purpose in view. Samira summarised the strongest points, invited one last objection and made sure that the next steps had clear owners."
+      },
+      {
+        "text": "The result was an improvised journey that became more memorable than the original itinerary. Nobody pretended that uncertainty had disappeared, yet the group left with a decision they could explain and support. Samira reflected that progress rarely comes from certainty alone; it comes from precise language, attentive listening and the courage to revise a plan."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "spontaneous",
+      "definition": "done naturally without being planned in advance"
+    },
+    {
+      "itemId": "remote",
+      "definition": "far away from towns and easy access"
+    },
+    {
+      "itemId": "immersive",
+      "definition": "surrounding you so completely that you feel involved"
+    },
+    {
+      "itemId": "disorienting",
+      "definition": "making it difficult to know where you are or what to do"
+    },
+    {
+      "itemId": "resourceful",
+      "definition": "good at finding practical solutions in difficult situations"
+    },
+    {
+      "itemId": "miss-a-connection",
+      "definition": "to arrive too late for the next part of a journey"
+    },
+    {
+      "itemId": "navigate-unfamiliar-territory",
+      "definition": "to find a way through a place or situation you do not know"
+    },
+    {
+      "itemId": "make-the-most-of",
+      "definition": "to use an imperfect opportunity as well as possible"
+    },
+    {
+      "itemId": "venture-off-the-beaten-track",
+      "definition": "to visit places that most tourists do not go to"
+    },
+    {
+      "itemId": "adapt-to-circumstances",
+      "definition": "to change plans in response to a new situation"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-28",
+    "reviewStatus": "approved",
+    "tags": [
+      "travel",
+      "c1",
+      "english-german"
+    ]
+  }
+}
