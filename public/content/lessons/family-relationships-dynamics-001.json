@@ -1,0 +1,612 @@
+{
+  "schemaVersion": "1.0",
+  "id": "family-relationships-dynamics-001",
+  "topicId": "family",
+  "subtopic": "RELATIONSHIPS & DYNAMICS",
+  "title": "Relationships & Family Dynamics",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "supportive",
+      "type": "vocabulary",
+      "term": "supportive",
+      "translation": "unterstützend",
+      "ipa": "/səˈpɔːtɪv/",
+      "definition": "giving encouragement or practical help",
+      "examples": [
+        {
+          "source": "During the discussion, the relationship seemed supportive once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Beziehung unterstützend, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the relationship appeared supportive at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Beziehung zunächst unterstützend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more supportive relationship could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker unterstützend geprägte Sicht auf die Beziehung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/supportive.webp",
+        "searchPrompt": "family having a supportive conversation",
+        "alt": "Family having a supportive conversation",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8841681/",
+        "attribution": "Photo by Julia M Cameron on Pexels",
+        "photographer": "Julia M Cameron",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ]
+      },
+      "audio": {
+        "text": "supportive",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "supportive",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "vocabulary",
+        "supportive"
+      ]
+    },
+    {
+      "id": "strained",
+      "type": "vocabulary",
+      "term": "strained",
+      "translation": "angespannt",
+      "ipa": "/streɪnd/",
+      "definition": "showing tension because a relationship is experiencing difficulty",
+      "examples": [
+        {
+          "source": "During the discussion, the relationship seemed strained once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Beziehung angespannt, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the relationship appeared strained at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Beziehung zunächst angespannt erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more strained relationship could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker angespannt geprägte Sicht auf die Beziehung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/strained.webp",
+        "searchPrompt": "family talking through tension at home",
+        "alt": "Family talking through tension at home",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/5082872/",
+        "attribution": "Photo by Vanessa Loring on Pexels",
+        "photographer": "Vanessa Loring",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ]
+      },
+      "audio": {
+        "text": "strained",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "strained",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "vocabulary",
+        "strained"
+      ]
+    },
+    {
+      "id": "close-knit",
+      "type": "vocabulary",
+      "term": "close-knit",
+      "translation": "eng verbunden",
+      "ipa": "/ˌkləʊsˈnɪt/",
+      "definition": "having strong and caring relationships with one another",
+      "examples": [
+        {
+          "source": "During the discussion, the family seemed close-knit once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Familie eng verbunden, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the family appeared close-knit at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Familie zunächst eng verbunden erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more close-knit family could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker eng verbunden geprägte Sicht auf die Familie Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/close-knit.webp",
+        "searchPrompt": "close knit multigenerational family together",
+        "alt": "Close knit multigenerational family together",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3768131/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ]
+      },
+      "audio": {
+        "text": "close-knit",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "close-knit",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "vocabulary",
+        "close-knit"
+      ]
+    },
+    {
+      "id": "overprotective",
+      "type": "vocabulary",
+      "term": "overprotective",
+      "translation": "überfürsorglich",
+      "ipa": "/ˌəʊvəprəˈtektɪv/",
+      "definition": "trying to protect someone so much that it limits their independence",
+      "examples": [
+        {
+          "source": "During the discussion, the parent seemed overprotective once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte das Elternteil überfürsorglich, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the parent appeared overprotective at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl das Elternteil zunächst überfürsorglich erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more overprotective parent could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker überfürsorglich geprägte Sicht auf das Elternteil Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/overprotective.webp",
+        "searchPrompt": "parent and adult child discussing independence",
+        "alt": "Parent and adult child discussing independence",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1128318/",
+        "attribution": "Photo by August de Richelieu on Pexels",
+        "photographer": "August de Richelieu",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ]
+      },
+      "audio": {
+        "text": "overprotective",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "overprotective",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "vocabulary",
+        "overprotective"
+      ]
+    },
+    {
+      "id": "resentful",
+      "type": "vocabulary",
+      "term": "resentful",
+      "translation": "verbittert; nachtragend",
+      "ipa": "/rɪˈzentfəl/",
+      "definition": "feeling angry because something seems unfair",
+      "examples": [
+        {
+          "source": "During the discussion, the relative seemed resentful once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die verwandte Person verbittert; nachtragend, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the relative appeared resentful at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die verwandte Person zunächst verbittert; nachtragend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more resentful relative could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker verbittert; nachtragend geprägte Sicht auf die verwandte Person Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/resentful.webp",
+        "searchPrompt": "family member feeling excluded during discussion",
+        "alt": "Family member feeling excluded during discussion",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1648377/",
+        "attribution": "Photo by Josh Willink on Pexels",
+        "photographer": "Josh Willink",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ]
+      },
+      "audio": {
+        "text": "resentful",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "resentful",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "vocabulary",
+        "resentful"
+      ]
+    },
+    {
+      "id": "set-boundaries",
+      "type": "collocation",
+      "term": "set boundaries",
+      "translation": "Grenzen setzen",
+      "ipa": "/set ˈbaʊndəriz/",
+      "definition": "to clearly communicate what behaviour you will accept",
+      "examples": [
+        {
+          "source": "The group decided to set boundaries before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, Grenzen setzen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to set boundaries, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie Grenzen setzen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to set boundaries, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, Grenzen setzen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/set-boundaries.webp",
+        "searchPrompt": "family members calmly setting boundaries",
+        "alt": "Family members calmly setting boundaries",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/4262424/",
+        "attribution": "Photo by August de Richelieu on Pexels",
+        "photographer": "August de Richelieu",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ]
+      },
+      "audio": {
+        "text": "set boundaries",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "set boundaries",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "collocation",
+        "set",
+        "boundaries"
+      ]
+    },
+    {
+      "id": "take-someone-for-granted",
+      "type": "collocation",
+      "term": "take someone for granted",
+      "translation": "jemanden als selbstverständlich ansehen",
+      "ipa": "/teɪk ˌsʌmwʌn fə ˈɡrɑːntɪd/",
+      "definition": "to fail to appreciate someone because you expect their support",
+      "examples": [
+        {
+          "source": "The group decided to take someone for granted before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, jemanden als selbstverständlich ansehen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to take someone for granted, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie jemanden als selbstverständlich ansehen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to take someone for granted, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, jemanden als selbstverständlich ansehen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/take-someone-for-granted.webp",
+        "searchPrompt": "relative helping while others overlook the effort",
+        "alt": "Relative helping while others overlook the effort",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/2253879/",
+        "attribution": "Photo by Emma Bauso on Pexels",
+        "photographer": "Emma Bauso",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ]
+      },
+      "audio": {
+        "text": "take someone for granted",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "take someone for granted",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "collocation",
+        "take",
+        "someone"
+      ]
+    },
+    {
+      "id": "see-eye-to-eye",
+      "type": "collocation",
+      "term": "see eye to eye",
+      "translation": "einer Meinung sein",
+      "ipa": "/siː ˌaɪ tə ˈaɪ/",
+      "definition": "to agree with someone about an issue",
+      "examples": [
+        {
+          "source": "The group decided to see eye to eye before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, einer Meinung sein, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to see eye to eye, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie einer Meinung sein sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to see eye to eye, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, einer Meinung sein, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/see-eye-to-eye.webp",
+        "searchPrompt": "two relatives reaching agreement",
+        "alt": "Two relatives reaching agreement",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3189024/",
+        "attribution": "Photo by fauxels on Pexels",
+        "photographer": "fauxels",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ]
+      },
+      "audio": {
+        "text": "see eye to eye",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "see eye to eye",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "collocation",
+        "see",
+        "eye"
+      ]
+    },
+    {
+      "id": "drift-apart",
+      "type": "collocation",
+      "term": "drift apart",
+      "translation": "sich auseinanderleben",
+      "ipa": "/drɪft əˈpɑːt/",
+      "definition": "to gradually become less close to someone",
+      "examples": [
+        {
+          "source": "The group decided to drift apart before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, sich auseinanderleben, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to drift apart, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie sich auseinanderleben sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to drift apart, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, sich auseinanderleben, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/drift-apart.webp",
+        "searchPrompt": "siblings reconnecting after time apart",
+        "alt": "Siblings reconnecting after time apart",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/461049/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ]
+      },
+      "audio": {
+        "text": "drift apart",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "drift apart",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "collocation",
+        "drift",
+        "apart"
+      ]
+    },
+    {
+      "id": "make-amends",
+      "type": "collocation",
+      "term": "make amends",
+      "translation": "etwas wiedergutmachen",
+      "ipa": "/meɪk əˈmendz/",
+      "definition": "to repair harm caused by your words or actions",
+      "examples": [
+        {
+          "source": "The group decided to make amends before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, etwas wiedergutmachen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to make amends, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie etwas wiedergutmachen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to make amends, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, etwas wiedergutmachen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/make-amends.webp",
+        "searchPrompt": "family apology and reconciliation",
+        "alt": "Family apology and reconciliation",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3171128/",
+        "attribution": "Photo by August de Richelieu on Pexels",
+        "photographer": "August de Richelieu",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ]
+      },
+      "audio": {
+        "text": "make amends",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "make amends",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "collocation",
+        "make",
+        "amends"
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Sunday Nobody Avoided",
+    "pages": [
+      {
+        "text": "Mina arrived at a long-delayed family lunch at her grandmother's house. The setting felt supportive, but the people involved did not yet share a clear plan. Rather than rushing towards an answer, Mina asked the group to set boundaries and explain what success would mean in practice."
+      },
+      {
+        "text": "A second difficulty soon emerged. The existing approach looked strained to some participants, while others feared that the change would create new problems. They agreed to take someone for granted so that every perspective could be tested against the same evidence instead of personal preference."
+      },
+      {
+        "text": "The most close-knit moment came when a quiet participant questioned the assumption behind the original plan. Mina encouraged everyone to see eye to eye. That pause did not weaken the discussion; it made the risks visible and allowed the group to respond with more care."
+      },
+      {
+        "text": "By the afternoon, one part of the proposal seemed overprotective. The group therefore chose to drift apart rather than defend an option simply because time had already been invested in it. The decision created room for a practical alternative that nobody had considered that morning."
+      },
+      {
+        "text": "One final issue remained resentful. To resolve it, the participants had to make amends while keeping their shared purpose in view. Mina summarised the strongest points, invited one last objection and made sure that the next steps had clear owners."
+      },
+      {
+        "text": "The result was an honest agreement that allowed everyone to reconnect on more respectful terms. Nobody pretended that uncertainty had disappeared, yet the group left with a decision they could explain and support. Mina reflected that progress rarely comes from certainty alone; it comes from precise language, attentive listening and the courage to revise a plan."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "supportive",
+      "definition": "giving encouragement or practical help"
+    },
+    {
+      "itemId": "strained",
+      "definition": "showing tension because a relationship is experiencing difficulty"
+    },
+    {
+      "itemId": "close-knit",
+      "definition": "having strong and caring relationships with one another"
+    },
+    {
+      "itemId": "overprotective",
+      "definition": "trying to protect someone so much that it limits their independence"
+    },
+    {
+      "itemId": "resentful",
+      "definition": "feeling angry because something seems unfair"
+    },
+    {
+      "itemId": "set-boundaries",
+      "definition": "to clearly communicate what behaviour you will accept"
+    },
+    {
+      "itemId": "take-someone-for-granted",
+      "definition": "to fail to appreciate someone because you expect their support"
+    },
+    {
+      "itemId": "see-eye-to-eye",
+      "definition": "to agree with someone about an issue"
+    },
+    {
+      "itemId": "drift-apart",
+      "definition": "to gradually become less close to someone"
+    },
+    {
+      "itemId": "make-amends",
+      "definition": "to repair harm caused by your words or actions"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-28",
+    "reviewStatus": "approved",
+    "tags": [
+      "family",
+      "c1",
+      "english-german"
+    ]
+  }
+}
