@@ -1,0 +1,612 @@
+{
+  "schemaVersion": "1.0",
+  "id": "health-habits-wellbeing-001",
+  "topicId": "health",
+  "subtopic": "HABITS & WELLBEING",
+  "title": "Health, Habits & Wellbeing",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "sustainable",
+      "type": "vocabulary",
+      "term": "sustainable",
+      "translation": "dauerhaft tragfähig",
+      "ipa": "/səˈsteɪnəbəl/",
+      "definition": "able to continue over time without causing harm",
+      "examples": [
+        {
+          "source": "During the discussion, the habit seemed sustainable once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Gewohnheit dauerhaft tragfähig, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the habit appeared sustainable at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Gewohnheit zunächst dauerhaft tragfähig erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more sustainable habit could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker dauerhaft tragfähig geprägte Sicht auf die Gewohnheit Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/sustainable.webp",
+        "searchPrompt": "healthy food and exercise forming a sustainable habit",
+        "alt": "Healthy food and exercise forming a sustainable habit",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/40568/",
+        "attribution": "Photo by Negative Space on Pexels",
+        "photographer": "Negative Space",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ]
+      },
+      "audio": {
+        "text": "sustainable",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "sustainable",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "vocabulary",
+        "sustainable"
+      ]
+    },
+    {
+      "id": "sedentary",
+      "type": "vocabulary",
+      "term": "sedentary",
+      "translation": "bewegungsarm",
+      "ipa": "/ˈsedəntri/",
+      "definition": "involving too much sitting and too little physical activity",
+      "examples": [
+        {
+          "source": "During the discussion, the routine seemed sedentary once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Routine bewegungsarm, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the routine appeared sedentary at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Routine zunächst bewegungsarm erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more sedentary routine could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker bewegungsarm geprägte Sicht auf die Routine Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/sedentary.webp",
+        "searchPrompt": "office worker taking a movement break",
+        "alt": "Office worker taking a movement break",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3764014/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ]
+      },
+      "audio": {
+        "text": "sedentary",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "sedentary",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "vocabulary",
+        "sedentary"
+      ]
+    },
+    {
+      "id": "restorative",
+      "type": "vocabulary",
+      "term": "restorative",
+      "translation": "erholsam; regenerierend",
+      "ipa": "/rɪˈstɒrətɪv/",
+      "definition": "helping the body or mind recover",
+      "examples": [
+        {
+          "source": "During the discussion, the sleep seemed restorative once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte der Schlaf erholsam; regenerierend, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the sleep appeared restorative at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl der Schlaf zunächst erholsam; regenerierend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more restorative sleep could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker erholsam; regenerierend geprägte Sicht auf der Schlaf Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/restorative.webp",
+        "searchPrompt": "person waking after restorative sleep",
+        "alt": "Person waking after restorative sleep",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3759657/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ]
+      },
+      "audio": {
+        "text": "restorative",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "restorative",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "vocabulary",
+        "restorative"
+      ]
+    },
+    {
+      "id": "resilient",
+      "type": "vocabulary",
+      "term": "resilient",
+      "translation": "widerstandsfähig",
+      "ipa": "/rɪˈzɪliənt/",
+      "definition": "able to recover and adapt after difficulty",
+      "examples": [
+        {
+          "source": "During the discussion, the person seemed resilient once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Person widerstandsfähig, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the person appeared resilient at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Person zunächst widerstandsfähig erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more resilient person could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker widerstandsfähig geprägte Sicht auf die Person Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/resilient.webp",
+        "searchPrompt": "runner recovering with resilience outdoors",
+        "alt": "Runner recovering with resilience outdoors",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3823039/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ]
+      },
+      "audio": {
+        "text": "resilient",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "resilient",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "vocabulary",
+        "resilient"
+      ]
+    },
+    {
+      "id": "detrimental",
+      "type": "vocabulary",
+      "term": "detrimental",
+      "translation": "schädlich",
+      "ipa": "/ˌdetrɪˈmentəl/",
+      "definition": "causing harm or damage",
+      "examples": [
+        {
+          "source": "During the discussion, the effect seemed detrimental once everyone had examined the evidence carefully.",
+          "translation": "Während des Gesprächs wirkte die Wirkung schädlich, nachdem alle die Belege sorgfältig geprüft hatten."
+        },
+        {
+          "source": "Although the effect appeared detrimental at first, the wider context revealed several practical possibilities.",
+          "translation": "Obwohl die Wirkung zunächst schädlich erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+        },
+        {
+          "source": "Her account showed why a more detrimental effect could influence decisions long after the immediate moment.",
+          "translation": "Ihre Darstellung zeigte, warum eine stärker schädlich geprägte Sicht auf die Wirkung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/detrimental.webp",
+        "searchPrompt": "tired person affected by unhealthy work habits",
+        "alt": "Tired person affected by unhealthy work habits",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3757374/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ]
+      },
+      "audio": {
+        "text": "detrimental",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "detrimental",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "vocabulary",
+        "detrimental"
+      ]
+    },
+    {
+      "id": "stick-to-a-routine",
+      "type": "collocation",
+      "term": "stick to a routine",
+      "translation": "sich an eine Routine halten",
+      "ipa": "/stɪk tə ə ruːˈtiːn/",
+      "definition": "to continue following a regular pattern",
+      "examples": [
+        {
+          "source": "The group decided to stick to a routine before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, sich an eine Routine halten, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to stick to a routine, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie sich an eine Routine halten sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to stick to a routine, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, sich an eine Routine halten, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/stick-to-a-routine.webp",
+        "searchPrompt": "person following a calm morning routine",
+        "alt": "Person following a calm morning routine",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/4498151/",
+        "attribution": "Photo by Ketut Subiyanto on Pexels",
+        "photographer": "Ketut Subiyanto",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ]
+      },
+      "audio": {
+        "text": "stick to a routine",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "stick to a routine",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "collocation",
+        "stick",
+        "to"
+      ]
+    },
+    {
+      "id": "prioritise-wellbeing",
+      "type": "collocation",
+      "term": "prioritise wellbeing",
+      "translation": "das Wohlbefinden priorisieren",
+      "ipa": "/praɪˈɒrətaɪz ˌwelˈbiːɪŋ/",
+      "definition": "to treat physical and mental health as important",
+      "examples": [
+        {
+          "source": "The group decided to prioritise wellbeing before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, das Wohlbefinden priorisieren, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to prioritise wellbeing, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie das Wohlbefinden priorisieren sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to prioritise wellbeing, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, das Wohlbefinden priorisieren, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/prioritise-wellbeing.webp",
+        "searchPrompt": "friends exercising outdoors for wellbeing",
+        "alt": "Friends exercising outdoors for wellbeing",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/868483/",
+        "attribution": "Photo by Nathan Cowley on Pexels",
+        "photographer": "Nathan Cowley",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ]
+      },
+      "audio": {
+        "text": "prioritise wellbeing",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "prioritise wellbeing",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "collocation",
+        "prioritise",
+        "wellbeing"
+      ]
+    },
+    {
+      "id": "listen-to-your-body",
+      "type": "collocation",
+      "term": "listen to your body",
+      "translation": "auf den eigenen Körper hören",
+      "ipa": "/ˈlɪsən tə jɔː ˈbɒdi/",
+      "definition": "to notice and respond to physical signals",
+      "examples": [
+        {
+          "source": "The group decided to listen to your body before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, auf den eigenen Körper hören, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to listen to your body, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie auf den eigenen Körper hören sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to listen to your body, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, auf den eigenen Körper hören, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/listen-to-your-body.webp",
+        "searchPrompt": "person resting after exercise and checking how they feel",
+        "alt": "Person resting after exercise and checking how they feel",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/414029/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ]
+      },
+      "audio": {
+        "text": "listen to your body",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "listen to your body",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "collocation",
+        "listen",
+        "to"
+      ]
+    },
+    {
+      "id": "break-a-habit",
+      "type": "collocation",
+      "term": "break a habit",
+      "translation": "eine Gewohnheit ablegen",
+      "ipa": "/breɪk ə ˈhæbɪt/",
+      "definition": "to stop a repeated behaviour that is difficult to change",
+      "examples": [
+        {
+          "source": "The group decided to break a habit before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, eine Gewohnheit ablegen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to break a habit, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie eine Gewohnheit ablegen sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to break a habit, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, eine Gewohnheit ablegen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/break-a-habit.webp",
+        "searchPrompt": "person changing an established fitness routine",
+        "alt": "Person changing an established fitness routine",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1552242/",
+        "attribution": "Photo by Leon Ardho on Pexels",
+        "photographer": "Leon Ardho",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ]
+      },
+      "audio": {
+        "text": "break a habit",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "break a habit",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "collocation",
+        "break",
+        "a"
+      ]
+    },
+    {
+      "id": "maintain-a-balance",
+      "type": "collocation",
+      "term": "maintain a balance",
+      "translation": "ein Gleichgewicht bewahren",
+      "ipa": "/meɪnˈteɪn ə ˈbæləns/",
+      "definition": "to keep different needs in a healthy proportion",
+      "examples": [
+        {
+          "source": "The group decided to maintain a balance before committing to a final course of action.",
+          "translation": "Die Gruppe beschloss, ein Gleichgewicht bewahren, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+        },
+        {
+          "source": "Experienced people know when to maintain a balance, especially when circumstances change unexpectedly.",
+          "translation": "Erfahrene Menschen wissen, wann sie ein Gleichgewicht bewahren sollten, besonders wenn sich die Umstände unerwartet ändern."
+        },
+        {
+          "source": "By choosing to maintain a balance, they avoided a problem that might otherwise have become much harder to resolve.",
+          "translation": "Indem sie sich entschieden, ein Gleichgewicht bewahren, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/maintain-a-balance.webp",
+        "searchPrompt": "person balancing work exercise and relaxation",
+        "alt": "Person balancing work exercise and relaxation",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3768593/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ]
+      },
+      "audio": {
+        "text": "maintain a balance",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "maintain a balance",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "collocation",
+        "maintain",
+        "a"
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Change That Finally Lasted",
+    "pages": [
+      {
+        "text": "Leonie arrived at a workplace wellbeing programme that had previously relied on short-lived challenges. The setting felt sustainable, but the people involved did not yet share a clear plan. Rather than rushing towards an answer, Leonie asked the group to stick to a routine and explain what success would mean in practice."
+      },
+      {
+        "text": "A second difficulty soon emerged. The existing approach looked sedentary to some participants, while others feared that the change would create new problems. They agreed to prioritise wellbeing so that every perspective could be tested against the same evidence instead of personal preference."
+      },
+      {
+        "text": "The most restorative moment came when a quiet participant questioned the assumption behind the original plan. Leonie encouraged everyone to listen to your body. That pause did not weaken the discussion; it made the risks visible and allowed the group to respond with more care."
+      },
+      {
+        "text": "By the afternoon, one part of the proposal seemed resilient. The group therefore chose to break a habit rather than defend an option simply because time had already been invested in it. The decision created room for a practical alternative that nobody had considered that morning."
+      },
+      {
+        "text": "One final issue remained detrimental. To resolve it, the participants had to maintain a balance while keeping their shared purpose in view. Leonie summarised the strongest points, invited one last objection and made sure that the next steps had clear owners."
+      },
+      {
+        "text": "The result was a flexible routine that improved energy, sleep and trust across the team. Nobody pretended that uncertainty had disappeared, yet the group left with a decision they could explain and support. Leonie reflected that progress rarely comes from certainty alone; it comes from precise language, attentive listening and the courage to revise a plan."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "sustainable",
+      "definition": "able to continue over time without causing harm"
+    },
+    {
+      "itemId": "sedentary",
+      "definition": "involving too much sitting and too little physical activity"
+    },
+    {
+      "itemId": "restorative",
+      "definition": "helping the body or mind recover"
+    },
+    {
+      "itemId": "resilient",
+      "definition": "able to recover and adapt after difficulty"
+    },
+    {
+      "itemId": "detrimental",
+      "definition": "causing harm or damage"
+    },
+    {
+      "itemId": "stick-to-a-routine",
+      "definition": "to continue following a regular pattern"
+    },
+    {
+      "itemId": "prioritise-wellbeing",
+      "definition": "to treat physical and mental health as important"
+    },
+    {
+      "itemId": "listen-to-your-body",
+      "definition": "to notice and respond to physical signals"
+    },
+    {
+      "itemId": "break-a-habit",
+      "definition": "to stop a repeated behaviour that is difficult to change"
+    },
+    {
+      "itemId": "maintain-a-balance",
+      "definition": "to keep different needs in a healthy proportion"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-28",
+    "reviewStatus": "approved",
+    "tags": [
+      "health",
+      "c1",
+      "english-german"
+    ]
+  }
+}
