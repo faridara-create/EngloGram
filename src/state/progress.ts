@@ -46,7 +46,7 @@ export function useLessonProgress(lessonId: string) {
   const [progress, setProgress] = useState<LessonProgress>(() => readLessonProgress(lessonId))
 
   useEffect(() => {
-    setProgress(readProgress(lessonId))
+    setProgress(readLessonProgress(lessonId))
   }, [lessonId])
 
   useEffect(() => {
