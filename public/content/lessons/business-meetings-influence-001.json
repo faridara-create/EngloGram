@@ -41,7 +41,8 @@
           "#F2C6A8"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by Sora Shimazaki on Pexels"
+        "attribution": "Photo by Sora Shimazaki on Pexels",
+        "photographer": "Sora Shimazaki"
       },
       "audio": {
         "text": "anticipate",
@@ -96,7 +97,8 @@
           "#7CB6B8"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by Asoje Emprende on Pexels"
+        "attribution": "Photo by Asoje Emprende on Pexels",
+        "photographer": "Asoje Emprende"
       },
       "audio": {
         "text": "articulate",
@@ -151,7 +153,8 @@
           "#C7CEDB"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by RDNE Stock project on Pexels"
+        "attribution": "Photo by RDNE Stock project on Pexels",
+        "photographer": "RDNE Stock project"
       },
       "audio": {
         "text": "nuance",
@@ -204,7 +207,8 @@
           "#D6B98C"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by Mikhail Nilov on Pexels"
+        "attribution": "Photo by Mikhail Nilov on Pexels",
+        "photographer": "Mikhail Nilov"
       },
       "audio": {
         "text": "concede",
@@ -259,7 +263,8 @@
           "#C5A6C9"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by Mikael Blomkvist on Pexels"
+        "attribution": "Photo by Mikael Blomkvist on Pexels",
+        "photographer": "Mikael Blomkvist"
       },
       "audio": {
         "text": "compelling",
@@ -310,7 +315,8 @@
           "#E7A177"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by RDNE Stock project on Pexels"
+        "attribution": "Photo by RDNE Stock project on Pexels",
+        "photographer": "RDNE Stock project"
       },
       "audio": {
         "text": "raise a concern",
@@ -367,7 +373,8 @@
           "#A6D2B7"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by Felicity Tai on Pexels"
+        "attribution": "Photo by Felicity Tai on Pexels",
+        "photographer": "Felicity Tai"
       },
       "audio": {
         "text": "establish rapport",
@@ -422,7 +429,8 @@
           "#9FC3D9"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by Kampus Production on Pexels"
+        "attribution": "Photo by Kampus Production on Pexels",
+        "photographer": "Kampus Production"
       },
       "audio": {
         "text": "challenge an assumption",
@@ -478,7 +486,8 @@
           "#C2D09A"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by Mikhail Nilov on Pexels"
+        "attribution": "Photo by Mikhail Nilov on Pexels",
+        "photographer": "Mikhail Nilov"
       },
       "audio": {
         "text": "find common ground",
@@ -533,7 +542,8 @@
           "#E0AA88"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by Gustavo Fring on Pexels"
+        "attribution": "Photo by Gustavo Fring on Pexels",
+        "photographer": "Gustavo Fring"
       },
       "audio": {
         "text": "steer the conversation",
