@@ -143,6 +143,7 @@ for (const viewport of viewports) {
     await wait(80)
     const feedback = slides[2].querySelector('.practice-feedback')
     const feedbackVisible = Boolean(feedback && visible(feedback) && /Match:\s*100%/.test(feedback.textContent ?? ''))
+    const feedbackDetails = feedback ? { text: feedback.textContent, rect: feedback.getBoundingClientRect().toJSON() } : { capability: slides[2].querySelector('.practice-capability')?.textContent ?? 'none' }
 
     const like = firstPost.querySelector('button[aria-label="Like"]')
     like?.click()
