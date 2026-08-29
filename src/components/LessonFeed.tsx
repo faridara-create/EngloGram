@@ -10,6 +10,7 @@ export function LessonFeed({ lesson, onBack }: { lesson: Lesson; onBack: () => v
   const [activePost, setActivePost] = useState(0)
   const { progress, updateItem, answerQuestion, completeLesson, updateCurrentPost } = useLessonProgress(lesson.id)
   const totalPosts = lesson.items.length + 2
+  const completedItems = lesson.items.filter((item) => progress.items[item.id]?.completed).length
 
   const updateActivePost = useCallback(() => {
     const feed = feedRef.current
@@ -33,7 +34,7 @@ export function LessonFeed({ lesson, onBack }: { lesson: Lesson; onBack: () => v
       <div className="vertical-feed" ref={feedRef} onScroll={updateActivePost}>
         {lesson.items.map((item, itemIndex) => (
           <section className="feed-page" key={item.id}>
-            <LearningPost item={item} position={itemIndex + 1} isActive={activePost === itemIndex} progress={progress.items[item.id]} onUpdate={(patch) => updateItem(item.id, patch)} onHome={onBack} />
+            <LearningPost item={item} position={itemIndex + 1} isActive={activePost === itemIndex} progress={progress.items[item.id]} completedItems={completedItems} totalItems={lesson.items.length} onUpdate={(patch) => updateItem(item.id, patch)} onHome={onBack} />
           </section>
         ))}
         <section className="feed-page"><StoryPost lesson={lesson} isActive={activePost === lesson.items.length} /></section>
