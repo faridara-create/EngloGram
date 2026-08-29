@@ -4,6 +4,8 @@ export type ItemProgress = {
   liked: boolean
   saved: boolean
   note: string
+  completed: boolean
+  completedAt: string | null
 }
 
 export type QuizAnswer = {
@@ -55,7 +57,7 @@ export function useLessonProgress(lessonId: string) {
 
   const updateItem = useCallback((itemId: string, patch: Partial<ItemProgress>) => {
     setProgress((current) => {
-      const existing = current.items[itemId] ?? { liked: false, saved: false, note: '' }
+      const existing = current.items[itemId] ?? { liked: false, saved: false, note: '', completed: false, completedAt: null }
       return {
         ...current,
         items: {
