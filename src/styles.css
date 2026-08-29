@@ -895,3 +895,91 @@ button:focus-visible, a:focus-visible, textarea:focus-visible { outline: 3px sol
   }
   .hero-slide .hero-content { padding-right: 17px; padding-left: 17px; }
 }
+
+
+/* Hero-only refinement: stronger learning hierarchy without inner scrolling */
+.hero-slide .hero-content {
+  padding: 10px 18px 8px;
+}
+.hero-slide .type-row {
+  font-size: 9px;
+  line-height: 1.1;
+}
+.hero-slide .type-row span:last-child { font-size: 13px; }
+.hero-slide .hero-content h2 {
+  margin: 4px 0 0;
+  font-size: clamp(64px, 18vw, 94px);
+  line-height: .82;
+  overflow-wrap: anywhere;
+}
+.hero-slide .hero-content h2.term-medium {
+  font-size: clamp(54px, 15vw, 78px);
+  line-height: .84;
+}
+.hero-slide .hero-content h2.term-long {
+  font-size: clamp(46px, 12.8vw, 66px);
+  line-height: .86;
+}
+.hero-slide .hero-content .translation {
+  margin: 6px 0 0;
+  font-size: clamp(28px, 7.6vw, 36px);
+  font-weight: 600;
+  line-height: 1.02;
+}
+.hero-slide .hero-content .definition {
+  max-width: 31em;
+  margin: 7px 0 0;
+  font-size: clamp(20px, 5.4vw, 26px);
+  line-height: 1.19;
+}
+.hero-listen {
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  min-height: 42px;
+  margin-top: 9px;
+  padding: 8px 15px;
+  border: 1px solid rgba(255,255,255,.3);
+  border-radius: 999px;
+  background: rgba(255,255,255,.14);
+  color: white;
+  font-size: 11px;
+  font-weight: 700;
+  backdrop-filter: blur(8px);
+}
+.hero-listen svg {
+  width: 19px;
+  height: 19px;
+  flex: 0 0 auto;
+}
+.hero-listen:disabled { opacity: .48; }
+
+@media (max-height: 840px) {
+  .hero-slide .hero-content { padding: 8px 17px 6px; }
+  .hero-slide .hero-content h2 {
+    font-size: clamp(61px, 17vw, 86px);
+  }
+  .hero-slide .hero-content h2.term-medium {
+    font-size: clamp(51px, 14.3vw, 72px);
+  }
+  .hero-slide .hero-content h2.term-long {
+    font-size: clamp(44px, 12.2vw, 62px);
+  }
+  .hero-slide .hero-content .translation {
+    margin-top: 5px;
+    font-size: clamp(27px, 7.3vw, 33px);
+  }
+  .hero-slide .hero-content .definition {
+    margin-top: 6px;
+    font-size: clamp(19px, 5.15vw, 23px);
+    line-height: 1.16;
+  }
+  .hero-listen {
+    min-height: 40px;
+    margin-top: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+}
