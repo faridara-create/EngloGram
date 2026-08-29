@@ -24,9 +24,17 @@ export function useCarousel(settleDelay = 220) {
     timerRef.current = window.setTimeout(() => setSettledIndex(nextIndex), settleDelay)
   }, [settleDelay])
 
+  const reset = useCallback(() => {
+    const element = ref.current
+    if (timerRef.current) window.clearTimeout(timerRef.current)
+    if (element) element.scrollLeft = 0
+    setIndex(0)
+    setSettledIndex(0)
+  }, [])
+
   useEffect(() => () => {
     if (timerRef.current) window.clearTimeout(timerRef.current)
   }, [])
 
-  return { ref, index, settledIndex, onScroll, goTo }
+  return { ref, index, settledIndex, onScroll, goTo, reset }
 }
