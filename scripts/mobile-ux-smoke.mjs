@@ -34,8 +34,8 @@ for (const viewport of viewports) {
       fetch() {
         window.__yg.fetches += 1
         setTimeout(() => {
-          this.options.events.onFetchDone?.(this.total)
-          this.options.events.onVideoChange?.(this.track)
+          this.options.events.onFetchDone?.({ totalResult: this.total })
+          this.options.events.onVideoChange?.({ trackNumber: this.track })
         }, 20)
       }
       play() { window.__yg.play += 1 }
@@ -44,7 +44,7 @@ for (const viewport of viewports) {
       next() {
         window.__yg.next += 1
         this.track = Math.min(this.total, this.track + 1)
-        this.options.events.onVideoChange?.(this.track)
+        this.options.events.onVideoChange?.({ trackNumber: this.track })
       }
       previous() {
         window.__yg.previous += 1
@@ -82,7 +82,8 @@ for (const viewport of viewports) {
       stop() { this.onend?.() }
       abort() { this.onend?.() }
     }
-    window.webkitSpeechRecognition = FakeRecognition
+    Object.defineProperty(window, 'SpeechRecognition', { configurable: true, value: FakeRecognition })
+    Object.defineProperty(window, 'webkitSpeechRecognition', { configurable: true, value: FakeRecognition })
   })
 
   await page.goto(baseUrl, { waitUntil: 'networkidle' })
