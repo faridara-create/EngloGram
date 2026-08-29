@@ -55,6 +55,8 @@ export function LearningPost({ item, position, isActive, progress, completedItem
   const [youglishLoaded, setYouglishLoaded] = useState(false)
   const [practiceTarget, setPracticeTarget] = useState('')
   const lastAutoRef = useRef('')
+  const heroCycleRef = useRef('')
+  const heroTimerRef = useRef<number | null>(null)
   const state = { liked: false, saved: false, note: '', completed: false, completedAt: null, ...progress }
   const paletteStyle = {
     '--tone-a': item.image.palette[0],
@@ -76,6 +78,31 @@ export function LearningPost({ item, position, isActive, progress, completedItem
   }, [isActive, onUpdate, settledIndex, state.completed])
 
   useEffect(() => {
+    const settledHeroIsActive = isActive && settledIndex === 0
+    if (!settledHeroIsActive) {
+      heroCycleRef.current = ''
+      return
+    }
+
+    const heroCycle = `${item.id}-hero`
+    if (heroCycleRef.current === heroCycle) return
+
+    heroCycleRef.current = heroCycle
+    stop()
+    heroTimerRef.current = window.setTimeout(() => {
+      if (heroCycleRef.current === heroCycle) speak(item.audio.text, 'en-GB')
+      heroTimerRef.current = null
+    }, 80)
+
+    return () => {
+      if (heroTimerRef.current) window.clearTimeout(heroTimerRef.current)
+      heroTimerRef.current = null
+      heroCycleRef.current = ''
+      stop()
+    }
+  }, [isActive, item.audio.text, item.id, settledIndex, speak, stop])
+
+  useEffect(() => {
     if (!isActive) {
       lastAutoRef.current = ''
       stop()
@@ -84,11 +111,9 @@ export function LearningPost({ item, position, isActive, progress, completedItem
     }
 
     const autoKey = `${item.id}-${settledIndex}`
-    const autoText = settledIndex === 0
-      ? item.audio.text
-      : settledIndex >= 2 && settledIndex <= 4
-        ? item.examples[settledIndex - 2]?.source
-        : undefined
+    const autoText = settledIndex >= 2 && settledIndex <= 4
+      ? item.examples[settledIndex - 2]?.source
+      : undefined
 
     if (autoText && lastAutoRef.current !== autoKey) {
       lastAutoRef.current = autoKey
@@ -100,7 +125,15 @@ export function LearningPost({ item, position, isActive, progress, completedItem
       stop()
       practice.stopListening()
     }
-  }, [isActive, item.audio.text, item.examples, item.id, practice.stopListening, settledIndex, speak, stop])
+  }, [isActive, item.examples, item.id, practice.stopListening, settledIndex, speak, stop])
+
+  const listenToTerm = () => {
+    if (heroTimerRef.current) window.clearTimeout(heroTimerRef.current)
+    heroTimerRef.current = null
+    heroCycleRef.current = `${item.id}-hero`
+    stop()
+    speak(item.audio.text, 'en-GB')
+  }
 
   const listenToExample = (sentence: string) => {
     practice.stopListening()
@@ -148,10 +181,10 @@ export function LearningPost({ item, position, isActive, progress, completedItem
           </div>
           <div className="hero-content">
             <div className="type-row"><span>{item.type}</span><span>{item.ipa}</span></div>
-            <h2>{item.term}</h2>
+            <h2 className={item.term.length > 24 ? 'term-long' : item.term.length > 14 ? 'term-medium' : undefined}>{item.term}</h2>
             <p className="translation">{item.translation}</p>
             <p className="definition">{item.definition}</p>
-            <button className="hero-replay" onClick={() => speaking ? stop() : speak(item.audio.text, 'en-GB')} disabled={!supported}>{speaking ? '■ Stop' : '🔊 Replay pronunciation'}</button>
+            <button className="hero-listen" onClick={listenToTerm} disabled={!supported}><SocialIcon name="speaker" /><span>Listen</span></button>
           </div>
         </section>
 
