@@ -18,16 +18,31 @@
       "definition": "able to continue over time without causing harm",
       "examples": [
         {
-          "source": "During the discussion, the habit seemed sustainable once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Gewohnheit dauerhaft tragfähig, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "A sustainable exercise plan should still be manageable on busy or stressful weeks.",
+          "translation": "Ein nachhaltiger Trainingsplan sollte auch in arbeitsreichen oder stressigen Wochen zu bewältigen sein.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Although the habit appeared sustainable at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Gewohnheit zunächst dauerhaft tragfähig erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Rather than ban every treat, she made small, sustainable changes to the way she ate.",
+          "translation": "Anstatt sich jeden Genuss zu verbieten, nahm sie kleine, langfristig tragbare Veränderungen an ihrer Ernährung vor.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Her account showed why a more sustainable habit could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker dauerhaft tragfähig geprägte Sicht auf die Gewohnheit Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "The clinic helps patients build sustainable habits after treatment ends.",
+          "translation": "Die Klinik hilft Patienten, Gewohnheiten aufzubauen, die auch nach Ende der Behandlung Bestand haben.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         }
       ],
       "image": {
@@ -70,16 +85,31 @@
       "definition": "involving too much sitting and too little physical activity",
       "examples": [
         {
-          "source": "During the discussion, the routine seemed sedentary once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Routine bewegungsarm, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "A sedentary working day can leave you stiff even if you exercise in the evening.",
+          "translation": "Ein bewegungsarmer Arbeitstag kann zu Steifheit führen, selbst wenn man abends Sport treibt.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Although the routine appeared sedentary at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Routine zunächst bewegungsarm erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Because his recovery was slow, an active routine had gradually become a sedentary one.",
+          "translation": "Da seine Genesung langsam verlief, war aus einem aktiven Alltag allmählich ein bewegungsarmer geworden.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Her account showed why a more sedentary routine could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker bewegungsarm geprägte Sicht auf die Routine Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Short walking breaks interrupt sedentary time without requiring a trip to the gym.",
+          "translation": "Kurze Gehpausen unterbrechen langes Sitzen, ohne dass dafür ein Besuch im Fitnessstudio nötig ist.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         }
       ],
       "image": {
@@ -122,16 +152,31 @@
       "definition": "helping the body or mind recover",
       "examples": [
         {
-          "source": "During the discussion, the sleep seemed restorative once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte der Schlaf erholsam; regenerierend, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "After several restless nights, one deeply restorative sleep changed her mood completely.",
+          "translation": "Nach mehreren unruhigen Nächten veränderte ein einziges tief erholsames Schlaferlebnis ihre Stimmung völlig.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Although the sleep appeared restorative at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl der Schlaf zunächst erholsam; regenerierend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "The retreat was restorative not because it was luxurious, but because nobody expected an immediate reply.",
+          "translation": "Der Rückzug war nicht wegen des Luxus erholsam, sondern weil niemand eine sofortige Antwort erwartete.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Her account showed why a more restorative sleep could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker erholsam; regenerierend geprägte Sicht auf der Schlaf Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Gentle movement can be restorative when intense training would place the body under further strain.",
+          "translation": "Sanfte Bewegung kann regenerierend sein, wenn intensives Training den Körper zusätzlich belasten würde.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         }
       ],
       "image": {
@@ -174,16 +219,31 @@
       "definition": "able to recover and adapt after difficulty",
       "examples": [
         {
-          "source": "During the discussion, the person seemed resilient once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Person widerstandsfähig, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "A resilient immune system depends on many factors, including sleep, nutrition and previous exposure.",
+          "translation": "Ein widerstandsfähiges Immunsystem hängt von vielen Faktoren ab, darunter Schlaf, Ernährung und frühere Belastungen.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Although the person appeared resilient at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Person zunächst widerstandsfähig erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Recovery taught her that being resilient sometimes means asking for help early.",
+          "translation": "Die Genesung lehrte sie, dass Widerstandsfähigkeit manchmal bedeutet, frühzeitig um Hilfe zu bitten.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Her account showed why a more resilient person could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker widerstandsfähig geprägte Sicht auf die Person Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Communities are more resilient when healthcare remains accessible during a crisis.",
+          "translation": "Gemeinschaften sind widerstandsfähiger, wenn die Gesundheitsversorgung während einer Krise zugänglich bleibt.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         }
       ],
       "image": {
@@ -226,16 +286,31 @@
       "definition": "causing harm or damage",
       "examples": [
         {
-          "source": "During the discussion, the effect seemed detrimental once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Wirkung schädlich, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "Skipping follow-up appointments can be detrimental when symptoms appear to have improved.",
+          "translation": "Das Auslassen von Nachsorgeterminen kann schädlich sein, auch wenn sich die Symptome scheinbar gebessert haben.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Although the effect appeared detrimental at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Wirkung zunächst schädlich erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Constant sleep disruption had a detrimental effect on his concentration and appetite.",
+          "translation": "Ständige Schlafunterbrechungen wirkten sich nachteilig auf seine Konzentration und seinen Appetit aus.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Her account showed why a more detrimental effect could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker schädlich geprägte Sicht auf die Wirkung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "What feels productive in the short term may prove detrimental to wellbeing over several months.",
+          "translation": "Was kurzfristig produktiv erscheint, kann sich über mehrere Monate als schädlich für das Wohlbefinden erweisen.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         }
       ],
       "image": {
@@ -278,16 +353,31 @@
       "definition": "to continue following a regular pattern",
       "examples": [
         {
-          "source": "The group decided to stick to a routine before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, sich an eine Routine halten, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "She finds it easier to stick to a routine when her medication is beside the breakfast bowls.",
+          "translation": "Es fällt ihr leichter, eine Routine einzuhalten, wenn ihre Medikamente neben den Frühstücksschalen liegen.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Experienced people know when to stick to a routine, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie sich an eine Routine halten sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "You need not stick to a routine rigidly for it to support your health.",
+          "translation": "Man muss eine Routine nicht starr einhalten, damit sie die Gesundheit unterstützt.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "By choosing to stick to a routine, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, sich an eine Routine halten, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Even while travelling, he stuck to a simple bedtime routine and slept surprisingly well.",
+          "translation": "Selbst auf Reisen hielt er an einer einfachen Abendroutine fest und schlief überraschend gut.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         }
       ],
       "image": {
@@ -331,16 +421,31 @@
       "definition": "to treat physical and mental health as important",
       "examples": [
         {
-          "source": "The group decided to prioritise wellbeing before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, das Wohlbefinden priorisieren, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The hospital redesigned staff rotas to prioritise wellbeing after a demanding winter.",
+          "translation": "Das Krankenhaus gestaltete die Dienstpläne nach einem anstrengenden Winter neu, um das Wohlbefinden stärker zu berücksichtigen.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Experienced people know when to prioritise wellbeing, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie das Wohlbefinden priorisieren sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "To prioritise wellbeing, she declined another commitment and protected one evening for rest.",
+          "translation": "Um ihr Wohlbefinden zu priorisieren, sagte sie eine weitere Verpflichtung ab und hielt einen Abend für Erholung frei.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "By choosing to prioritise wellbeing, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, das Wohlbefinden priorisieren, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Employers cannot claim to prioritise wellbeing while rewarding permanent availability.",
+          "translation": "Arbeitgeber können nicht behaupten, Wohlbefinden zu priorisieren, während sie ständige Erreichbarkeit belohnen.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         }
       ],
       "image": {
@@ -384,16 +489,31 @@
       "definition": "to notice and respond to physical signals",
       "examples": [
         {
-          "source": "The group decided to listen to your body before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, auf den eigenen Körper hören, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "If the pain becomes sharper during the run, listen to your body and stop.",
+          "translation": "Wenn der Schmerz beim Laufen stärker wird, höre auf deinen Körper und hör auf.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Experienced people know when to listen to your body, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie auf den eigenen Körper hören sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Learning to listen to your body may involve distinguishing ordinary fatigue from a warning sign.",
+          "translation": "Auf den eigenen Körper zu hören bedeutet auch, normale Müdigkeit von einem Warnsignal unterscheiden zu lernen.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "By choosing to listen to your body, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, auf den eigenen Körper hören, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "She listened to her body, took two recovery days and returned without the usual exhaustion.",
+          "translation": "Sie hörte auf ihren Körper, legte zwei Erholungstage ein und kehrte ohne die übliche Erschöpfung zurück.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         }
       ],
       "image": {
@@ -437,16 +557,31 @@
       "definition": "to stop a repeated behaviour that is difficult to change",
       "examples": [
         {
-          "source": "The group decided to break a habit before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, eine Gewohnheit ablegen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Changing the route home helped him break the habit of buying cigarettes after work.",
+          "translation": "Ein anderer Heimweg half ihm, die Gewohnheit zu durchbrechen, nach der Arbeit Zigaretten zu kaufen.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Experienced people know when to break a habit, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie eine Gewohnheit ablegen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "To break a habit, identify the cue that triggers it rather than relying on willpower alone.",
+          "translation": "Um eine Gewohnheit abzulegen, sollte man den Auslöser erkennen, statt sich nur auf Willenskraft zu verlassen.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "By choosing to break a habit, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, eine Gewohnheit ablegen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "She had broken the habit of checking her phone in bed, and her sleep improved within weeks.",
+          "translation": "Sie hatte sich abgewöhnt, im Bett aufs Handy zu schauen, und ihr Schlaf verbesserte sich innerhalb weniger Wochen.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         }
       ],
       "image": {
@@ -490,16 +625,31 @@
       "definition": "to keep different needs in a healthy proportion",
       "examples": [
         {
-          "source": "The group decided to maintain a balance before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, ein Gleichgewicht bewahren, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "During rehabilitation, he tried to maintain a balance between movement and adequate rest.",
+          "translation": "Während der Rehabilitation versuchte er, ein Gleichgewicht zwischen Bewegung und ausreichender Ruhe zu halten.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "Experienced people know when to maintain a balance, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie ein Gleichgewicht bewahren sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "It becomes difficult to maintain a healthy balance when work follows you into every room.",
+          "translation": "Es wird schwierig, ein gesundes Gleichgewicht zu bewahren, wenn die Arbeit einem in jeden Raum folgt.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         },
         {
-          "source": "By choosing to maintain a balance, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, ein Gleichgewicht bewahren, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "The dietitian focused on maintaining a balance, not on labelling individual foods as good or bad.",
+          "translation": "Die Ernährungsberaterin konzentrierte sich auf Ausgewogenheit, statt einzelne Lebensmittel als gut oder schlecht zu bezeichnen.",
+          "sourceInfo": {
+            "publication": "World Health Organization",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/self-care-for-health-and-well-being?ua=1",
+            "type": "public health guidance"
+          }
         }
       ],
       "image": {
