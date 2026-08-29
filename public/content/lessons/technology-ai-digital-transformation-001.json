@@ -18,16 +18,31 @@
       "definition": "present or found everywhere",
       "examples": [
         {
-          "source": "During the discussion, the digital presence seemed ubiquitous once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die digitale Präsenz allgegenwärtig, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "Cloud services have become so ubiquitous that many users no longer notice when they depend on them.",
+          "translation": "Cloud-Dienste sind so allgegenwärtig geworden, dass viele Nutzer gar nicht mehr bemerken, wann sie von ihnen abhängen.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+            "type": "technology standards publication"
+          }
         },
         {
-          "source": "Although the digital presence appeared ubiquitous at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die digitale Präsenz zunächst allgegenwärtig erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Facial recognition is not yet ubiquitous, but its expansion has intensified the debate about consent.",
+          "translation": "Gesichtserkennung ist noch nicht allgegenwärtig, doch ihre Verbreitung hat die Debatte über Einwilligung verschärft.",
+          "sourceInfo": {
+            "publication": "NIST CSRC",
+            "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+            "type": "cybersecurity publication"
+          }
         },
         {
-          "source": "Her account showed why a more ubiquitous digital presence could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker allgegenwärtig geprägte Sicht auf die digitale Präsenz Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Once smartphones became ubiquitous, product designers had to rethink what access meant.",
+          "translation": "Als Smartphones allgegenwärtig wurden, mussten Produktdesigner neu überdenken, was Zugang bedeutet.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/system/files/documents/2024/10/21/The%20IoT%20of%20Things%20Oct%202024%20508%20FINAL_1.pdf",
+            "type": "technology report"
+          }
         }
       ],
       "image": {
@@ -70,16 +85,31 @@
       "definition": "able to grow without losing effectiveness",
       "examples": [
         {
-          "source": "During the discussion, the platform seemed scalable once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Plattform skalierbar, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "The prototype worked for a hundred users, but the architecture was not scalable enough for a national launch.",
+          "translation": "Der Prototyp funktionierte für hundert Nutzer, doch die Architektur war für einen landesweiten Start nicht ausreichend skalierbar.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+            "type": "technology standards publication"
+          }
         },
         {
-          "source": "Although the platform appeared scalable at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Plattform zunächst skalierbar erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "A scalable support system combines automation with a clear route to human help.",
+          "translation": "Ein skalierbares Supportsystem verbindet Automatisierung mit einem klaren Weg zu menschlicher Hilfe.",
+          "sourceInfo": {
+            "publication": "NIST CSRC",
+            "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+            "type": "cybersecurity publication"
+          }
         },
         {
-          "source": "Her account showed why a more scalable platform could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker skalierbar geprägte Sicht auf die Plattform Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "By separating storage from computation, the engineers made the platform far more scalable.",
+          "translation": "Durch die Trennung von Speicherung und Berechnung machten die Ingenieure die Plattform deutlich besser skalierbar.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/system/files/documents/2024/10/21/The%20IoT%20of%20Things%20Oct%202024%20508%20FINAL_1.pdf",
+            "type": "technology report"
+          }
         }
       ],
       "image": {
@@ -122,16 +152,31 @@
       "definition": "causing major change to an established system",
       "examples": [
         {
-          "source": "During the discussion, the innovation seemed disruptive once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Innovation grundlegend verändernd, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "The technology was disruptive not because it was new, but because it changed who could enter the market.",
+          "translation": "Die Technologie war disruptiv, nicht weil sie neu war, sondern weil sie veränderte, wer in den Markt eintreten konnte.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+            "type": "technology standards publication"
+          }
         },
         {
-          "source": "Although the innovation appeared disruptive at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Innovation zunächst grundlegend verändernd erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "A disruptive update released without warning can undermine trust even when it improves the product.",
+          "translation": "Ein einschneidendes Update ohne Vorwarnung kann Vertrauen untergraben, selbst wenn es das Produkt verbessert.",
+          "sourceInfo": {
+            "publication": "NIST CSRC",
+            "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+            "type": "cybersecurity publication"
+          }
         },
         {
-          "source": "Her account showed why a more disruptive innovation could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker grundlegend verändernd geprägte Sicht auf die Innovation Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Investors called the tool disruptive; its users were more interested in whether it saved them time.",
+          "translation": "Investoren nannten das Werkzeug disruptiv; die Nutzer interessierte eher, ob es ihnen Zeit sparte.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/system/files/documents/2024/10/21/The%20IoT%20of%20Things%20Oct%202024%20508%20FINAL_1.pdf",
+            "type": "technology report"
+          }
         }
       ],
       "image": {
@@ -174,16 +219,31 @@
       "definition": "no longer useful because something newer exists",
       "examples": [
         {
-          "source": "During the discussion, the system seemed obsolete once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte das System veraltet; überholt, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "The encryption method became obsolete once affordable hardware could defeat it in hours.",
+          "translation": "Das Verschlüsselungsverfahren wurde überholt, als erschwingliche Hardware es innerhalb weniger Stunden knacken konnte.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+            "type": "technology standards publication"
+          }
         },
         {
-          "source": "Although the system appeared obsolete at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl das System zunächst veraltet; überholt erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Replacing an obsolete system is difficult when critical records exist in no other format.",
+          "translation": "Ein veraltetes System zu ersetzen ist schwierig, wenn wichtige Datensätze in keinem anderen Format vorliegen.",
+          "sourceInfo": {
+            "publication": "NIST CSRC",
+            "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+            "type": "cybersecurity publication"
+          }
         },
         {
-          "source": "Her account showed why a more obsolete system could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker veraltet; überholt geprägte Sicht auf das System Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Skills do not become obsolete overnight, but the tasks around them may change rapidly.",
+          "translation": "Fähigkeiten werden nicht über Nacht überholt, doch die Aufgaben rund um sie können sich schnell verändern.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/system/files/documents/2024/10/21/The%20IoT%20of%20Things%20Oct%202024%20508%20FINAL_1.pdf",
+            "type": "technology report"
+          }
         }
       ],
       "image": {
@@ -226,16 +286,31 @@
       "definition": "able to exchange and use information with other systems",
       "examples": [
         {
-          "source": "During the discussion, the service seemed interoperable once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte der Dienst kompatibel und vernetzbar, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "The hospital needs interoperable systems so that patient records follow people between providers.",
+          "translation": "Das Krankenhaus braucht interoperable Systeme, damit Patientendaten die Menschen zwischen verschiedenen Anbietern begleiten.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+            "type": "technology standards publication"
+          }
         },
         {
-          "source": "Although the service appeared interoperable at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl der Dienst zunächst kompatibel und vernetzbar erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Two devices can be connected without being truly interoperable.",
+          "translation": "Zwei Geräte können verbunden sein, ohne wirklich interoperabel zu sein.",
+          "sourceInfo": {
+            "publication": "NIST CSRC",
+            "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+            "type": "cybersecurity publication"
+          }
         },
         {
-          "source": "Her account showed why a more interoperable service could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker kompatibel und vernetzbar geprägte Sicht auf der Dienst Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Open standards made the new identity service interoperable with older public-sector software.",
+          "translation": "Offene Standards machten den neuen Identitätsdienst mit älterer Software des öffentlichen Sektors interoperabel.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/system/files/documents/2024/10/21/The%20IoT%20of%20Things%20Oct%202024%20508%20FINAL_1.pdf",
+            "type": "technology report"
+          }
         }
       ],
       "image": {
@@ -278,16 +353,31 @@
       "definition": "to use an opportunity or technology effectively",
       "examples": [
         {
-          "source": "The group decided to harness the potential before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, das Potenzial ausschöpfen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Researchers hope to harness the potential of AI without concealing uncertainty in its output.",
+          "translation": "Forscher hoffen, das Potenzial von KI zu nutzen, ohne Unsicherheiten in ihren Ergebnissen zu verschleiern.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+            "type": "technology standards publication"
+          }
         },
         {
-          "source": "Experienced people know when to harness the potential, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie das Potenzial ausschöpfen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "To harness the potential of the data, the team first had to improve its quality and governance.",
+          "translation": "Um das Potenzial der Daten auszuschöpfen, musste das Team zunächst deren Qualität und Verwaltung verbessern.",
+          "sourceInfo": {
+            "publication": "NIST CSRC",
+            "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+            "type": "cybersecurity publication"
+          }
         },
         {
-          "source": "By choosing to harness the potential, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, das Potenzial ausschöpfen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Small manufacturers are beginning to harness the potential of digital twins for maintenance planning.",
+          "translation": "Kleine Hersteller beginnen, das Potenzial digitaler Zwillinge für die Wartungsplanung zu nutzen.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/system/files/documents/2024/10/21/The%20IoT%20of%20Things%20Oct%202024%20508%20FINAL_1.pdf",
+            "type": "technology report"
+          }
         }
       ],
       "image": {
@@ -331,16 +421,31 @@
       "definition": "to reduce unequal access to digital technology",
       "examples": [
         {
-          "source": "The group decided to bridge the digital divide before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, die digitale Kluft überbrücken, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The library lends laptops and mobile routers to help bridge the digital divide in rural communities.",
+          "translation": "Die Bibliothek verleiht Laptops und mobile Router, um die digitale Kluft in ländlichen Gemeinden zu überbrücken.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+            "type": "technology standards publication"
+          }
         },
         {
-          "source": "Experienced people know when to bridge the digital divide, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie die digitale Kluft überbrücken sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Affordable access alone will not bridge the digital divide if services remain difficult to use.",
+          "translation": "Bezahlbarer Zugang allein wird die digitale Kluft nicht schließen, wenn Dienste weiterhin schwer zu bedienen sind.",
+          "sourceInfo": {
+            "publication": "NIST CSRC",
+            "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+            "type": "cybersecurity publication"
+          }
         },
         {
-          "source": "By choosing to bridge the digital divide, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, die digitale Kluft überbrücken, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Training older residents to use online health portals was one practical step towards bridging the digital divide.",
+          "translation": "Ältere Einwohner in der Nutzung von Online-Gesundheitsportalen zu schulen war ein praktischer Schritt zur Überbrückung der digitalen Kluft.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/system/files/documents/2024/10/21/The%20IoT%20of%20Things%20Oct%202024%20508%20FINAL_1.pdf",
+            "type": "technology report"
+          }
         }
       ],
       "image": {
@@ -384,16 +489,31 @@
       "definition": "to protect personal information from misuse",
       "examples": [
         {
-          "source": "The group decided to safeguard privacy before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, die Privatsphäre schützen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The app processes location data on the device to safeguard privacy.",
+          "translation": "Die App verarbeitet Standortdaten auf dem Gerät, um die Privatsphäre zu schützen.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+            "type": "technology standards publication"
+          }
         },
         {
-          "source": "Experienced people know when to safeguard privacy, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie die Privatsphäre schützen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "If we want to safeguard privacy, collecting less information is often safer than promising to secure everything.",
+          "translation": "Wenn wir die Privatsphäre schützen wollen, ist es häufig sicherer, weniger Informationen zu sammeln, als zu versprechen, alles abzusichern.",
+          "sourceInfo": {
+            "publication": "NIST CSRC",
+            "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+            "type": "cybersecurity publication"
+          }
         },
         {
-          "source": "By choosing to safeguard privacy, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, die Privatsphäre schützen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "New identity checks were introduced to safeguard users' privacy without blocking legitimate access.",
+          "translation": "Neue Identitätsprüfungen wurden eingeführt, um die Privatsphäre der Nutzer zu schützen, ohne berechtigten Zugang zu verhindern.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/system/files/documents/2024/10/21/The%20IoT%20of%20Things%20Oct%202024%20508%20FINAL_1.pdf",
+            "type": "technology report"
+          }
         }
       ],
       "image": {
@@ -437,16 +557,31 @@
       "definition": "to make a repeated task operate automatically",
       "examples": [
         {
-          "source": "The group decided to automate a process before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, einen Prozess automatisieren, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Before you automate a process, ask whether its exceptions are more important than its routine steps.",
+          "translation": "Bevor man einen Prozess automatisiert, sollte man fragen, ob seine Ausnahmen wichtiger sind als die Standardschritte.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+            "type": "technology standards publication"
+          }
         },
         {
-          "source": "Experienced people know when to automate a process, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie einen Prozess automatisieren sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "The company automated the invoice process, reducing delays but creating new oversight tasks.",
+          "translation": "Das Unternehmen automatisierte den Rechnungsprozess, verringerte Verzögerungen und schuf zugleich neue Kontrollaufgaben.",
+          "sourceInfo": {
+            "publication": "NIST CSRC",
+            "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+            "type": "cybersecurity publication"
+          }
         },
         {
-          "source": "By choosing to automate a process, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, einen Prozess automatisieren, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "A script can automate a repetitive process while leaving final approval to a person.",
+          "translation": "Ein Skript kann einen wiederkehrenden Prozess automatisieren und die endgültige Freigabe dennoch einem Menschen überlassen.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/system/files/documents/2024/10/21/The%20IoT%20of%20Things%20Oct%202024%20508%20FINAL_1.pdf",
+            "type": "technology report"
+          }
         }
       ],
       "image": {
@@ -490,16 +625,31 @@
       "definition": "to develop as quickly as something that is changing",
       "examples": [
         {
-          "source": "The group decided to keep pace with before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, mit etwas Schritt halten, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Security teams struggle to keep pace with threats that evolve faster than annual review cycles.",
+          "translation": "Sicherheitsteams haben Mühe, mit Bedrohungen Schritt zu halten, die sich schneller entwickeln als jährliche Prüfzyklen.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+            "type": "technology standards publication"
+          }
         },
         {
-          "source": "Experienced people know when to keep pace with, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie mit etwas Schritt halten sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "The regulator updated its guidance to keep pace with the rapid adoption of AI agents.",
+          "translation": "Die Aufsichtsbehörde aktualisierte ihre Leitlinien, um mit der raschen Einführung von KI-Agenten Schritt zu halten.",
+          "sourceInfo": {
+            "publication": "NIST CSRC",
+            "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+            "type": "cybersecurity publication"
+          }
         },
         {
-          "source": "By choosing to keep pace with, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, mit etwas Schritt halten, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Smaller firms may not have the resources to keep pace with every software release.",
+          "translation": "Kleinere Unternehmen verfügen möglicherweise nicht über die Mittel, um mit jeder Softwareveröffentlichung Schritt zu halten.",
+          "sourceInfo": {
+            "publication": "NIST",
+            "url": "https://www.nist.gov/system/files/documents/2024/10/21/The%20IoT%20of%20Things%20Oct%202024%20508%20FINAL_1.pdf",
+            "type": "technology report"
+          }
         }
       ],
       "image": {
