@@ -49,7 +49,7 @@ function FeedbackWords({ expected, transcript }: { expected: string; transcript:
 
 export function LearningPost({ item, position, isActive, progress, completedItems, totalItems, onUpdate, onHome }: Props) {
   const { ref, index, settledIndex, onScroll, reset } = useCarousel()
-  const { speak, stop, speaking, supported } = useSpeech()
+  const { speak, stop, supported } = useSpeech()
   const practice = useSpeechRecognition()
   const [noteOpen, setNoteOpen] = useState(false)
   const [youglishLoaded, setYouglishLoaded] = useState(false)
