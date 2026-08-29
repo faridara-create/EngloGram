@@ -6,6 +6,11 @@ const languageTag = z.string().regex(/^[a-z]{2,3}(?:-[A-Z]{2})?$/)
 export const exampleSchema = z.object({
   source: nonEmpty,
   translation: nonEmpty,
+  sourceInfo: z.object({
+    publication: nonEmpty,
+    url: z.string().url(),
+    type: nonEmpty,
+  }).optional(),
 })
 
 export const learningItemSchema = z.object({
