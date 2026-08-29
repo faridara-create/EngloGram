@@ -622,3 +622,276 @@ button:focus-visible, a:focus-visible, textarea:focus-visible { outline: 3px sol
   .practice-feedback,
   .practice-capability { margin-top: -8px; margin-bottom: 16px; font-size: 8.5px; }
 }
+
+
+/* Six-slide learning post refinement */
+.learning-post { --item-action-space: 104px; }
+
+.hero-slide {
+  display: block;
+  isolation: isolate;
+  background: #111714;
+  color: white;
+}
+.hero-slide .photo-field {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.hero-slide .photo-field::after {
+  height: 88%;
+  background: linear-gradient(transparent 18%, rgba(8,14,11,.25) 43%, rgba(8,14,11,.94) 100%);
+}
+.hero-slide .photo-index {
+  top: max(24px, calc(16px + env(safe-area-inset-top)));
+  bottom: auto;
+  font-size: 46px;
+  opacity: .82;
+}
+.hero-slide .photo-credit {
+  top: max(30px, calc(22px + env(safe-area-inset-top)));
+  bottom: auto;
+}
+.hero-slide .hero-content {
+  position: absolute;
+  z-index: 3;
+  inset: auto 0 var(--item-action-space);
+  display: flex;
+  padding: 20px 20px 12px;
+  color: white;
+}
+.hero-slide .type-row { color: rgba(255,255,255,.76); }
+.hero-slide .type-row span:first-child { color: #ffd1c5; }
+.hero-slide .type-row span:last-child { color: white; }
+.hero-slide .hero-content h2 {
+  margin-top: 7px;
+  color: white;
+  font-size: clamp(43px, 13vw, 62px);
+}
+.hero-slide .hero-content .translation { color: #ffd1c5; }
+.hero-slide .hero-content .definition {
+  max-width: 34em;
+  margin-top: 7px;
+  color: rgba(255,255,255,.88);
+  line-height: 1.32;
+}
+.hero-replay {
+  align-self: flex-start;
+  min-height: 38px;
+  margin-top: 11px;
+  padding: 7px 13px;
+  border: 1px solid rgba(255,255,255,.3);
+  border-radius: 999px;
+  background: rgba(255,255,255,.13);
+  color: white;
+  font-size: 10px;
+  font-weight: 700;
+  backdrop-filter: blur(8px);
+}
+
+.item-action-bar {
+  position: absolute;
+  z-index: 28;
+  right: 12px;
+  bottom: calc(28px + env(safe-area-inset-bottom));
+  left: 12px;
+  height: 62px;
+  margin: 0;
+  padding: 5px 7px;
+  border: 1px solid rgba(255,255,255,.13);
+  border-radius: 18px;
+  background: rgba(17,25,21,.94);
+  color: white;
+  box-shadow: 0 10px 28px rgba(6,10,8,.24);
+  backdrop-filter: blur(14px);
+}
+.item-action-bar button { min-height: 50px; color: white; }
+.item-action-bar span { color: rgba(255,255,255,.68); }
+.item-action-bar button.selected span { color: currentColor; }
+.item-action-bar .like-active { color: #ff8790; }
+.item-action-bar .save-active,
+.item-action-bar button.selected:not(.like-active) { color: #f5ad84; }
+
+.slide-dots {
+  z-index: 29;
+  bottom: calc(9px + env(safe-area-inset-bottom));
+  padding: 3px 6px;
+  border-radius: 999px;
+  background: rgba(245,241,233,.72);
+}
+.horizontal-hint { z-index: 29; bottom: calc(10px + env(safe-area-inset-bottom)); }
+
+.youglish-slide {
+  padding: max(39px, calc(31px + env(safe-area-inset-top))) 12px var(--item-action-space);
+}
+.youglish-slide .slide-label { top: max(19px, calc(11px + env(safe-area-inset-top))); }
+.youglish-slide .external-heading { flex: 0 0 auto; }
+.youglish-slide .external-heading span { font-size: 13px; }
+.youglish-slide .external-heading h2 { font-size: 27px; }
+.youglish-slide .external-heading p { font-size: 10px; }
+.youglish-slide .widget-shell {
+  flex: 1 1 auto;
+  max-height: none;
+  margin-top: 6px;
+}
+.youglish-slide .youglish-frame {
+  grid-template-rows: minmax(200px, 1fr) auto auto;
+}
+.youglish-slide .youglish-target,
+.youglish-slide .youglish-target > iframe,
+.youglish-slide .youglish-target iframe { min-height: 200px !important; }
+.youglish-slide .widget-loading { height: 200px; }
+.youglish-slide .privacy-copy { margin-top: 4px; font-size: 7px; }
+
+.example-slide {
+  justify-content: flex-start;
+  padding: max(48px, calc(40px + env(safe-area-inset-top))) 18px var(--item-action-space);
+}
+.example-slide .slide-label { top: max(32px, calc(24px + env(safe-area-inset-top))); }
+.example-slide .example-copy {
+  flex: 1 1 auto;
+  min-height: 0;
+  margin: 7px 0 0;
+}
+.example-slide .source-sentence {
+  font-size: clamp(22px, 5.9vw, 30px);
+  line-height: 1.08;
+}
+.example-slide .translated-sentence {
+  font-size: clamp(12px, 3.25vw, 14px);
+  line-height: 1.27;
+}
+.example-slide .practice-actions {
+  flex: 0 0 auto;
+  gap: 8px;
+  margin: 9px 0 8px;
+}
+.example-slide .practice-actions button {
+  min-height: 48px;
+  border-radius: 14px;
+  font-size: 11px;
+}
+.example-slide .practice-actions svg { width: 22px; height: 22px; }
+.example-slide .practice-feedback,
+.example-slide .practice-capability {
+  flex: 0 0 auto;
+  margin: 0 0 4px;
+  font-size: 10px;
+}
+.example-slide .practice-feedback {
+  gap: 4px;
+  max-height: 132px;
+  padding: 8px 10px;
+}
+.example-slide .practice-feedback > span { font-size: 9px; }
+.example-slide .practice-feedback q { font-size: 10px; }
+.feedback-words {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+  max-height: 42px;
+  overflow: hidden;
+}
+.feedback-words span {
+  padding: 2px 5px;
+  border-radius: 5px;
+  background: rgba(50,109,88,.12);
+  color: #326d58;
+  font-size: 8px;
+}
+.feedback-words .missing {
+  background: rgba(196,126,31,.14);
+  color: #8a5814;
+  text-decoration: line-through;
+}
+.feedback-words .changed {
+  background: rgba(141,44,39,.11);
+  color: #8d2c27;
+}
+.example-slide .practice-feedback button { font-size: 9px; }
+
+.reward-slide {
+  display: grid;
+  place-items: center;
+  padding: max(52px, calc(44px + env(safe-area-inset-top))) 24px var(--item-action-space);
+  background:
+    radial-gradient(circle at 50% 31%, color-mix(in srgb, var(--tone-b), white 22%), transparent 37%),
+    linear-gradient(150deg, #f7f2e7, color-mix(in srgb, var(--tone-b), #f7f2e7 68%));
+  text-align: center;
+}
+.reward-slide .slide-label { top: max(28px, calc(20px + env(safe-area-inset-top))); }
+.reward-check {
+  position: absolute;
+  top: 17%;
+  display: grid;
+  place-items: center;
+  width: 76px;
+  height: 76px;
+  border: 1px solid color-mix(in srgb, var(--tone-a), transparent 35%);
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--tone-a), transparent 82%);
+  color: var(--tone-a);
+  font-family: 'Instrument Serif';
+  font-size: 42px;
+  animation: reward-arrive .48s ease both;
+}
+.reward-copy { margin-top: 72px; }
+.reward-copy small { color: var(--tone-a); font-size: 9px; font-weight: 700; letter-spacing: .16em; }
+.reward-copy h2 {
+  margin: 7px 0 13px;
+  font-family: 'Instrument Serif';
+  font-size: clamp(43px, 13vw, 64px);
+  font-weight: 400;
+  line-height: .9;
+}
+.reward-copy p { margin: 0 0 16px; color: var(--muted); font-size: 13px; line-height: 1.45; }
+.reward-copy strong {
+  display: block;
+  padding: 10px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 11px;
+}
+.reward-copy > span { display: block; margin-top: 22px; font-size: 12px; font-weight: 700; }
+@keyframes reward-arrive {
+  from { transform: scale(.76); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+@media (max-height: 840px) {
+  .learning-post { --item-action-space: 98px; }
+  .item-action-bar { height: 58px; }
+  .item-action-bar button { min-height: 46px; }
+  .hero-slide .hero-content { padding-bottom: 8px; }
+  .hero-slide .hero-content h2 { font-size: clamp(39px, 11.8vw, 55px); }
+  .hero-slide .hero-content .definition { font-size: 11.5px; }
+  .hero-replay { min-height: 34px; margin-top: 8px; }
+  .youglish-slide .youglish-frame { grid-template-rows: minmax(185px, 1fr) auto auto; }
+  .youglish-slide .youglish-target,
+  .youglish-slide .youglish-target > iframe,
+  .youglish-slide .youglish-target iframe { min-height: 185px !important; }
+  .youglish-slide .widget-loading { height: 185px; }
+  .youglish-controls button { min-height: 37px; }
+  .example-slide { padding-top: max(45px, calc(37px + env(safe-area-inset-top))); }
+  .example-slide .source-sentence { font-size: clamp(20px, 5.55vw, 27px); }
+  .example-slide .practice-actions button { min-height: 44px; }
+  .example-slide .practice-feedback { max-height: 116px; }
+  .feedback-words { max-height: 36px; }
+  .reward-check { top: 13%; width: 68px; height: 68px; }
+  .reward-copy { margin-top: 59px; }
+  .reward-copy > span { margin-top: 15px; }
+}
+
+@media (max-width: 370px) {
+  .item-action-bar span {
+    position: static;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    clip: auto;
+    font-size: 7px;
+  }
+  .hero-slide .hero-content { padding-right: 17px; padding-left: 17px; }
+}
