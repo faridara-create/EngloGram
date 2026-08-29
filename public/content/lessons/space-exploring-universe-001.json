@@ -18,16 +18,31 @@
       "definition": "extremely large in area, amount or extent",
       "examples": [
         {
-          "source": "During the discussion, the universe seemed vast once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte das Universum riesig; unermesslich, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "Even a powerful telescope captures only a fraction of the vast observable universe.",
+          "translation": "Selbst ein leistungsstarkes Teleskop erfasst nur einen Bruchteil des gewaltigen beobachtbaren Universums.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/exoplanets/missions/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Although the universe appeared vast at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl das Universum zunächst riesig; unermesslich erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "The signal crossed a vast distance before reaching the array of radio dishes in Chile.",
+          "translation": "Das Signal legte eine enorme Entfernung zurück, bevor es die Radioteleskope in Chile erreichte.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/astrophysics/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Her account showed why a more vast universe could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker riesig; unermesslich geprägte Sicht auf das Universum Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Against the vast darkness, the galaxy appeared as a faint spiral of ancient light.",
+          "translation": "Vor der Weite der Dunkelheit erschien die Galaxie als schwache Spirale uralten Lichts.",
+          "sourceInfo": {
+            "publication": "NASA",
+            "url": "https://www.nasa.gov/nasa-missions/",
+            "type": "space agency publication"
+          }
         }
       ],
       "image": {
@@ -70,16 +85,31 @@
       "definition": "relating to the sky or objects in space",
       "examples": [
         {
-          "source": "During the discussion, the object seemed celestial once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte das Objekt himmlisch; astronomisch, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "For centuries, sailors used celestial objects to estimate their position at sea.",
+          "translation": "Über Jahrhunderte nutzten Seefahrer Himmelskörper, um ihre Position auf See zu bestimmen.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/exoplanets/missions/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Although the object appeared celestial at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl das Objekt zunächst himmlisch; astronomisch erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "The instrument tracks subtle changes in the brightness of distant celestial bodies.",
+          "translation": "Das Instrument verfolgt kleinste Helligkeitsveränderungen entfernter Himmelskörper.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/astrophysics/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Her account showed why a more celestial object could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker himmlisch; astronomisch geprägte Sicht auf das Objekt Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "A rare alignment brought three celestial neighbours into the same field of view.",
+          "translation": "Eine seltene Konstellation brachte drei benachbarte Himmelskörper in dasselbe Sichtfeld.",
+          "sourceInfo": {
+            "publication": "NASA",
+            "url": "https://www.nasa.gov/nasa-missions/",
+            "type": "space agency publication"
+          }
         }
       ],
       "image": {
@@ -122,16 +152,31 @@
       "definition": "suitable for people or other life to live in",
       "examples": [
         {
-          "source": "During the discussion, the environment seemed habitable once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Umgebung bewohnbar, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "A planet may orbit in a habitable zone without possessing an atmosphere that can support life.",
+          "translation": "Ein Planet kann eine bewohnbare Zone umkreisen, ohne eine Atmosphäre zu besitzen, die Leben ermöglicht.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/exoplanets/missions/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Although the environment appeared habitable at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Umgebung zunächst bewohnbar erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Scientists are searching for chemical clues that could distinguish a habitable world from a merely rocky one.",
+          "translation": "Wissenschaftler suchen nach chemischen Hinweisen, die eine bewohnbare Welt von einer bloß felsigen unterscheiden könnten.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/astrophysics/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Her account showed why a more habitable environment could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker bewohnbar geprägte Sicht auf die Umgebung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Whether the moon was ever habitable depends partly on how long liquid water survived beneath its surface.",
+          "translation": "Ob der Mond jemals bewohnbar war, hängt teilweise davon ab, wie lange flüssiges Wasser unter seiner Oberfläche existierte.",
+          "sourceInfo": {
+            "publication": "NASA",
+            "url": "https://www.nasa.gov/nasa-missions/",
+            "type": "space agency publication"
+          }
         }
       ],
       "image": {
@@ -174,16 +219,31 @@
       "definition": "never having happened or existed before",
       "examples": [
         {
-          "source": "During the discussion, the observation seemed unprecedented once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Beobachtung beispiellos, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "The telescope returned an unprecedented view of galaxies forming in the early universe.",
+          "translation": "Das Teleskop lieferte einen beispiellosen Blick auf Galaxien, die sich im frühen Universum bildeten.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/exoplanets/missions/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Although the observation appeared unprecedented at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Beobachtung zunächst beispiellos erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "An unprecedented burst of data forced the research team to redesign its analysis pipeline.",
+          "translation": "Eine beispiellose Datenmenge zwang das Forschungsteam, seine Analysepipeline neu zu gestalten.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/astrophysics/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Her account showed why a more unprecedented observation could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker beispiellos geprägte Sicht auf die Beobachtung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Never before had astronomers observed the event with such unprecedented clarity across several wavelengths.",
+          "translation": "Noch nie hatten Astronomen das Ereignis mit solch beispielloser Klarheit über mehrere Wellenlängen hinweg beobachtet.",
+          "sourceInfo": {
+            "publication": "NASA",
+            "url": "https://www.nasa.gov/nasa-missions/",
+            "type": "space agency publication"
+          }
         }
       ],
       "image": {
@@ -226,16 +286,31 @@
       "definition": "difficult to find, achieve or understand",
       "examples": [
         {
-          "source": "During the discussion, the signal seemed elusive once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte das Signal schwer fassbar, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "Dark matter remains elusive because it does not emit or reflect light.",
+          "translation": "Dunkle Materie bleibt schwer fassbar, weil sie weder Licht aussendet noch reflektiert.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/exoplanets/missions/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Although the signal appeared elusive at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl das Signal zunächst schwer fassbar erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "After months of observation, the elusive signal appeared again for less than a second.",
+          "translation": "Nach monatelanger Beobachtung tauchte das schwer fassbare Signal für weniger als eine Sekunde erneut auf.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/astrophysics/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Her account showed why a more elusive signal could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker schwer fassbar geprägte Sicht auf das Signal Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "The mission seeks evidence of an elusive atmosphere around the small, intensely heated planet.",
+          "translation": "Die Mission sucht nach Hinweisen auf eine schwer nachweisbare Atmosphäre um den kleinen, stark erhitzten Planeten.",
+          "sourceInfo": {
+            "publication": "NASA",
+            "url": "https://www.nasa.gov/nasa-missions/",
+            "type": "space agency publication"
+          }
         }
       ],
       "image": {
@@ -278,16 +353,31 @@
       "definition": "to travel beyond Earth despite difficulty or risk",
       "examples": [
         {
-          "source": "The group decided to venture into space before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, sich ins All wagen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The first crews to venture into space accepted risks that engineers could estimate but not eliminate.",
+          "translation": "Die ersten Besatzungen, die sich ins All wagten, nahmen Risiken in Kauf, die Ingenieure zwar abschätzen, aber nicht beseitigen konnten.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/exoplanets/missions/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Experienced people know when to venture into space, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie sich ins All wagen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Before humans venture deeper into space, missions must solve the problem of prolonged radiation exposure.",
+          "translation": "Bevor Menschen weiter ins All vordringen, müssen Missionen das Problem langanhaltender Strahlenbelastung lösen.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/astrophysics/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "By choosing to venture into space, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, sich ins All wagen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "She joined the astronaut programme hoping one day to venture into space herself.",
+          "translation": "Sie trat dem Astronautenprogramm bei, in der Hoffnung, sich eines Tages selbst ins All zu wagen.",
+          "sourceInfo": {
+            "publication": "NASA",
+            "url": "https://www.nasa.gov/nasa-missions/",
+            "type": "space agency publication"
+          }
         }
       ],
       "image": {
@@ -331,16 +421,31 @@
       "definition": "to travel repeatedly around a planet",
       "examples": [
         {
-          "source": "The group decided to orbit a planet before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, einen Planeten umkreisen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "A spacecraft can orbit a planet for years while repeatedly mapping the same changing surface.",
+          "translation": "Ein Raumfahrzeug kann einen Planeten jahrelang umkreisen und dabei immer wieder dieselbe sich verändernde Oberfläche kartieren.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/exoplanets/missions/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Experienced people know when to orbit a planet, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie einen Planeten umkreisen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "The probe will not land; instead, it will orbit the planet and study its upper atmosphere.",
+          "translation": "Die Sonde wird nicht landen, sondern den Planeten umkreisen und seine obere Atmosphäre untersuchen.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/astrophysics/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "By choosing to orbit a planet, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, einen Planeten umkreisen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Because the two moons orbit their planet at different speeds, their shadows occasionally cross.",
+          "translation": "Da die beiden Monde ihren Planeten mit unterschiedlicher Geschwindigkeit umkreisen, kreuzen sich gelegentlich ihre Schatten.",
+          "sourceInfo": {
+            "publication": "NASA",
+            "url": "https://www.nasa.gov/nasa-missions/",
+            "type": "space agency publication"
+          }
         }
       ],
       "image": {
@@ -384,16 +489,31 @@
       "definition": "to remain functional in a very hostile environment",
       "examples": [
         {
-          "source": "The group decided to withstand extreme conditions before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, extremen Bedingungen standhalten, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The rover's electronics were insulated to withstand extreme conditions on the Martian surface.",
+          "translation": "Die Elektronik des Rovers wurde isoliert, um den extremen Bedingungen auf der Marsoberfläche standzuhalten.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/exoplanets/missions/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Experienced people know when to withstand extreme conditions, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie extremen Bedingungen standhalten sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Any material used on the probe must withstand extreme conditions without becoming brittle.",
+          "translation": "Jedes Material, das in der Sonde eingesetzt wird, muss extremen Bedingungen standhalten, ohne spröde zu werden.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/astrophysics/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "By choosing to withstand extreme conditions, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, extremen Bedingungen standhalten, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Tiny organisms that withstand extreme conditions on Earth help scientists imagine where life might persist elsewhere.",
+          "translation": "Winzige Organismen, die extremen Bedingungen auf der Erde standhalten, helfen Wissenschaftlern zu verstehen, wo Leben andernorts bestehen könnte.",
+          "sourceInfo": {
+            "publication": "NASA",
+            "url": "https://www.nasa.gov/nasa-missions/",
+            "type": "space agency publication"
+          }
         }
       ],
       "image": {
@@ -437,16 +557,31 @@
       "definition": "to make a difficult subject clearer",
       "examples": [
         {
-          "source": "The group decided to shed light on before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, Aufschluss über etwas geben, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Measurements of the star's wobble may shed light on the hidden planet's mass.",
+          "translation": "Messungen des Taumelns des Sterns könnten Aufschluss über die Masse des verborgenen Planeten geben.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/exoplanets/missions/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Experienced people know when to shed light on, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie Aufschluss über etwas geben sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "The returned samples could shed light on how water reached the early Earth.",
+          "translation": "Die zurückgebrachten Proben könnten Aufschluss darüber geben, wie Wasser auf die frühe Erde gelangte.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/astrophysics/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "By choosing to shed light on, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, Aufschluss über etwas geben, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "By comparing old and new images, astronomers shed light on the remnant's rapid expansion.",
+          "translation": "Durch den Vergleich alter und neuer Bilder warfen Astronomen Licht auf die rasche Ausdehnung des Überrests.",
+          "sourceInfo": {
+            "publication": "NASA",
+            "url": "https://www.nasa.gov/nasa-missions/",
+            "type": "space agency publication"
+          }
         }
       ],
       "image": {
@@ -490,16 +625,31 @@
       "definition": "to go beyond what is currently known or possible",
       "examples": [
         {
-          "source": "The group decided to push the boundaries before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, die Grenzen erweitern, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The observatory was built to push the boundaries of what infrared astronomy can detect.",
+          "translation": "Das Observatorium wurde gebaut, um die Grenzen dessen zu erweitern, was die Infrarotastronomie erfassen kann.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/exoplanets/missions/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "Experienced people know when to push the boundaries, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie die Grenzen erweitern sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Missions that push the boundaries of exploration also expose weaknesses in existing technology.",
+          "translation": "Missionen, die die Grenzen der Erforschung verschieben, decken zugleich Schwächen bestehender Technologien auf.",
+          "sourceInfo": {
+            "publication": "NASA Science",
+            "url": "https://science.nasa.gov/astrophysics/",
+            "type": "science publication"
+          }
         },
         {
-          "source": "By choosing to push the boundaries, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, die Grenzen erweitern, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "A generation of engineers pushed the boundaries by landing a probe on a moving comet.",
+          "translation": "Eine Generation von Ingenieuren verschob die Grenzen des Machbaren, indem sie eine Sonde auf einem sich bewegenden Kometen landete.",
+          "sourceInfo": {
+            "publication": "NASA",
+            "url": "https://www.nasa.gov/nasa-missions/",
+            "type": "space agency publication"
+          }
         }
       ],
       "image": {
