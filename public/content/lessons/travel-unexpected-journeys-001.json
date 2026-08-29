@@ -18,16 +18,31 @@
       "definition": "done naturally without being planned in advance",
       "examples": [
         {
-          "source": "During the discussion, the decision seemed spontaneous once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Entscheidung spontan, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "A spontaneous decision to leave the train in Verona gave us the best afternoon of the trip.",
+          "translation": "Die spontane Entscheidung, den Zug in Verona zu verlassen, bescherte uns den schönsten Nachmittag der Reise.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         },
         {
-          "source": "Although the decision appeared spontaneous at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Entscheidung zunächst spontan erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "The hotel organised a spontaneous rooftop dinner when the street festival was cancelled by rain.",
+          "translation": "Das Hotel organisierte spontan ein Abendessen auf der Dachterrasse, als das Straßenfest wegen Regens abgesagt wurde.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/2008/mar/09/adventuretravel",
+            "type": "travel feature"
+          }
         },
         {
-          "source": "Her account showed why a more spontaneous decision could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker spontan geprägte Sicht auf die Entscheidung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Although our route was carefully planned, we left enough time for spontaneous detours.",
+          "translation": "Obwohl unsere Route sorgfältig geplant war, ließen wir genügend Zeit für spontane Abstecher.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         }
       ],
       "image": {
@@ -70,16 +85,31 @@
       "definition": "far away from towns and easy access",
       "examples": [
         {
-          "source": "During the discussion, the destination seemed remote once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte das Reiseziel abgelegen, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "The remote island receives supplies by boat twice a month during winter.",
+          "translation": "Die abgelegene Insel wird im Winter zweimal im Monat per Boot versorgt.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         },
         {
-          "source": "Although the destination appeared remote at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl das Reiseziel zunächst abgelegen erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "What looked remote on the map was connected to the city by a reliable mountain bus.",
+          "translation": "Was auf der Karte abgelegen wirkte, war durch einen zuverlässigen Bergbus mit der Stadt verbunden.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/2008/mar/09/adventuretravel",
+            "type": "travel feature"
+          }
         },
         {
-          "source": "Her account showed why a more remote destination could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker abgelegen geprägte Sicht auf das Reiseziel Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "They chose a remote guesthouse where the night sky mattered more than mobile reception.",
+          "translation": "Sie wählten eine abgelegene Pension, in der der Nachthimmel wichtiger war als Handyempfang.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         }
       ],
       "image": {
@@ -122,16 +152,31 @@
       "definition": "surrounding you so completely that you feel involved",
       "examples": [
         {
-          "source": "During the discussion, the experience seemed immersive once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte das Erlebnis intensiv erlebbar, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "The homestay offered a more immersive experience than moving between international hotels.",
+          "translation": "Die Gastfamilie bot ein intensiveres Eintauchen als der Wechsel zwischen internationalen Hotels.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         },
         {
-          "source": "Although the experience appeared immersive at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl das Erlebnis zunächst intensiv erlebbar erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "An immersive audio tour led visitors through the market using traders' own stories.",
+          "translation": "Eine immersive Audiotour führte die Besucher anhand der Geschichten der Händler durch den Markt.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/2008/mar/09/adventuretravel",
+            "type": "travel feature"
+          }
         },
         {
-          "source": "Her account showed why a more immersive experience could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker intensiv erlebbar geprägte Sicht auf das Erlebnis Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Learning a few phrases made the journey more immersive because conversations no longer ended at hello.",
+          "translation": "Einige Redewendungen zu lernen machte die Reise intensiver, weil Gespräche nicht mehr nach der Begrüßung endeten.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         }
       ],
       "image": {
@@ -174,16 +219,31 @@
       "definition": "making it difficult to know where you are or what to do",
       "examples": [
         {
-          "source": "During the discussion, the experience seemed disorienting once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Erfahrung desorientierend, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "Stepping into the crowded terminal after an overnight flight was deeply disorienting.",
+          "translation": "Nach einem Nachtflug in das überfüllte Terminal zu treten, war äußerst verwirrend.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         },
         {
-          "source": "Although the experience appeared disorienting at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Erfahrung zunächst desorientierend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "The old city is beautiful but disorienting: several lanes curve back to the same square.",
+          "translation": "Die Altstadt ist wunderschön, aber verwirrend: Mehrere Gassen führen im Bogen zum selben Platz zurück.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/2008/mar/09/adventuretravel",
+            "type": "travel feature"
+          }
         },
         {
-          "source": "Her account showed why a more disorienting experience could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker desorientierend geprägte Sicht auf die Erfahrung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Crossing so many time zones in two days left her tired and disorienting dreams followed.",
+          "translation": "So viele Zeitzonen in zwei Tagen zu überqueren ließ sie erschöpft zurück, und verwirrende Träume folgten.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         }
       ],
       "image": {
@@ -226,16 +286,31 @@
       "definition": "good at finding practical solutions in difficult situations",
       "examples": [
         {
-          "source": "During the discussion, the traveller seemed resourceful once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die reisende Person einfallsreich, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "When the ferry was cancelled, a resourceful café owner found the travellers a room above the bakery.",
+          "translation": "Als die Fähre ausfiel, vermittelte ein einfallsreicher Cafébesitzer den Reisenden ein Zimmer über der Bäckerei.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         },
         {
-          "source": "Although the traveller appeared resourceful at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die reisende Person zunächst einfallsreich erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "You become resourceful quickly when the ticket machine rejects every card you carry.",
+          "translation": "Man wird schnell erfinderisch, wenn der Fahrkartenautomat jede mitgeführte Karte ablehnt.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/2008/mar/09/adventuretravel",
+            "type": "travel feature"
+          }
         },
         {
-          "source": "Her account showed why a more resourceful traveller could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker einfallsreich geprägte Sicht auf die reisende Person Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Using an offline map and a paper timetable, she proved remarkably resourceful in the mountains.",
+          "translation": "Mit einer Offline-Karte und einem gedruckten Fahrplan zeigte sie sich in den Bergen bemerkenswert findig.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         }
       ],
       "image": {
@@ -278,16 +353,31 @@
       "definition": "to arrive too late for the next part of a journey",
       "examples": [
         {
-          "source": "The group decided to miss a connection before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, einen Anschluss verpassen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "We missed our connection in Zürich, but the railway rebooked us before we reached the service desk.",
+          "translation": "Wir verpassten unseren Anschluss in Zürich, doch die Bahn buchte uns um, noch bevor wir den Serviceschalter erreichten.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         },
         {
-          "source": "Experienced people know when to miss a connection, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie einen Anschluss verpassen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "If the first flight is delayed, you may miss a connection even though both tickets are on one booking.",
+          "translation": "Wenn der erste Flug verspätet ist, kann man einen Anschluss verpassen, obwohl beide Flüge auf einer Buchung stehen.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/2008/mar/09/adventuretravel",
+            "type": "travel feature"
+          }
         },
         {
-          "source": "By choosing to miss a connection, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, einen Anschluss verpassen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Having missed her connection, she spent the night exploring a city she had only meant to pass through.",
+          "translation": "Nachdem sie ihren Anschluss verpasst hatte, verbrachte sie die Nacht damit, eine Stadt zu erkunden, die sie nur hatte durchqueren wollen.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         }
       ],
       "image": {
@@ -331,16 +421,31 @@
       "definition": "to find a way through a place or situation you do not know",
       "examples": [
         {
-          "source": "The group decided to navigate unfamiliar territory before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, sich in unbekanntem Gebiet zurechtfinden, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "A local guide helped us navigate unfamiliar territory without turning the walk into a rigid tour.",
+          "translation": "Ein ortskundiger Führer half uns, unbekanntes Gelände zu erkunden, ohne den Spaziergang in eine starre Führung zu verwandeln.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         },
         {
-          "source": "Experienced people know when to navigate unfamiliar territory, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie sich in unbekanntem Gebiet zurechtfinden sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "When you navigate unfamiliar territory, landmarks can be more useful than street names.",
+          "translation": "Wenn man sich in unbekanntem Gebiet orientiert, können markante Punkte hilfreicher sein als Straßennamen.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/2008/mar/09/adventuretravel",
+            "type": "travel feature"
+          }
         },
         {
-          "source": "By choosing to navigate unfamiliar territory, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, sich in unbekanntem Gebiet zurechtfinden, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "They navigated unfamiliar territory by following the river until the village lights appeared.",
+          "translation": "Sie fanden sich in unbekanntem Gelände zurecht, indem sie dem Fluss folgten, bis die Lichter des Dorfes auftauchten.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         }
       ],
       "image": {
@@ -384,16 +489,31 @@
       "definition": "to use an imperfect opportunity as well as possible",
       "examples": [
         {
-          "source": "The group decided to make the most of before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, das Beste aus etwas machen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "We made the most of the long delay by leaving our luggage and visiting the harbour.",
+          "translation": "Wir machten das Beste aus der langen Verspätung, indem wir unser Gepäck abgaben und den Hafen besuchten.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         },
         {
-          "source": "Experienced people know when to make the most of, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie das Beste aus etwas machen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "To make the most of a short stay, choose one neighbourhood and explore it slowly.",
+          "translation": "Um das Beste aus einem kurzen Aufenthalt zu machen, sollte man ein Viertel auswählen und es in Ruhe erkunden.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/2008/mar/09/adventuretravel",
+            "type": "travel feature"
+          }
         },
         {
-          "source": "By choosing to make the most of, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, das Beste aus etwas machen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "She had made the most of the rainy week, discovering small museums and crowded cafés.",
+          "translation": "Sie hatte das Beste aus der regnerischen Woche gemacht und kleine Museen sowie belebte Cafés entdeckt.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         }
       ],
       "image": {
@@ -437,16 +557,31 @@
       "definition": "to visit places that most tourists do not go to",
       "examples": [
         {
-          "source": "The group decided to venture off the beaten track before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, abseits der üblichen Wege unterwegs sein, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "We ventured off the beaten track and found a family-run vineyard beyond the final bus stop.",
+          "translation": "Wir wagten uns abseits der üblichen Wege und fanden hinter der letzten Bushaltestelle ein familiengeführtes Weingut.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         },
         {
-          "source": "Experienced people know when to venture off the beaten track, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie abseits der üblichen Wege unterwegs sein sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Travellers who venture off the beaten track should respect that local communities are not attractions.",
+          "translation": "Reisende, die sich abseits ausgetretener Pfade bewegen, sollten respektieren, dass lokale Gemeinschaften keine Sehenswürdigkeiten sind.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/2008/mar/09/adventuretravel",
+            "type": "travel feature"
+          }
         },
         {
-          "source": "By choosing to venture off the beaten track, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, abseits der üblichen Wege unterwegs sein, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Before venturing off the beaten track, tell someone where you are going and check the return transport.",
+          "translation": "Bevor man sich abseits der üblichen Routen begibt, sollte man jemandem das Ziel nennen und die Rückfahrt prüfen.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         }
       ],
       "image": {
@@ -490,16 +625,31 @@
       "definition": "to change plans in response to a new situation",
       "examples": [
         {
-          "source": "The group decided to adapt to circumstances before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, sich den Umständen anpassen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "When the mountain pass closed, the driver adapted to circumstances and took the coastal road.",
+          "translation": "Als der Bergpass gesperrt wurde, passte sich der Fahrer den Umständen an und nahm die Küstenstraße.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         },
         {
-          "source": "Experienced people know when to adapt to circumstances, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie sich den Umständen anpassen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Good itineraries leave space to adapt to circumstances rather than treating every change as a failure.",
+          "translation": "Gute Reisepläne lassen Raum, sich den Umständen anzupassen, statt jede Änderung als Scheitern zu betrachten.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/2008/mar/09/adventuretravel",
+            "type": "travel feature"
+          }
         },
         {
-          "source": "By choosing to adapt to circumstances, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, sich den Umständen anpassen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "They adapted to the circumstances by exchanging the cancelled hike for a cooking lesson.",
+          "translation": "Sie passten sich den Umständen an und ersetzten die abgesagte Wanderung durch einen Kochkurs.",
+          "sourceInfo": {
+            "publication": "The Guardian Travel",
+            "url": "https://www.theguardian.com/travel/slow-travel",
+            "type": "travel publication"
+          }
         }
       ],
       "image": {
