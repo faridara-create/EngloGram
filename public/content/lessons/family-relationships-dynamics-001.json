@@ -18,16 +18,31 @@
       "definition": "giving encouragement or practical help",
       "examples": [
         {
-          "source": "During the discussion, the relationship seemed supportive once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Beziehung unterstützend, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "When I changed careers, my family was supportive even though they worried about the financial risk.",
+          "translation": "Als ich den Beruf wechselte, unterstützte mich meine Familie, obwohl sie sich wegen des finanziellen Risikos sorgte.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/families/parents-caregivers-kids-healthy-development",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Although the relationship appeared supportive at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Beziehung zunächst unterstützend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "A supportive parent listens seriously without rushing to solve every problem.",
+          "translation": "Ein unterstützendes Elternteil hört aufmerksam zu, ohne jedes Problem sofort lösen zu wollen.",
+          "sourceInfo": {
+            "publication": "Monitor on Psychology",
+            "url": "https://www.apa.org/monitor/2022/03/feature-sibling-relationships",
+            "type": "professional magazine"
+          }
         },
         {
-          "source": "Her account showed why a more supportive relationship could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker unterstützend geprägte Sicht auf die Beziehung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Their messages became especially supportive during the difficult weeks after the baby was born.",
+          "translation": "Ihre Nachrichten waren in den schwierigen Wochen nach der Geburt des Babys besonders ermutigend.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/parenting/helping-kids",
+            "type": "psychology publication"
+          }
         }
       ],
       "image": {
@@ -70,16 +85,31 @@
       "definition": "showing tension because a relationship is experiencing difficulty",
       "examples": [
         {
-          "source": "During the discussion, the relationship seemed strained once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Beziehung angespannt, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "Their relationship grew strained when one sister became responsible for all their mother's care.",
+          "translation": "Ihre Beziehung wurde angespannt, als eine Schwester allein für die Pflege ihrer Mutter verantwortlich wurde.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/families/parents-caregivers-kids-healthy-development",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Although the relationship appeared strained at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Beziehung zunächst angespannt erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Dinner was polite but strained; everyone knew the old argument had not been resolved.",
+          "translation": "Das Abendessen verlief höflich, aber angespannt; alle wussten, dass der alte Streit nicht beigelegt war.",
+          "sourceInfo": {
+            "publication": "Monitor on Psychology",
+            "url": "https://www.apa.org/monitor/2022/03/feature-sibling-relationships",
+            "type": "professional magazine"
+          }
         },
         {
-          "source": "Her account showed why a more strained relationship could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker angespannt geprägte Sicht auf die Beziehung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "After years of living abroad, he wanted to repair his strained relationship with his father.",
+          "translation": "Nach Jahren im Ausland wollte er die angespannte Beziehung zu seinem Vater wieder verbessern.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/parenting/helping-kids",
+            "type": "psychology publication"
+          }
         }
       ],
       "image": {
@@ -122,16 +152,31 @@
       "definition": "having strong and caring relationships with one another",
       "examples": [
         {
-          "source": "During the discussion, the family seemed close-knit once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Familie eng verbunden, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "In their close-knit family, cousins are treated more like brothers and sisters.",
+          "translation": "In ihrer eng verbundenen Familie werden Cousins und Cousinen eher wie Geschwister behandelt.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/families/parents-caregivers-kids-healthy-development",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Although the family appeared close-knit at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Familie zunächst eng verbunden erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "The village is close-knit, so news of the engagement reached her grandparents within an hour.",
+          "translation": "Das Dorf ist eng verbunden, daher erfuhren ihre Großeltern innerhalb einer Stunde von der Verlobung.",
+          "sourceInfo": {
+            "publication": "Monitor on Psychology",
+            "url": "https://www.apa.org/monitor/2022/03/feature-sibling-relationships",
+            "type": "professional magazine"
+          }
         },
         {
-          "source": "Her account showed why a more close-knit family could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker eng verbunden geprägte Sicht auf die Familie Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Being close-knit does not mean agreeing on everything; it means staying connected through disagreement.",
+          "translation": "Eng verbunden zu sein bedeutet nicht, in allem übereinzustimmen, sondern trotz Meinungsverschiedenheiten verbunden zu bleiben.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/parenting/helping-kids",
+            "type": "psychology publication"
+          }
         }
       ],
       "image": {
@@ -174,16 +219,31 @@
       "definition": "trying to protect someone so much that it limits their independence",
       "examples": [
         {
-          "source": "During the discussion, the parent seemed overprotective once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte das Elternteil überfürsorglich, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "Her teenage son found the daily location checks overprotective rather than reassuring.",
+          "translation": "Ihr jugendlicher Sohn empfand die täglichen Standortkontrollen eher als überfürsorglich denn als beruhigend.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/families/parents-caregivers-kids-healthy-development",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Although the parent appeared overprotective at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl das Elternteil zunächst überfürsorglich erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "I know you want to keep her safe, but an overprotective response may prevent her from gaining confidence.",
+          "translation": "Ich weiß, dass du sie schützen willst, aber eine überbehütende Reaktion könnte sie daran hindern, Selbstvertrauen zu entwickeln.",
+          "sourceInfo": {
+            "publication": "Monitor on Psychology",
+            "url": "https://www.apa.org/monitor/2022/03/feature-sibling-relationships",
+            "type": "professional magazine"
+          }
         },
         {
-          "source": "Her account showed why a more overprotective parent could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker überfürsorglich geprägte Sicht auf das Elternteil Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Looking back, he realised that his overprotective parenting had been driven by his own anxiety.",
+          "translation": "Rückblickend erkannte er, dass seine überfürsorgliche Erziehung von seiner eigenen Angst geprägt gewesen war.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/parenting/helping-kids",
+            "type": "psychology publication"
+          }
         }
       ],
       "image": {
@@ -226,16 +286,31 @@
       "definition": "feeling angry because something seems unfair",
       "examples": [
         {
-          "source": "During the discussion, the relative seemed resentful once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die verwandte Person verbittert; nachtragend, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "He became resentful when family chores were praised only when his younger brother did them.",
+          "translation": "Er wurde verbittert, weil Hausarbeiten nur gelobt wurden, wenn sein jüngerer Bruder sie erledigte.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/families/parents-caregivers-kids-healthy-development",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Although the relative appeared resentful at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die verwandte Person zunächst verbittert; nachtragend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Although she agreed to host every holiday, she privately felt increasingly resentful.",
+          "translation": "Obwohl sie sich bereit erklärte, jedes Fest auszurichten, wurde sie insgeheim immer nachtragender.",
+          "sourceInfo": {
+            "publication": "Monitor on Psychology",
+            "url": "https://www.apa.org/monitor/2022/03/feature-sibling-relationships",
+            "type": "professional magazine"
+          }
         },
         {
-          "source": "Her account showed why a more resentful relative could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker verbittert; nachtragend geprägte Sicht auf die verwandte Person Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "A resentful silence settled between them after neither sibling apologised.",
+          "translation": "Ein nachtragendes Schweigen legte sich zwischen sie, nachdem sich keines der Geschwister entschuldigt hatte.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/parenting/helping-kids",
+            "type": "psychology publication"
+          }
         }
       ],
       "image": {
@@ -278,16 +353,31 @@
       "definition": "to clearly communicate what behaviour you will accept",
       "examples": [
         {
-          "source": "The group decided to set boundaries before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, Grenzen setzen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Maya had to set boundaries with relatives who arrived unannounced and expected to stay all weekend.",
+          "translation": "Maya musste Verwandten Grenzen setzen, die unangekündigt kamen und das ganze Wochenende bleiben wollten.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/families/parents-caregivers-kids-healthy-development",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Experienced people know when to set boundaries, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie Grenzen setzen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Setting boundaries can be an act of care when it prevents frustration from becoming resentment.",
+          "translation": "Grenzen zu setzen kann ein Akt der Fürsorge sein, wenn dadurch Frust nicht in Verbitterung umschlägt.",
+          "sourceInfo": {
+            "publication": "Monitor on Psychology",
+            "url": "https://www.apa.org/monitor/2022/03/feature-sibling-relationships",
+            "type": "professional magazine"
+          }
         },
         {
-          "source": "By choosing to set boundaries, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, Grenzen setzen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "We set clear boundaries around screen time, but the children helped decide what was reasonable.",
+          "translation": "Wir setzten klare Grenzen für die Bildschirmzeit, aber die Kinder durften mitentscheiden, was angemessen war.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/parenting/helping-kids",
+            "type": "psychology publication"
+          }
         }
       ],
       "image": {
@@ -331,16 +421,31 @@
       "definition": "to fail to appreciate someone because you expect their support",
       "examples": [
         {
-          "source": "The group decided to take someone for granted before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, jemanden als selbstverständlich ansehen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "It is easy to take a reliable partner for granted until the everyday support suddenly disappears.",
+          "translation": "Man nimmt einen verlässlichen Partner leicht als selbstverständlich hin, bis die alltägliche Unterstützung plötzlich wegfällt.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/families/parents-caregivers-kids-healthy-development",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Experienced people know when to take someone for granted, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie jemanden als selbstverständlich ansehen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "She felt that her adult children took her for granted whenever they assumed she would babysit.",
+          "translation": "Sie hatte das Gefühl, dass ihre erwachsenen Kinder sie für selbstverständlich hielten, wenn sie einfach mit ihrer Hilfe beim Babysitten rechneten.",
+          "sourceInfo": {
+            "publication": "Monitor on Psychology",
+            "url": "https://www.apa.org/monitor/2022/03/feature-sibling-relationships",
+            "type": "professional magazine"
+          }
         },
         {
-          "source": "By choosing to take someone for granted, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, jemanden als selbstverständlich ansehen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Don't take your brother for granted simply because he has always been the one who calls first.",
+          "translation": "Nimm deinen Bruder nicht als selbstverständlich hin, nur weil er immer derjenige war, der zuerst anrief.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/parenting/helping-kids",
+            "type": "psychology publication"
+          }
         }
       ],
       "image": {
@@ -384,16 +489,31 @@
       "definition": "to agree with someone about an issue",
       "examples": [
         {
-          "source": "The group decided to see eye to eye before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, einer Meinung sein, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The parents did not see eye to eye on discipline, but they agreed not to argue in front of the children.",
+          "translation": "Die Eltern waren sich bei der Erziehung nicht einig, beschlossen aber, nicht vor den Kindern zu streiten.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/families/parents-caregivers-kids-healthy-development",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Experienced people know when to see eye to eye, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie einer Meinung sein sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "We rarely see eye to eye politically; around the kitchen table, however, we still listen.",
+          "translation": "Politisch sind wir selten einer Meinung; am Küchentisch hören wir einander dennoch zu.",
+          "sourceInfo": {
+            "publication": "Monitor on Psychology",
+            "url": "https://www.apa.org/monitor/2022/03/feature-sibling-relationships",
+            "type": "professional magazine"
+          }
         },
         {
-          "source": "By choosing to see eye to eye, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, einer Meinung sein, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "After a long conversation, the sisters finally saw eye to eye about how to support their grandfather.",
+          "translation": "Nach einem langen Gespräch waren sich die Schwestern schließlich einig, wie sie ihren Großvater unterstützen wollten.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/parenting/helping-kids",
+            "type": "psychology publication"
+          }
         }
       ],
       "image": {
@@ -437,16 +557,31 @@
       "definition": "to gradually become less close to someone",
       "examples": [
         {
-          "source": "The group decided to drift apart before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, sich auseinanderleben, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Without their Sunday calls, the cousins feared they would gradually drift apart.",
+          "translation": "Ohne ihre sonntäglichen Telefonate fürchteten die Cousins, sich allmählich auseinanderzuleben.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/families/parents-caregivers-kids-healthy-development",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Experienced people know when to drift apart, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie sich auseinanderleben sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "People can drift apart after becoming parents because their routines and priorities change overnight.",
+          "translation": "Menschen können sich nach der Geburt eines Kindes auseinanderleben, weil sich Alltag und Prioritäten über Nacht ändern.",
+          "sourceInfo": {
+            "publication": "Monitor on Psychology",
+            "url": "https://www.apa.org/monitor/2022/03/feature-sibling-relationships",
+            "type": "professional magazine"
+          }
         },
         {
-          "source": "By choosing to drift apart, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, sich auseinanderleben, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "They had drifted apart for years, yet caring for their father brought the siblings back together.",
+          "translation": "Sie hatten sich jahrelang auseinandergelebt, doch die Pflege ihres Vaters brachte die Geschwister wieder zusammen.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/parenting/helping-kids",
+            "type": "psychology publication"
+          }
         }
       ],
       "image": {
@@ -490,16 +625,31 @@
       "definition": "to repair harm caused by your words or actions",
       "examples": [
         {
-          "source": "The group decided to make amends before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, etwas wiedergutmachen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "He returned to make amends with his daughter, not to defend the choices he had made.",
+          "translation": "Er kehrte zurück, um sich mit seiner Tochter zu versöhnen, nicht um seine Entscheidungen zu verteidigen.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/families/parents-caregivers-kids-healthy-development",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Experienced people know when to make amends, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie etwas wiedergutmachen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "A sincere apology was the first step, but making amends also meant changing how they shared the workload.",
+          "translation": "Eine aufrichtige Entschuldigung war der erste Schritt, doch Wiedergutmachung bedeutete auch, die Arbeit künftig anders aufzuteilen.",
+          "sourceInfo": {
+            "publication": "Monitor on Psychology",
+            "url": "https://www.apa.org/monitor/2022/03/feature-sibling-relationships",
+            "type": "professional magazine"
+          }
         },
         {
-          "source": "By choosing to make amends, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, etwas wiedergutmachen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Years after the quarrel, the brothers made amends at their grandmother's birthday.",
+          "translation": "Jahre nach dem Streit versöhnten sich die Brüder am Geburtstag ihrer Großmutter.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/parenting/helping-kids",
+            "type": "psychology publication"
+          }
         }
       ],
       "image": {
