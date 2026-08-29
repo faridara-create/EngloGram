@@ -11,5 +11,5 @@
     "noEmit": true,
     "types": ["node"]
   },
-  "include": ["vite.config.ts", "scripts", "tests", "src/content/schema.ts", "src/content/validateLesson.ts", "src/content/quiz.ts", "src/content/lexical.ts"]
+  "include": ["vite.config.ts", "scripts", "tests", "src/content/schema.ts", "src/content/validateLesson.ts", "src/content/quiz.ts", "src/content/lexical.ts", "src/content/pronunciation.ts"]
 }
