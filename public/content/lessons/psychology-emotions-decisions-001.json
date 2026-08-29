@@ -18,16 +18,31 @@
       "definition": "acting suddenly without considering the consequences",
       "examples": [
         {
-          "source": "During the discussion, the decision seemed impulsive once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Entscheidung impulsiv, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "An impulsive purchase can offer brief relief when the real problem is stress or boredom.",
+          "translation": "Ein Impulskauf kann kurz Erleichterung verschaffen, wenn das eigentliche Problem Stress oder Langeweile ist.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Although the decision appeared impulsive at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Entscheidung zunächst impulsiv erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "He was usually cautious, yet the fear of missing out prompted an impulsive decision.",
+          "translation": "Normalerweise war er vorsichtig, doch die Angst, etwas zu verpassen, führte zu einer impulsiven Entscheidung.",
+          "sourceInfo": {
+            "publication": "APA Dictionary of Psychology",
+            "url": "https://dictionary.apa.org/ambivalence",
+            "type": "reference work"
+          }
         },
         {
-          "source": "Her account showed why a more impulsive decision could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker impulsiv geprägte Sicht auf die Entscheidung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Before sending an impulsive reply, she named the emotion she was experiencing and waited ten minutes.",
+          "translation": "Bevor sie impulsiv antwortete, benannte sie das Gefühl, das sie gerade erlebte, und wartete zehn Minuten.",
+          "sourceInfo": {
+            "publication": "Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202108/the-dysfunctionality-emotions-in-human-decision-making",
+            "type": "psychology magazine"
+          }
         }
       ],
       "image": {
@@ -70,16 +85,31 @@
       "definition": "conscious of your own feelings, motives and behaviour",
       "examples": [
         {
-          "source": "During the discussion, the person seemed self-aware once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Person selbstreflektiert, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "A self-aware leader notices when defensiveness is shaping the way they interpret criticism.",
+          "translation": "Eine selbstreflektierte Führungskraft bemerkt, wenn Abwehrhaltung die Interpretation von Kritik beeinflusst.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Although the person appeared self-aware at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Person zunächst selbstreflektiert erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "She was self-aware enough to admit that her confidence disappeared in unfamiliar groups.",
+          "translation": "Sie war selbstreflektiert genug einzugestehen, dass ihr Selbstvertrauen in unbekannten Gruppen schwand.",
+          "sourceInfo": {
+            "publication": "APA Dictionary of Psychology",
+            "url": "https://dictionary.apa.org/ambivalence",
+            "type": "reference work"
+          }
         },
         {
-          "source": "Her account showed why a more self-aware person could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker selbstreflektiert geprägte Sicht auf die Person Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Becoming more self-aware did not eliminate his anxiety, but it made his reactions easier to understand.",
+          "translation": "Mehr Selbstwahrnehmung beseitigte seine Angst nicht, machte seine Reaktionen aber verständlicher.",
+          "sourceInfo": {
+            "publication": "Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202108/the-dysfunctionality-emotions-in-human-decision-making",
+            "type": "psychology magazine"
+          }
         }
       ],
       "image": {
@@ -122,16 +152,31 @@
       "definition": "having conflicting feelings about someone or something",
       "examples": [
         {
-          "source": "During the discussion, the reaction seemed ambivalent once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Reaktion zwiespältig, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "She felt ambivalent about the promotion: it offered recognition but less time with her family.",
+          "translation": "Sie hatte gemischte Gefühle wegen der Beförderung: Sie brachte Anerkennung, aber weniger Zeit für die Familie.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Although the reaction appeared ambivalent at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Reaktion zunächst zwiespältig erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "The participants were not opposed to therapy; many were simply ambivalent about what change might require.",
+          "translation": "Die Teilnehmenden waren nicht gegen eine Therapie; viele waren lediglich unschlüssig, was Veränderung von ihnen verlangen könnte.",
+          "sourceInfo": {
+            "publication": "APA Dictionary of Psychology",
+            "url": "https://dictionary.apa.org/ambivalence",
+            "type": "reference work"
+          }
         },
         {
-          "source": "Her account showed why a more ambivalent reaction could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker zwiespältig geprägte Sicht auf die Reaktion Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Ambivalent though he sounded, his hesitation reflected competing values rather than indecision alone.",
+          "translation": "So zwiespältig er auch klang, sein Zögern spiegelte konkurrierende Werte wider und nicht bloß Unentschlossenheit.",
+          "sourceInfo": {
+            "publication": "Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202108/the-dysfunctionality-emotions-in-human-decision-making",
+            "type": "psychology magazine"
+          }
         }
       ],
       "image": {
@@ -174,16 +219,31 @@
       "definition": "able to understand and share another person's feelings",
       "examples": [
         {
-          "source": "During the discussion, the response seemed empathetic once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Reaktion einfühlsam, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "Her empathetic response acknowledged his disappointment without pretending that the setback was harmless.",
+          "translation": "Ihre einfühlsame Reaktion erkannte seine Enttäuschung an, ohne so zu tun, als sei der Rückschlag harmlos.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Although the response appeared empathetic at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Reaktion zunächst einfühlsam erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "To be empathetic, the counsellor asked what the silence meant to her rather than making an assumption.",
+          "translation": "Um empathisch zu sein, fragte der Berater, was das Schweigen für sie bedeutete, statt eine Vermutung anzustellen.",
+          "sourceInfo": {
+            "publication": "APA Dictionary of Psychology",
+            "url": "https://dictionary.apa.org/ambivalence",
+            "type": "reference work"
+          }
         },
         {
-          "source": "Her account showed why a more empathetic response could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker einfühlsam geprägte Sicht auf die Reaktion Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "An empathetic conversation can still include disagreement and firm boundaries.",
+          "translation": "Ein einfühlsames Gespräch kann dennoch Meinungsverschiedenheiten und klare Grenzen enthalten.",
+          "sourceInfo": {
+            "publication": "Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202108/the-dysfunctionality-emotions-in-human-decision-making",
+            "type": "psychology magazine"
+          }
         }
       ],
       "image": {
@@ -226,16 +286,31 @@
       "definition": "preventing someone from acting or expressing themselves freely",
       "examples": [
         {
-          "source": "During the discussion, the belief seemed inhibiting once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Überzeugung hemmend, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "Her fear of appearing inexperienced became an inhibiting belief that kept her from asking questions.",
+          "translation": "Ihre Angst, unerfahren zu wirken, wurde zu einer hemmenden Überzeugung, die sie davon abhielt, Fragen zu stellen.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Although the belief appeared inhibiting at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Überzeugung zunächst hemmend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Stress can be motivating at a moderate level and inhibiting when it becomes overwhelming.",
+          "translation": "Stress kann in mäßigem Umfang motivieren und hemmend wirken, wenn er überwältigend wird.",
+          "sourceInfo": {
+            "publication": "APA Dictionary of Psychology",
+            "url": "https://dictionary.apa.org/ambivalence",
+            "type": "reference work"
+          }
         },
         {
-          "source": "Her account showed why a more inhibiting belief could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker hemmend geprägte Sicht auf die Überzeugung Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "The study explored whether constant self-monitoring had an inhibiting effect on spontaneous conversation.",
+          "translation": "Die Studie untersuchte, ob ständige Selbstbeobachtung spontane Gespräche hemmte.",
+          "sourceInfo": {
+            "publication": "Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202108/the-dysfunctionality-emotions-in-human-decision-making",
+            "type": "psychology magazine"
+          }
         }
       ],
       "image": {
@@ -278,16 +353,31 @@
       "definition": "to manage feelings without denying them",
       "examples": [
         {
-          "source": "The group decided to regulate emotions before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, Emotionen regulieren, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Children often learn to regulate emotions through calm interaction with a trusted adult.",
+          "translation": "Kinder lernen häufig durch ruhige Interaktion mit einer vertrauten erwachsenen Person, ihre Gefühle zu regulieren.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Experienced people know when to regulate emotions, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie Emotionen regulieren sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Taking a slow breath helped her regulate her emotions before returning to the difficult conversation.",
+          "translation": "Ein langsamer Atemzug half ihr, ihre Gefühle zu regulieren, bevor sie in das schwierige Gespräch zurückkehrte.",
+          "sourceInfo": {
+            "publication": "APA Dictionary of Psychology",
+            "url": "https://dictionary.apa.org/ambivalence",
+            "type": "reference work"
+          }
         },
         {
-          "source": "By choosing to regulate emotions, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, Emotionen regulieren, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "We do not regulate emotions by denying them; we notice them without letting them dictate every action.",
+          "translation": "Wir regulieren Gefühle nicht, indem wir sie leugnen, sondern indem wir sie wahrnehmen, ohne jede Handlung von ihnen bestimmen zu lassen.",
+          "sourceInfo": {
+            "publication": "Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202108/the-dysfunctionality-emotions-in-human-decision-making",
+            "type": "psychology magazine"
+          }
         }
       ],
       "image": {
@@ -331,16 +421,31 @@
       "definition": "to rely on an immediate intuitive judgement",
       "examples": [
         {
-          "source": "The group decided to trust your instincts before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, dem eigenen Instinkt vertrauen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Trust your instincts if a situation feels unsafe, even when you cannot yet explain why.",
+          "translation": "Vertraue deinem Instinkt, wenn sich eine Situation unsicher anfühlt, auch wenn du noch nicht erklären kannst, warum.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Experienced people know when to trust your instincts, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie dem eigenen Instinkt vertrauen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "She trusted her instincts about the patient, then checked that impression against the available evidence.",
+          "translation": "Sie vertraute ihrem Gespür für den Patienten und glich diesen Eindruck anschließend mit den verfügbaren Befunden ab.",
+          "sourceInfo": {
+            "publication": "APA Dictionary of Psychology",
+            "url": "https://dictionary.apa.org/ambivalence",
+            "type": "reference work"
+          }
         },
         {
-          "source": "By choosing to trust your instincts, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, dem eigenen Instinkt vertrauen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Experience can sharpen intuition, but trusting your instincts should not replace reflection in high-stakes decisions.",
+          "translation": "Erfahrung kann die Intuition schärfen, doch bei folgenreichen Entscheidungen sollte man sich nicht anstelle von Reflexion allein auf sein Gefühl verlassen.",
+          "sourceInfo": {
+            "publication": "Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202108/the-dysfunctionality-emotions-in-human-decision-making",
+            "type": "psychology magazine"
+          }
         }
       ],
       "image": {
@@ -384,16 +489,31 @@
       "definition": "to compare alternatives before deciding",
       "examples": [
         {
-          "source": "The group decided to weigh up options before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, Möglichkeiten sorgfältig abwägen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Before choosing a treatment, they weighed up the likely benefits, side effects and recovery time.",
+          "translation": "Bevor sie sich für eine Behandlung entschieden, wogen sie Nutzen, Nebenwirkungen und Erholungszeit gegeneinander ab.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Experienced people know when to weigh up options, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie Möglichkeiten sorgfältig abwägen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "When people feel threatened, they may act before they have had time to weigh up their options.",
+          "translation": "Wenn Menschen sich bedroht fühlen, handeln sie womöglich, bevor sie ihre Möglichkeiten abwägen konnten.",
+          "sourceInfo": {
+            "publication": "APA Dictionary of Psychology",
+            "url": "https://dictionary.apa.org/ambivalence",
+            "type": "reference work"
+          }
         },
         {
-          "source": "By choosing to weigh up options, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, Möglichkeiten sorgfältig abwägen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "She spent the weekend weighing up her options, then chose the path that best matched her values.",
+          "translation": "Sie verbrachte das Wochenende damit, ihre Möglichkeiten abzuwägen, und wählte dann den Weg, der am besten zu ihren Werten passte.",
+          "sourceInfo": {
+            "publication": "Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202108/the-dysfunctionality-emotions-in-human-decision-making",
+            "type": "psychology magazine"
+          }
         }
       ],
       "image": {
@@ -437,16 +557,31 @@
       "definition": "to begin repeating the same behaviour automatically",
       "examples": [
         {
-          "source": "The group decided to fall into a pattern before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, in ein Verhaltensmuster geraten, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "After several sleepless nights, he fell into a pattern of cancelling plans and feeling increasingly isolated.",
+          "translation": "Nach mehreren schlaflosen Nächten geriet er in ein Muster, Verabredungen abzusagen und sich immer isolierter zu fühlen.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Experienced people know when to fall into a pattern, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie in ein Verhaltensmuster geraten sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Couples may fall into a pattern in which one person pursues a discussion while the other withdraws.",
+          "translation": "Paare können in ein Muster geraten, bei dem eine Person das Gespräch sucht, während die andere sich zurückzieht.",
+          "sourceInfo": {
+            "publication": "APA Dictionary of Psychology",
+            "url": "https://dictionary.apa.org/ambivalence",
+            "type": "reference work"
+          }
         },
         {
-          "source": "By choosing to fall into a pattern, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, in ein Verhaltensmuster geraten, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Once she recognised that she had fallen into the same pattern, a different response became possible.",
+          "translation": "Als sie erkannte, dass sie erneut in dasselbe Muster geraten war, wurde eine andere Reaktion möglich.",
+          "sourceInfo": {
+            "publication": "Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202108/the-dysfunctionality-emotions-in-human-decision-making",
+            "type": "psychology magazine"
+          }
         }
       ],
       "image": {
@@ -490,16 +625,31 @@
       "definition": "to function despite not knowing what will happen",
       "examples": [
         {
-          "source": "The group decided to cope with uncertainty before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, mit Unsicherheit umgehen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "Clear routines helped the children cope with uncertainty during the move.",
+          "translation": "Klare Routinen halfen den Kindern, mit der Unsicherheit während des Umzugs umzugehen.",
+          "sourceInfo": {
+            "publication": "American Psychological Association",
+            "url": "https://www.apa.org/topics/",
+            "type": "psychology publication"
+          }
         },
         {
-          "source": "Experienced people know when to cope with uncertainty, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie mit Unsicherheit umgehen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "To cope with uncertainty, he focused on the next decision he could actually influence.",
+          "translation": "Um mit der Ungewissheit umzugehen, konzentrierte er sich auf die nächste Entscheidung, die er tatsächlich beeinflussen konnte.",
+          "sourceInfo": {
+            "publication": "APA Dictionary of Psychology",
+            "url": "https://dictionary.apa.org/ambivalence",
+            "type": "reference work"
+          }
         },
         {
-          "source": "By choosing to cope with uncertainty, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, mit Unsicherheit umgehen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "People cope with uncertainty differently: some gather information, while others need time away from the problem.",
+          "translation": "Menschen gehen unterschiedlich mit Unsicherheit um: Manche sammeln Informationen, andere brauchen Abstand vom Problem.",
+          "sourceInfo": {
+            "publication": "Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202108/the-dysfunctionality-emotions-in-human-decision-making",
+            "type": "psychology magazine"
+          }
         }
       ],
       "image": {
