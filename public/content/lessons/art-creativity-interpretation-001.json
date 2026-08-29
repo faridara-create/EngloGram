@@ -18,16 +18,31 @@
       "definition": "bringing strong images, memories or feelings to mind",
       "examples": [
         {
-          "source": "During the discussion, the artwork seemed evocative once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte das Kunstwerk eindringlich; Erinnerungen weckend, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "The dimly lit installation was so evocative that visitors fell silent before reading the wall text.",
+          "translation": "Die schwach beleuchtete Installation war so eindrucksvoll, dass die Besucher verstummten, noch bevor sie den Wandtext lasen.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/18",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Although the artwork appeared evocative at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl das Kunstwerk zunächst eindringlich; Erinnerungen weckend erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "By pairing family photographs with recorded voices, the curator created an evocative portrait of migration.",
+          "translation": "Durch die Verbindung von Familienfotografien mit aufgezeichneten Stimmen schuf die Kuratorin ein eindrucksvolles Porträt der Migration.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/864",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Her account showed why a more evocative artwork could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker eindringlich; Erinnerungen weckend geprägte Sicht auf das Kunstwerk Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "What makes the landscape evocative is not its detail, but its sense of a place just out of reach.",
+          "translation": "Was die Landschaft so stimmungsvoll macht, ist nicht ihr Detailreichtum, sondern das Gefühl eines Ortes, der gerade außer Reichweite liegt.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/",
+            "type": "cultural publication"
+          }
         }
       ],
       "image": {
@@ -70,16 +85,31 @@
       "definition": "containing many small and carefully arranged details",
       "examples": [
         {
-          "source": "During the discussion, the composition seemed intricate once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Komposition detailreich; komplex, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "An intricate web of pencil lines only becomes visible when you stand close to the drawing.",
+          "translation": "Ein kompliziertes Geflecht aus Bleistiftlinien wird erst sichtbar, wenn man nahe an der Zeichnung steht.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/18",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Although the composition appeared intricate at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Komposition zunächst detailreich; komplex erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Although the ceramic looks effortless, its intricate surface took the artist months to complete.",
+          "translation": "Obwohl die Keramik mühelos wirkt, brauchte die Künstlerin Monate, um ihre komplexe Oberfläche fertigzustellen.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/864",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Her account showed why a more intricate composition could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker detailreich; komplex geprägte Sicht auf die Komposition Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "The critic traced an intricate relationship between the film's sound, colour and fragmented narrative.",
+          "translation": "Der Kritiker zeichnete eine vielschichtige Beziehung zwischen Ton, Farbe und fragmentierter Erzählung des Films nach.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/",
+            "type": "cultural publication"
+          }
         }
       ],
       "image": {
@@ -122,16 +152,31 @@
       "definition": "intended to make people think or react strongly",
       "examples": [
         {
-          "source": "During the discussion, the installation seemed provocative once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Installation provokativ; herausfordernd, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "The museum placed the provocative sculpture in the entrance, where nobody could avoid confronting it.",
+          "translation": "Das Museum stellte die provokante Skulptur in den Eingang, wo niemand der Auseinandersetzung mit ihr ausweichen konnte.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/18",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Although the installation appeared provocative at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Installation zunächst provokativ; herausfordernd erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "Is the photograph genuinely provocative, or does it merely borrow the language of rebellion?",
+          "translation": "Ist die Fotografie wirklich provokant, oder bedient sie sich nur der Sprache der Rebellion?",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/864",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Her account showed why a more provocative installation could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker provokativ; herausfordernd geprägte Sicht auf die Installation Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Her most provocative work invites viewers to question who is allowed to shape public memory.",
+          "translation": "Ihr provokantestes Werk fordert die Betrachter auf zu hinterfragen, wer das öffentliche Gedächtnis prägen darf.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/",
+            "type": "cultural publication"
+          }
         }
       ],
       "image": {
@@ -174,16 +219,31 @@
       "definition": "different from what is usually accepted or expected",
       "examples": [
         {
-          "source": "During the discussion, the technique seemed unconventional once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte die Technik unkonventionell, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "Instead of paint, he used rust, rainwater and dust—an unconventional palette shaped by the city itself.",
+          "translation": "Anstelle von Farbe verwendete er Rost, Regenwasser und Staub – eine unkonventionelle Palette, geprägt von der Stadt selbst.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/18",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Although the technique appeared unconventional at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl die Technik zunächst unkonventionell erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "The exhibition's unconventional layout encourages visitors to choose their own route through the story.",
+          "translation": "Die unkonventionelle Anordnung der Ausstellung ermutigt die Besucher, ihren eigenen Weg durch die Geschichte zu wählen.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/864",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Her account showed why a more unconventional technique could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker unkonventionell geprägte Sicht auf die Technik Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Unconventional though her method was, it revealed textures that a traditional print could not capture.",
+          "translation": "So ungewöhnlich ihre Methode auch war, sie machte Strukturen sichtbar, die ein traditioneller Druck nicht erfassen konnte.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/",
+            "type": "cultural publication"
+          }
         }
       ],
       "image": {
@@ -226,16 +286,31 @@
       "definition": "remaining meaningful and attractive despite changing fashions",
       "examples": [
         {
-          "source": "During the discussion, the work seemed timeless once everyone had examined the evidence carefully.",
-          "translation": "Während des Gesprächs wirkte das Werk zeitlos, nachdem alle die Belege sorgfältig geprüft hatten."
+          "source": "The portrait feels timeless because its expression is intimate without belonging to any obvious era.",
+          "translation": "Das Porträt wirkt zeitlos, weil sein Ausdruck intim ist, ohne einer bestimmten Epoche anzugehören.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/18",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Although the work appeared timeless at first, the wider context revealed several practical possibilities.",
-          "translation": "Obwohl das Werk zunächst zeitlos erschien, zeigte der größere Zusammenhang mehrere praktische Möglichkeiten."
+          "source": "A timeless design can survive changing fashions while still reflecting the culture that produced it.",
+          "translation": "Ein zeitloses Design kann wechselnde Moden überdauern und dennoch die Kultur widerspiegeln, aus der es entstand.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/864",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Her account showed why a more timeless work could influence decisions long after the immediate moment.",
-          "translation": "Ihre Darstellung zeigte, warum eine stärker zeitlos geprägte Sicht auf das Werk Entscheidungen noch lange nach dem unmittelbaren Moment beeinflussen konnte."
+          "source": "Decades after its first performance, the choreography remains both politically specific and strangely timeless.",
+          "translation": "Jahrzehnte nach ihrer Uraufführung bleibt die Choreografie politisch konkret und zugleich merkwürdig zeitlos.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/",
+            "type": "cultural publication"
+          }
         }
       ],
       "image": {
@@ -278,16 +353,31 @@
       "definition": "to communicate an idea or feeling through a work",
       "examples": [
         {
-          "source": "The group decided to convey a message before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, eine Botschaft vermitteln, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The mural uses everyday objects to convey a message about work, dignity and belonging.",
+          "translation": "Das Wandgemälde nutzt Alltagsgegenstände, um eine Botschaft über Arbeit, Würde und Zugehörigkeit zu vermitteln.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/18",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Experienced people know when to convey a message, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie eine Botschaft vermitteln sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Colour can convey a message before the viewer has understood a single symbol.",
+          "translation": "Farbe kann eine Botschaft vermitteln, bevor der Betrachter auch nur ein einziges Symbol verstanden hat.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/864",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "By choosing to convey a message, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, eine Botschaft vermitteln, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Rather than explain the piece, the artist trusted its scale and silence to convey a message of loss.",
+          "translation": "Anstatt das Werk zu erklären, vertraute die Künstlerin auf dessen Größe und Stille, um eine Botschaft des Verlusts zu vermitteln.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/",
+            "type": "cultural publication"
+          }
         }
       ],
       "image": {
@@ -331,16 +421,31 @@
       "definition": "to deliberately reject established artistic rules",
       "examples": [
         {
-          "source": "The group decided to defy conventions before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, Konventionen bewusst missachten, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The collective chose to defy conventions by turning an abandoned shop into a temporary gallery.",
+          "translation": "Das Kollektiv beschloss, Konventionen zu brechen, indem es ein verlassenes Geschäft in eine temporäre Galerie verwandelte.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/18",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Experienced people know when to defy conventions, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie Konventionen bewusst missachten sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Artists who defy conventions do not necessarily reject tradition; many rearrange it from within.",
+          "translation": "Künstler, die Konventionen trotzen, lehnen Tradition nicht zwangsläufig ab; viele ordnen sie von innen neu.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/864",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "By choosing to defy conventions, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, Konventionen bewusst missachten, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Her decision to leave the canvas partly unpainted defied the conventions of official portraiture.",
+          "translation": "Ihre Entscheidung, die Leinwand teilweise unbemalt zu lassen, widersprach den Konventionen der offiziellen Porträtmalerei.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/",
+            "type": "cultural publication"
+          }
         }
       ],
       "image": {
@@ -384,16 +489,31 @@
       "definition": "to develop creative ideas from a source",
       "examples": [
         {
-          "source": "The group decided to draw inspiration from before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, sich von etwas inspirieren lassen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The costume designer drew inspiration from coastal architecture rather than historical clothing.",
+          "translation": "Die Kostümbildnerin ließ sich von der Küstenarchitektur statt von historischer Kleidung inspirieren.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/18",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Experienced people know when to draw inspiration from, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie sich von etwas inspirieren lassen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "You can draw inspiration from another artist without imitating the surface of their work.",
+          "translation": "Man kann sich von einem anderen Künstler inspirieren lassen, ohne die Oberfläche seines Werks nachzuahmen.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/864",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "By choosing to draw inspiration from, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, sich von etwas inspirieren lassen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Drawing inspiration from oral history, the filmmaker built a narrative around voices usually left unheard.",
+          "translation": "Inspiriert von mündlicher Überlieferung entwickelte der Filmemacher eine Erzählung um Stimmen, die sonst ungehört bleiben.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/",
+            "type": "cultural publication"
+          }
         }
       ],
       "image": {
@@ -437,16 +557,31 @@
       "definition": "to avoid fixing one single meaning",
       "examples": [
         {
-          "source": "The group decided to leave room for interpretation before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, Interpretationsspielraum lassen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "The final scene deliberately leaves room for interpretation: we never learn whether the figures reconcile.",
+          "translation": "Die letzte Szene lässt bewusst Raum für Interpretation: Wir erfahren nie, ob sich die Figuren versöhnen.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/18",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Experienced people know when to leave room for interpretation, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie Interpretationsspielraum lassen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "Good exhibition texts provide context while leaving room for interpretation.",
+          "translation": "Gute Ausstellungstexte liefern Kontext und lassen zugleich Raum für Interpretation.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/864",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "By choosing to leave room for interpretation, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, Interpretationsspielraum lassen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Because the image leaves room for interpretation, different generations have claimed it as their own.",
+          "translation": "Weil das Bild Raum für Interpretation lässt, haben verschiedene Generationen es für sich beansprucht.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/",
+            "type": "cultural publication"
+          }
         }
       ],
       "image": {
@@ -490,16 +625,31 @@
       "definition": "to turn a creative idea into a finished work",
       "examples": [
         {
-          "source": "The group decided to bring a vision to life before committing to a final course of action.",
-          "translation": "Die Gruppe beschloss, eine Vision Wirklichkeit werden lassen, bevor sie sich auf ein endgültiges Vorgehen festlegte."
+          "source": "A team of fabricators helped the sculptor bring her ambitious vision to life without losing its delicacy.",
+          "translation": "Ein Team von Kunsthandwerkern half der Bildhauerin, ihre ehrgeizige Vision umzusetzen, ohne deren Zartheit zu verlieren.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/18",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "Experienced people know when to bring a vision to life, especially when circumstances change unexpectedly.",
-          "translation": "Erfahrene Menschen wissen, wann sie eine Vision Wirklichkeit werden lassen sollten, besonders wenn sich die Umstände unerwartet ändern."
+          "source": "To bring the director's vision to life, the set had to transform in full view of the audience.",
+          "translation": "Um die Vision des Regisseurs zum Leben zu erwecken, musste sich das Bühnenbild vor den Augen des Publikums verwandeln.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/864",
+            "type": "museum magazine"
+          }
         },
         {
-          "source": "By choosing to bring a vision to life, they avoided a problem that might otherwise have become much harder to resolve.",
-          "translation": "Indem sie sich entschieden, eine Vision Wirklichkeit werden lassen, vermieden sie ein Problem, das sonst deutlich schwieriger zu lösen gewesen wäre."
+          "source": "Funding matters, but patience and collaboration are what finally bring a creative vision to life.",
+          "translation": "Finanzierung ist wichtig, doch Geduld und Zusammenarbeit erwecken eine kreative Vision letztlich zum Leben.",
+          "sourceInfo": {
+            "publication": "MoMA Magazine",
+            "url": "https://www.moma.org/magazine/articles/",
+            "type": "cultural publication"
+          }
         }
       ],
       "image": {
