@@ -192,6 +192,7 @@ for (const viewport of viewports) {
       nextCount,
       exampleActionsVisible,
       feedbackVisible,
+      feedbackDetails,
       sharedLike,
       itemCompleted,
       nextStartsAtHero,
