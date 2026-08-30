@@ -983,3 +983,136 @@ button:focus-visible, a:focus-visible, textarea:focus-visible { outline: 3px sol
     padding-bottom: 7px;
   }
 }
+
+
+/* Focused YouGlish slide: authentic clip, caption and result-set controls only. */
+.youglish-slide {
+  overflow: hidden;
+  padding: max(36px, calc(28px + env(safe-area-inset-top))) 12px var(--item-action-space);
+}
+.youglish-slide .slide-label {
+  top: max(18px, calc(10px + env(safe-area-inset-top)));
+  left: 14px;
+}
+.youglish-slide .external-heading {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: baseline;
+  gap: 9px;
+  min-height: 26px;
+}
+.youglish-slide .external-heading h2 {
+  margin: 0;
+  font-size: clamp(21px, 5.8vw, 25px);
+  line-height: 1;
+}
+.youglish-slide .external-heading p {
+  overflow: hidden;
+  margin: 0;
+  color: #f39076;
+  font-size: clamp(11px, 3vw, 13px);
+  font-weight: 700;
+  line-height: 1.2;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.youglish-slide .widget-shell {
+  display: block;
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  max-height: none;
+  margin-top: 6px;
+}
+.youglish-slide .youglish-frame {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  width: 100%;
+  height: auto;
+  min-height: 0;
+}
+.youglish-viewport {
+  position: relative;
+  width: 100%;
+  height: clamp(270px, 73vw, 315px);
+  overflow: hidden;
+  background: #111714;
+}
+.youglish-viewport > .youglish-target,
+.youglish-viewport > .ygContainer,
+.youglish-viewport .ygContentEx,
+.youglish-viewport .ygContent {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+.youglish-viewport .ygFrame {
+  display: block;
+  width: 100% !important;
+  max-width: 100% !important;
+  border: 0 !important;
+}
+.youglish-viewport .widget-loading {
+  z-index: 3;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+}
+.youglish-play {
+  position: absolute;
+  z-index: 4;
+  top: 92px;
+  left: 50%;
+  width: auto;
+  min-width: 124px;
+  min-height: 44px;
+  margin: 0;
+  padding: 10px 16px;
+  transform: translateX(-50%);
+  border: 1px solid rgba(255,255,255,.62);
+  border-radius: 999px;
+  background: rgba(17,23,20,.86);
+  color: white;
+  font-size: 11px;
+  font-weight: 700;
+  backdrop-filter: blur(8px);
+}
+.youglish-slide .youglish-panel {
+  padding: 7px 7px 5px;
+  border-top: 1px solid rgba(255,255,255,.1);
+  background: #111714;
+}
+.youglish-slide .youglish-controls {
+  grid-template-columns: 1.08fr .82fr 1.08fr;
+  gap: 6px;
+}
+.youglish-slide .youglish-controls button {
+  min-height: 42px;
+  padding: 6px 4px;
+  font-size: 10px;
+}
+.youglish-slide .youglish-count {
+  margin: 5px 0 0;
+  color: rgba(255,255,255,.7);
+  font-size: 9px;
+}
+.youglish-slide .youglish-credit {
+  margin: 3px 8px 5px;
+  font-size: 9px;
+}
+.youglish-slide .privacy-copy {
+  margin-top: 5px;
+  font-size: 7px;
+  line-height: 1.2;
+}
+
+@media (max-height: 840px) {
+  .youglish-slide {
+    padding-top: max(34px, calc(26px + env(safe-area-inset-top)));
+  }
+  .youglish-slide .slide-label {
+    top: max(17px, calc(9px + env(safe-area-inset-top)));
+  }
+  .youglish-slide .external-heading h2 { font-size: 21px; }
+  .youglish-viewport { height: clamp(266px, 72vw, 310px); }
+  .youglish-slide .youglish-controls button { min-height: 40px; }
+}
