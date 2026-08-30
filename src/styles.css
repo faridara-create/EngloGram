@@ -1045,7 +1045,7 @@ button:focus-visible, a:focus-visible, textarea:focus-visible { outline: 3px sol
 .youglish-viewport {
   position: relative;
   width: 100%;
-  height: calc(min(55.2vw, 237px) - 14px + var(--youglish-caption-height, 85px));
+  height: calc(min(55.2vw, 237px) - 23px + var(--youglish-caption-height, 85px));
   overflow: hidden;
   background: #111714;
 }
