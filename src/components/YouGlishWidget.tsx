@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useId, useRef, useState } from 'react'
+import { useCallback, useEffect, useId, useRef, useState, type CSSProperties } from 'react'
 
 type YouGlishInstance = {
   fetch: (query: string, language: string, accent?: string) => void
@@ -42,7 +42,34 @@ function loadApi(): Promise<void> {
 type FetchEvent = { totalResult?: number }
 type VideoEvent = { trackNumber?: number }
 type PlayerEvent = { state?: number }
+type CaptionEvent = { caption?: string }
 type Props = { query: string; language: string; accent?: string; active: boolean }
+
+function estimateCaptionLines(caption = '') {
+  let decoded = caption
+  try {
+    decoded = decodeURIComponent(caption)
+  } catch {
+    // Keep the original caption when a provider string is not URI encoded.
+  }
+
+  const words = decoded.replace(/\[\[\[|\]\]\]/g, '').trim().split(/\s+/).filter(Boolean)
+  const lineCapacity = Math.max(38, Math.floor((Math.min(window.innerWidth, 430) - 14) / 7.5))
+  let lines = 1
+  let lineLength = 0
+
+  for (const word of words) {
+    const nextLength = lineLength ? lineLength + word.length + 1 : word.length
+    if (lineLength && nextLength > lineCapacity) {
+      lines += 1
+      lineLength = word.length
+    } else {
+      lineLength = nextLength
+    }
+  }
+
+  return Math.min(4, Math.max(1, lines))
+}
 
 export function YouGlishWidget({ query, language, accent, active }: Props) {
   const reactId = useId()
@@ -57,6 +84,7 @@ export function YouGlishWidget({ query, language, accent, active }: Props) {
   const [current, setCurrent] = useState(1)
   const [fetchCount, setFetchCount] = useState(0)
   const [needsPlayAction, setNeedsPlayAction] = useState(false)
+  const [captionLines, setCaptionLines] = useState(2)
 
   const clearPlayCheck = useCallback(() => {
     if (playCheckRef.current !== null) window.clearTimeout(playCheckRef.current)
@@ -95,6 +123,7 @@ export function YouGlishWidget({ query, language, accent, active }: Props) {
     setStatus('loading')
     setTotal(null)
     setCurrent(1)
+    setCaptionLines(2)
 
     loadApi()
       .then(() => {
@@ -116,7 +145,13 @@ export function YouGlishWidget({ query, language, accent, active }: Props) {
             onVideoChange: (event: VideoEvent) => {
               if (cancelled || typeof event?.trackNumber !== 'number') return
               setCurrent(Math.max(1, event.trackNumber))
+              setCaptionLines(2)
               if (activeRef.current) window.setTimeout(requestPlayback, 0)
+            },
+            onCaptionChange: (event: CaptionEvent) => {
+              if (!cancelled && typeof event?.caption === 'string') {
+                setCaptionLines(estimateCaptionLines(event.caption))
+              }
             },
             onPlayerReady: () => {
               if (!cancelled && activeRef.current && readyRef.current) requestPlayback()
@@ -164,7 +199,7 @@ export function YouGlishWidget({ query, language, accent, active }: Props) {
 
   return (
     <div className="youglish-frame" data-query={query} data-fetch-count={fetchCount} data-active={active}>
-      <div className="youglish-viewport">
+      <div className="youglish-viewport" style={{ '--youglish-caption-height': `${31 + captionLines * 27}px` } as CSSProperties}>
         {status === 'loading' && <div className="widget-loading">Loading real video examples…</div>}
         <div id={id} className="youglish-target" aria-label={`YouGlish video examples for ${query}`} />
         {needsPlayAction && (
