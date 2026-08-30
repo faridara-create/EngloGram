@@ -175,7 +175,7 @@ export function LearningPost({ item, position, isActive, progress, completedItem
       <div className="horizontal-carousel" ref={ref} onScroll={onScroll}>
         <section className="post-slide hero-slide">
           <div className="photo-field">
-            {item.image.url && <img src={resolvePublicAsset(item.image.url)} alt={item.image.alt} loading={position <= 2 ? 'eager' : 'lazy'} />}
+            {item.image.url && <img src={resolvePublicAsset(item.image.url)} alt={item.image.alt} loading={position <= 2 ? 'eager' : 'lazy'} style={{ objectPosition: item.image.objectPosition }} />}
             <span className="photo-index">{String(position).padStart(2, '0')}</span>
             {item.image.source && <a className="photo-credit" href={item.image.source} target="_blank" rel="noreferrer">{item.image.attribution ?? item.image.provider}</a>}
           </div>
