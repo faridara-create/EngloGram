@@ -42,7 +42,11 @@
         ],
         "provider": "Pexels",
         "attribution": "Photo by Sora Shimazaki on Pexels",
-        "photographer": "Sora Shimazaki"
+        "photographer": "Sora Shimazaki",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "anticipate",
@@ -98,7 +102,11 @@
         ],
         "provider": "Pexels",
         "attribution": "Photo by Asoje Emprende on Pexels",
-        "photographer": "Asoje Emprende"
+        "photographer": "Asoje Emprende",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "articulate",
@@ -143,18 +151,22 @@
         }
       ],
       "image": {
-        "url": "images/business-meetings-influence-001/nuance.jpg",
-        "searchPrompt": "subtle facial expressions between colleagues in a serious meeting, natural light, realistic editorial photograph, no text",
-        "alt": "Colleagues noticing subtle reactions in a meeting",
-        "source": "https://www.pexels.com/photo/7845341/",
+        "url": "images/business-meetings-influence-001/nuance.webp",
+        "searchPrompt": "portrait editorial photograph of a diverse team listening closely while a colleague explains a subtle point at a whiteboard, no text",
+        "alt": "A team listening closely as a colleague explains a subtle point",
+        "source": "https://www.pexels.com/photo/employees-listening-to-the-man-speaking-in-front-of-them-7869070/",
         "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
         "palette": [
           "#4D5B77",
           "#C7CEDB"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by RDNE Stock project on Pexels",
-        "photographer": "RDNE Stock project"
+        "attribution": "Photo by Pavel Danilyuk on Pexels",
+        "photographer": "Pavel Danilyuk",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932."
       },
       "audio": {
         "text": "nuance",
@@ -208,7 +220,11 @@
         ],
         "provider": "Pexels",
         "attribution": "Photo by Mikhail Nilov on Pexels",
-        "photographer": "Mikhail Nilov"
+        "photographer": "Mikhail Nilov",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "concede",
@@ -264,7 +280,11 @@
         ],
         "provider": "Pexels",
         "attribution": "Photo by Mikael Blomkvist on Pexels",
-        "photographer": "Mikael Blomkvist"
+        "photographer": "Mikael Blomkvist",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "compelling",
@@ -316,7 +336,11 @@
         ],
         "provider": "Pexels",
         "attribution": "Photo by RDNE Stock project on Pexels",
-        "photographer": "RDNE Stock project"
+        "photographer": "RDNE Stock project",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "raise a concern",
@@ -363,18 +387,22 @@
         }
       ],
       "image": {
-        "url": "images/business-meetings-influence-001/establish-rapport.jpg",
-        "searchPrompt": "two diverse professionals sharing a warm authentic moment before a meeting, editorial office photography, no text",
-        "alt": "Two professionals building a comfortable connection",
-        "source": "https://www.pexels.com/photo/7964367/",
+        "url": "images/business-meetings-influence-001/establish-rapport.webp",
+        "searchPrompt": "portrait photograph of two colleagues in a warm friendly face-to-face conversation at work, no text",
+        "alt": "Two colleagues building a friendly professional connection",
+        "source": "https://www.pexels.com/photo/men-having-a-conversation-6149785/",
         "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
         "palette": [
           "#2F6F62",
           "#A6D2B7"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by Felicity Tai on Pexels",
-        "photographer": "Felicity Tai"
+        "attribution": "Photo by Diva Plavalaguna on Pexels",
+        "photographer": "Diva Plavalaguna",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932."
       },
       "audio": {
         "text": "establish rapport",
@@ -430,7 +458,11 @@
         ],
         "provider": "Pexels",
         "attribution": "Photo by Kampus Production on Pexels",
-        "photographer": "Kampus Production"
+        "photographer": "Kampus Production",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "challenge an assumption",
@@ -476,18 +508,22 @@
         }
       ],
       "image": {
-        "url": "images/business-meetings-influence-001/find-common-ground.jpg",
-        "searchPrompt": "colleagues from opposing teams leaning over one shared plan, warm realistic office photography, no text",
-        "alt": "Different teams working toward shared priorities",
-        "source": "https://www.pexels.com/photo/6930300/",
+        "url": "images/business-meetings-influence-001/find-common-ground.webp",
+        "searchPrompt": "portrait photograph of two professionals in a constructive face-to-face discussion across a table, no text",
+        "alt": "Two professionals working through a constructive discussion",
+        "source": "https://www.pexels.com/photo/two-men-talking-to-each-other-about-business-8276130/",
         "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
         "palette": [
           "#52613E",
           "#C2D09A"
         ],
         "provider": "Pexels",
-        "attribution": "Photo by Mikhail Nilov on Pexels",
-        "photographer": "Mikhail Nilov"
+        "attribution": "Photo by PNW Production on Pexels",
+        "photographer": "PNW Production",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932."
       },
       "audio": {
         "text": "find common ground",
@@ -543,7 +579,11 @@
         ],
         "provider": "Pexels",
         "attribution": "Photo by Gustavo Fring on Pexels",
-        "photographer": "Gustavo Fring"
+        "photographer": "Gustavo Fring",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "steer the conversation",
