@@ -57,7 +57,11 @@
         "palette": [
           "#4F7041",
           "#B8D59D"
-        ]
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "sustainable",
@@ -124,7 +128,11 @@
         "palette": [
           "#4F7041",
           "#B8D59D"
-        ]
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "sedentary",
@@ -191,7 +199,11 @@
         "palette": [
           "#4F7041",
           "#B8D59D"
-        ]
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "restorative",
@@ -258,7 +270,11 @@
         "palette": [
           "#4F7041",
           "#B8D59D"
-        ]
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "resilient",
@@ -315,17 +331,21 @@
       ],
       "image": {
         "url": "images/health-habits-wellbeing-001/detrimental.webp",
-        "searchPrompt": "tired person affected by unhealthy work habits",
-        "alt": "Tired person affected by unhealthy work habits",
+        "searchPrompt": "portrait documentary photograph of a person lighting a cigarette, showing a harmful health habit, no text",
+        "alt": "A person lighting a cigarette, representing a harmful habit",
         "provider": "Pexels",
-        "source": "https://www.pexels.com/photo/3757374/",
-        "attribution": "Photo by Andrea Piacquadio on Pexels",
-        "photographer": "Andrea Piacquadio",
+        "source": "https://www.pexels.com/photo/man-lighting-a-cigarette-11384117/",
+        "attribution": "Photo by Sed “Creatives” Sardar on Pexels",
+        "photographer": "Sed “Creatives” Sardar",
         "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
         "palette": [
           "#4F7041",
           "#B8D59D"
-        ]
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932."
       },
       "audio": {
         "text": "detrimental",
@@ -382,17 +402,21 @@
       ],
       "image": {
         "url": "images/health-habits-wellbeing-001/stick-to-a-routine.webp",
-        "searchPrompt": "person following a calm morning routine",
-        "alt": "Person following a calm morning routine",
+        "searchPrompt": "portrait photograph of a woman checking her workout plan on a phone while holding a yoga mat, no text",
+        "alt": "A woman checking her planned workout while holding a yoga mat",
         "provider": "Pexels",
-        "source": "https://www.pexels.com/photo/4498151/",
-        "attribution": "Photo by Ketut Subiyanto on Pexels",
-        "photographer": "Ketut Subiyanto",
+        "source": "https://www.pexels.com/photo/a-fit-woman-looking-at-her-smartphone-7900311/",
+        "attribution": "Photo by Ivan S on Pexels",
+        "photographer": "Ivan S",
         "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
         "palette": [
           "#4F7041",
           "#B8D59D"
-        ]
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932."
       },
       "audio": {
         "text": "stick to a routine",
@@ -460,7 +484,11 @@
         "palette": [
           "#4F7041",
           "#B8D59D"
-        ]
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "prioritise wellbeing",
@@ -528,7 +556,11 @@
         "palette": [
           "#4F7041",
           "#B8D59D"
-        ]
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "listen to your body",
@@ -586,17 +618,21 @@
       ],
       "image": {
         "url": "images/health-habits-wellbeing-001/break-a-habit.webp",
-        "searchPrompt": "person changing an established fitness routine",
-        "alt": "Person changing an established fitness routine",
+        "searchPrompt": "portrait photograph of a woman choosing a green apple instead of a doughnut, realistic healthy decision, no text",
+        "alt": "A woman choosing an apple over a doughnut",
         "provider": "Pexels",
-        "source": "https://www.pexels.com/photo/1552242/",
-        "attribution": "Photo by Leon Ardho on Pexels",
-        "photographer": "Leon Ardho",
+        "source": "https://www.pexels.com/photo/blurred-woman-showing-a-green-apple-and-holding-a-doughnut-6550809/",
+        "attribution": "Photo by Andres Ayrton on Pexels",
+        "photographer": "Andres Ayrton",
         "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
         "palette": [
           "#4F7041",
           "#B8D59D"
-        ]
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932."
       },
       "audio": {
         "text": "break a habit",
@@ -664,7 +700,11 @@
         "palette": [
           "#4F7041",
           "#B8D59D"
-        ]
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible."
       },
       "audio": {
         "text": "maintain a balance",
