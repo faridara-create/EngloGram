@@ -62,8 +62,8 @@ export function validateLesson(input: unknown, registry?: Registry): ValidationR
   if (new Set(normalizedTerms).size !== normalizedTerms.length) {
     add({ severity: 'error', path: 'items', code: 'DUPLICATE_TERM', message: 'Normalized terms must be unique within a lesson.' })
   }
-  if (vocabularyCount !== 5) {
-    add({ severity: 'error', path: 'items', code: 'ITEM_BALANCE', message: `Expected exactly 5 vocabulary items and 5 collocations; found ${vocabularyCount} vocabulary and ${10 - vocabularyCount} collocations.` })
+  if (vocabularyCount < 4 || vocabularyCount > 6) {
+    add({ severity: 'error', path: 'items', code: 'ITEM_BALANCE', message: `Expected a balanced mix of 4–6 vocabulary items and 4–6 collocations; found ${vocabularyCount} vocabulary and ${10 - vocabularyCount} collocations.` })
   }
 
   const quizIds = lesson.quiz.map((question) => question.itemId)
@@ -95,7 +95,7 @@ export function validateLesson(input: unknown, registry?: Registry): ValidationR
       const duplicate = registry.entries.find((entry) =>
         entry.normalizedTerm === normalized && entry.introducedInLesson !== lesson.id,
       )
-      if (duplicate) {
+      if (duplicate && duplicate.canonicalId !== item.id) {
         add({
           severity: 'error',
           path: `items.${index}.term`,
