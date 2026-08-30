@@ -31,6 +31,10 @@ export const learningItemSchema = z.object({
     photographer: nonEmpty,
     license: z.string().nullable(),
     palette: z.tuple([nonEmpty, nonEmpty]),
+    orientation: z.enum(['portrait', 'landscape', 'square']),
+    objectPosition: z.string().regex(/^\d{1,3}% \d{1,3}%$/),
+    safeCropApproved: z.boolean(),
+    cropNotes: nonEmpty,
   }),
   audio: z.object({
     text: nonEmpty,
