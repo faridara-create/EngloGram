@@ -32,20 +32,19 @@ export function HomeScreen({ catalog, onOpenLesson }: Props) {
       )}
 
       <section className="topic-section" aria-labelledby="topic-heading">
-        <div className="section-heading"><h2 id="topic-heading">Choose your feed</h2><span>{catalog.topics.length} topics</span></div>
+        <div className="section-heading"><h2 id="topic-heading">Choose your feed</h2><span>{catalog.topics.length} topics · {catalog.topics.flatMap((topic) => topic.lessons).length} lessons</span></div>
         <div className="topic-grid">
-          {catalog.topics.map((topic, topicIndex) => {
-            const lesson = topic.lessons[0]
-            const progress = lesson ? lessonStates.get(lesson.id) : undefined
+          {catalog.topics.flatMap((topic, topicIndex) => topic.lessons.map((lesson, lessonIndex) => {
+            const progress = lessonStates.get(lesson.id)
             return (
-              <button className={`topic-card tone-${topic.color}`} key={topic.id} onClick={() => lesson?.available && onOpenLesson(lesson.path)} aria-disabled={!lesson?.available}>
-                <span className="topic-number">{String(topicIndex + 1).padStart(2, '0')}</span>
+              <button className={`topic-card tone-${topic.color}`} key={lesson.id} onClick={() => lesson.available && onOpenLesson(lesson.path)} aria-disabled={!lesson.available}>
+                <span className="topic-number">{String(topicIndex + 1).padStart(2, '0')}.{lessonIndex + 1}</span>
                 <span className="topic-orbit" aria-hidden="true"><b>{topic.symbol}</b></span>
                 <span className="topic-copy"><small>{topic.eyebrow}</small><strong>{topic.title}</strong><span>{topic.description}</span></span>
-                <span className="topic-footer"><span>{lesson?.title}</span><b>{progress?.completed ? 'Completed ✓' : lesson?.available ? progress?.lastVisitedAt ? 'Continue →' : 'Start →' : 'Soon'}</b></span>
+                <span className="topic-footer"><span>{lesson.title}</span><b>{progress?.completed ? 'Completed ✓' : lesson.available ? progress?.lastVisitedAt ? 'Continue →' : 'Start →' : 'Soon'}</b></span>
               </button>
             )
-          })}
+          }))}
         </div>
       </section>
     </main>
