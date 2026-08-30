@@ -630,9 +630,9 @@
           "#B8D59D"
         ],
         "orientation": "portrait",
-        "objectPosition": "50% 50%",
+        "objectPosition": "80% 50%",
         "safeCropApproved": true,
-        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932."
+        "cropNotes": "Portrait source selected and anchored right so the apple, doughnut and decision remain visible from 360×800 through 430×932."
       },
       "audio": {
         "text": "break a habit",
