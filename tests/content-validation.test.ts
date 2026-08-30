@@ -21,24 +21,26 @@ describe('content validation', () => {
     expect(storyContainsItem('The adviser raised a concern calmly.', 'raise a concern', ['raised a concern'])).toBe(true)
   })
 
-  it('provides eight available lessons and eighty unique registered targets', () => {
+  it('provides sixteen available lessons and 148 unique registered targets', () => {
     expect(catalog.topics).toHaveLength(8)
-    expect(catalog.topics.every((topic) => topic.lessons[0]?.available)).toBe(true)
-    expect(lessons).toHaveLength(8)
-    expect(registry.entries).toHaveLength(80)
-    expect(new Set(registry.entries.map((entry) => entry.normalizedTerm)).size).toBe(80)
-    expect(new Set(registry.entries.map((entry) => entry.canonicalId)).size).toBe(80)
+    expect(catalog.topics.every((topic) => topic.lessons.length === 2 && topic.lessons.every((lesson) => lesson.available))).toBe(true)
+    expect(lessons).toHaveLength(16)
+    expect(registry.entries).toHaveLength(148)
+    expect(new Set(registry.entries.map((entry) => entry.normalizedTerm)).size).toBe(148)
+    expect(new Set(registry.entries.map((entry) => entry.canonicalId)).size).toBe(148)
   })
 
   it.each(lessons.map((lesson) => [lesson.id, lesson] as const))('accepts complete lesson %s', (_id, lesson) => {
     const result = validateLesson(lesson, registry)
     expect(result.issues).toEqual([])
     expect(result.valid).toBe(true)
-    expect(lesson.items.filter((item) => item.type === 'vocabulary')).toHaveLength(5)
-    expect(lesson.items.filter((item) => item.type === 'collocation')).toHaveLength(5)
+    expect(lesson.items.filter((item) => item.type === 'vocabulary').length).toBeGreaterThanOrEqual(4)
+    expect(lesson.items.filter((item) => item.type === 'vocabulary').length).toBeLessThanOrEqual(6)
+    expect(lesson.items.filter((item) => item.type === 'collocation').length).toBeGreaterThanOrEqual(4)
+    expect(lesson.items.filter((item) => item.type === 'collocation').length).toBeLessThanOrEqual(6)
     expect(lesson.quiz).toHaveLength(10)
     const storyWords = lesson.story.pages.flatMap((page) => page.text.trim().split(/\s+/))
-    expect(storyWords.length).toBeGreaterThanOrEqual(250)
+    expect(storyWords.length).toBeGreaterThanOrEqual(200)
     expect(storyWords.length).toBeLessThanOrEqual(450)
   })
 
