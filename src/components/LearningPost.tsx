@@ -64,8 +64,8 @@ export function LearningPost({ item, position, isActive, progress, completedItem
   } as CSSProperties
 
   useEffect(() => {
-    if (isActive && index === 1) setYouglishLoaded(true)
-  }, [index, isActive])
+    if (isActive && settledIndex === 1) setYouglishLoaded(true)
+  }, [isActive, settledIndex])
 
   useEffect(() => {
     if (!isActive) reset()
@@ -190,10 +190,10 @@ export function LearningPost({ item, position, isActive, progress, completedItem
 
         <section className="post-slide youglish-slide">
           <p className="slide-label">02 · IN THE WILD</p>
-          <div className="external-heading"><span>Real people.</span><h2>Real context.</h2><p>Hear “{item.term}” in authentic English clips.</p></div>
+          <div className="external-heading"><h2>Real context.</h2><p>{item.term}</p></div>
           <div className="widget-shell">
             {youglishLoaded
-              ? <YouGlishWidget query={item.youglish.query} language={item.youglish.language} accent={item.youglish.accent} active={isActive && index === 1} />
+              ? <YouGlishWidget query={item.youglish.query} language={item.youglish.language} accent={item.youglish.accent} active={isActive && settledIndex === 1} />
               : <div className="widget-loading">Swipe here to load YouGlish.</div>}
           </div>
           <small className="privacy-copy">
