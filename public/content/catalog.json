@@ -14,6 +14,12 @@
           "title": "Meetings & Influence",
           "path": "/content/lessons/business-meetings-influence-001.json",
           "available": true
+        },
+        {
+          "id": "business-negotiation-alignment-002",
+          "title": "Negotiation & Alignment",
+          "path": "/content/lessons/business-negotiation-alignment-002.json",
+          "available": true
         }
       ]
     },
@@ -29,6 +35,12 @@
           "id": "technology-ai-digital-transformation-001",
           "title": "AI & Digital Transformation",
           "path": "/content/lessons/technology-ai-digital-transformation-001.json",
+          "available": true
+        },
+        {
+          "id": "technology-ai-data-security-002",
+          "title": "AI, Data & Security",
+          "path": "/content/lessons/technology-ai-data-security-002.json",
           "available": true
         }
       ]
@@ -46,6 +58,12 @@
           "title": "Exploring the Universe",
           "path": "/content/lessons/space-exploring-universe-001.json",
           "available": true
+        },
+        {
+          "id": "space-missions-discovery-002",
+          "title": "Missions & Discovery",
+          "path": "/content/lessons/space-missions-discovery-002.json",
+          "available": true
         }
       ]
     },
@@ -61,6 +79,12 @@
           "id": "health-habits-wellbeing-001",
           "title": "Health, Habits & Wellbeing",
           "path": "/content/lessons/health-habits-wellbeing-001.json",
+          "available": true
+        },
+        {
+          "id": "health-habits-symptoms-prevention-002",
+          "title": "Habits, Symptoms & Prevention",
+          "path": "/content/lessons/health-habits-symptoms-prevention-002.json",
           "available": true
         }
       ]
@@ -78,6 +102,12 @@
           "title": "Travel Experiences & Unexpected Situations",
           "path": "/content/lessons/travel-unexpected-journeys-001.json",
           "available": true
+        },
+        {
+          "id": "travel-delays-culture-navigation-002",
+          "title": "Delays, Culture & Navigation",
+          "path": "/content/lessons/travel-delays-culture-navigation-002.json",
+          "available": true
         }
       ]
     },
@@ -93,6 +123,12 @@
           "id": "family-relationships-dynamics-001",
           "title": "Relationships & Family Dynamics",
           "path": "/content/lessons/family-relationships-dynamics-001.json",
+          "available": true
+        },
+        {
+          "id": "family-relationships-routines-002",
+          "title": "Relationships & Routines",
+          "path": "/content/lessons/family-relationships-routines-002.json",
           "available": true
         }
       ]
@@ -110,6 +146,12 @@
           "title": "Art, Creativity & Interpretation",
           "path": "/content/lessons/art-creativity-interpretation-001.json",
           "available": true
+        },
+        {
+          "id": "art-interpretation-creativity-002",
+          "title": "Interpretation & Creativity",
+          "path": "/content/lessons/art-interpretation-creativity-002.json",
+          "available": true
         }
       ]
     },
@@ -125,6 +167,12 @@
           "id": "psychology-emotions-decisions-001",
           "title": "Behaviour, Emotions & Decision-Making",
           "path": "/content/lessons/psychology-emotions-decisions-001.json",
+          "available": true
+        },
+        {
+          "id": "psychology-bias-emotion-behaviour-002",
+          "title": "Bias, Emotion & Behaviour",
+          "path": "/content/lessons/psychology-bias-emotion-behaviour-002.json",
           "available": true
         }
       ]

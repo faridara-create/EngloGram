@@ -1,0 +1,631 @@
+{
+  "schemaVersion": "1.0",
+  "id": "family-relationships-routines-002",
+  "topicId": "family",
+  "subtopic": "Relationships & Routines",
+  "title": "Relationships & Routines",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "affectionate",
+      "type": "vocabulary",
+      "term": "affectionate",
+      "translation": "liebevoll; zugewandt",
+      "ipa": "/əˈfekʃənət/",
+      "definition": "showing love or fondness openly and warmly",
+      "examples": [
+        {
+          "source": "Her grandfather was never dramatic, but his way of putting fruit aside for the children was quietly affectionate.",
+          "translation": "Ihr Großvater war nie dramatisch, aber die Art, wie er Obst für die Kinder zurücklegte, war still liebevoll."
+        },
+        {
+          "source": "Some families are openly affectionate, while others show love through practical gestures.",
+          "translation": "Manche Familien sind offen liebevoll, während andere Zuneigung durch praktische Gesten zeigen."
+        },
+        {
+          "source": "Even during an argument, his tone remained affectionate rather than dismissive.",
+          "translation": "Selbst während des Streits blieb sein Ton liebevoll und nicht abweisend."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/supportive.webp",
+        "searchPrompt": "portrait affectionate family moment at home",
+        "alt": "An affectionate family interaction",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8841681/",
+        "attribution": "Photo by Julia M Cameron on Pexels",
+        "photographer": "Julia M Cameron",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for affectionate as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "affectionate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "affectionate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "relationships"
+      ]
+    },
+    {
+      "id": "drift-apart",
+      "type": "collocation",
+      "term": "drift apart",
+      "translation": "auseinanderleben",
+      "ipa": "/drɪft əˈpɑːt/",
+      "definition": "to gradually become less close over time",
+      "examples": [
+        {
+          "source": "Friends can drift apart even when there has been no dramatic conflict.",
+          "translation": "Freunde können auseinanderleben, selbst wenn es keinen dramatischen Konflikt gegeben hat."
+        },
+        {
+          "source": "After university, the cousins drifted apart and then unexpectedly found each other again years later.",
+          "translation": "Nach der Universität lebten die Cousins auseinander und fanden Jahre später überraschend wieder zueinander."
+        },
+        {
+          "source": "Busy routines sometimes make couples feel they are drifting apart before they notice what is happening.",
+          "translation": "Volle Alltage lassen Paare manchmal spüren, dass sie auseinanderdriften, bevor ihnen bewusst wird, was geschieht."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/drift-apart.webp",
+        "searchPrompt": "portrait family members feeling distant or apart",
+        "alt": "Family members drifting apart",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/461049/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for drift apart as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "drift apart",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "drift apart",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "drifted apart"
+      ],
+      "tags": [
+        "family",
+        "change"
+      ]
+    },
+    {
+      "id": "reassurance",
+      "type": "vocabulary",
+      "term": "reassurance",
+      "translation": "Beruhigung; Zuspruch",
+      "ipa": "/ˌriːəˈʃʊərəns/",
+      "definition": "words or actions that make someone feel less worried",
+      "examples": [
+        {
+          "source": "A child who wakes up frightened often needs reassurance more than explanation.",
+          "translation": "Ein Kind, das ängstlich aufwacht, braucht oft eher Zuspruch als Erklärung."
+        },
+        {
+          "source": "Her brief message of reassurance changed the atmosphere in the family group chat.",
+          "translation": "Ihre kurze Nachricht der Beruhigung veränderte die Stimmung im Familienchat."
+        },
+        {
+          "source": "Sometimes reassurance comes not from advice but simply from someone staying present.",
+          "translation": "Manchmal kommt Beruhigung nicht durch Ratschläge, sondern einfach dadurch, dass jemand da bleibt."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/supportive.webp",
+        "searchPrompt": "portrait comforting family reassurance",
+        "alt": "A family member offering reassurance",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8841681/",
+        "attribution": "Photo by Julia M Cameron on Pexels",
+        "photographer": "Julia M Cameron",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for reassurance as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "reassurance",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "reassurance",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "support"
+      ]
+    },
+    {
+      "id": "set-boundaries",
+      "type": "collocation",
+      "term": "set boundaries",
+      "translation": "Grenzen setzen",
+      "ipa": "/set ˈbaʊndəriz/",
+      "definition": "to decide and communicate what behaviour is acceptable and what is not",
+      "examples": [
+        {
+          "source": "Learning to set boundaries does not make a person selfish; it often makes relationships clearer.",
+          "translation": "Zu lernen, Grenzen zu setzen, macht einen nicht egoistisch; oft macht es Beziehungen klarer."
+        },
+        {
+          "source": "They had to set boundaries around weekend calls to protect family time.",
+          "translation": "Sie mussten Grenzen für Anrufe am Wochenende setzen, um Familienzeit zu schützen."
+        },
+        {
+          "source": "She spoke kindly but firmly when she set boundaries with her grown son.",
+          "translation": "Sie sprach freundlich, aber bestimmt, als sie ihrem erwachsenen Sohn Grenzen setzte."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/set-boundaries.webp",
+        "searchPrompt": "portrait calm conversation about setting boundaries at home",
+        "alt": "A calm family conversation about boundaries",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/4262424/",
+        "attribution": "Photo by August de Richelieu on Pexels",
+        "photographer": "August de Richelieu",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for set boundaries as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "set boundaries",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "set boundaries",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "communication"
+      ]
+    },
+    {
+      "id": "nurturing",
+      "type": "vocabulary",
+      "term": "nurturing",
+      "translation": "fürsorglich; fördernd",
+      "ipa": "/ˈnɜːtʃərɪŋ/",
+      "definition": "providing care, encouragement, and the conditions needed to grow",
+      "examples": [
+        {
+          "source": "The best teachers are often nurturing without being overprotective.",
+          "translation": "Die besten Lehrkräfte sind oft fürsorglich, ohne überbehütend zu sein."
+        },
+        {
+          "source": "He grew up in a nurturing environment where curiosity was taken seriously.",
+          "translation": "Er wuchs in einem fördernden Umfeld auf, in dem Neugier ernst genommen wurde."
+        },
+        {
+          "source": "A nurturing routine does not need to be elaborate to be effective.",
+          "translation": "Eine fürsorgliche Routine muss nicht aufwendig sein, um wirksam zu sein."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/close-knit.webp",
+        "searchPrompt": "portrait nurturing family routine or parent-child interaction",
+        "alt": "A nurturing family environment",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3768131/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for nurturing as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "nurturing",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "nurturing",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "care"
+      ]
+    },
+    {
+      "id": "take-after",
+      "type": "collocation",
+      "term": "take after",
+      "translation": "nach jemandem kommen; jemandem ähneln",
+      "ipa": "/teɪk ˈɑːftə/",
+      "definition": "to be similar to an older family member in appearance or character",
+      "examples": [
+        {
+          "source": "Everyone says she takes after her mother in the way she laughs.",
+          "translation": "Alle sagen, sie komme nach ihrer Mutter in der Art, wie sie lacht."
+        },
+        {
+          "source": "He takes after his grandfather not in looks but in stubbornness.",
+          "translation": "Er kommt nach seinem Großvater – nicht im Aussehen, sondern in seiner Sturheit."
+        },
+        {
+          "source": "Sometimes children take after relatives they barely had the chance to know.",
+          "translation": "Manchmal ähneln Kinder Verwandten, die sie kaum kennenlernen konnten."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/close-knit.webp",
+        "searchPrompt": "portrait family resemblance between generations",
+        "alt": "A child taking after a parent or grandparent",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3768131/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for take after as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "take after",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "take after",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "similarity"
+      ]
+    },
+    {
+      "id": "considerate",
+      "type": "vocabulary",
+      "term": "considerate",
+      "translation": "rücksichtsvoll",
+      "ipa": "/kənˈsɪdərət/",
+      "definition": "careful not to inconvenience or hurt other people",
+      "examples": [
+        {
+          "source": "It was considerate of him to tell the family he would be late.",
+          "translation": "Es war rücksichtsvoll von ihm, der Familie Bescheid zu sagen, dass er sich verspätet."
+        },
+        {
+          "source": "Being considerate in a shared household often means noticing small things before they become irritations.",
+          "translation": "In einem gemeinsamen Haushalt rücksichtsvoll zu sein heißt oft, kleine Dinge zu bemerken, bevor sie zu Ärgernissen werden."
+        },
+        {
+          "source": "Her daughter’s gift was simple, but the gesture behind it was deeply considerate.",
+          "translation": "Das Geschenk ihrer Tochter war einfach, aber die Geste dahinter war sehr rücksichtsvoll."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/supportive.webp",
+        "searchPrompt": "portrait considerate family gesture at home",
+        "alt": "A considerate family gesture",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8841681/",
+        "attribution": "Photo by Julia M Cameron on Pexels",
+        "photographer": "Julia M Cameron",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for considerate as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "considerate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "considerate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "values"
+      ]
+    },
+    {
+      "id": "household-chores",
+      "type": "collocation",
+      "term": "household chores",
+      "translation": "Hausarbeiten; Aufgaben im Haushalt",
+      "ipa": "/ˌhaʊshəʊld tʃɔːz/",
+      "definition": "regular tasks that need to be done to keep a home running",
+      "examples": [
+        {
+          "source": "Arguments about household chores are rarely about the plates alone.",
+          "translation": "Streit über Hausarbeiten dreht sich selten nur um die Teller."
+        },
+        {
+          "source": "They made a shared list of household chores to reduce the usual evening tension.",
+          "translation": "Sie erstellten eine gemeinsame Liste von Hausarbeiten, um die übliche Abendspannung zu verringern."
+        },
+        {
+          "source": "Teaching children household chores can be a way of teaching competence, not just obedience.",
+          "translation": "Kindern Hausarbeiten beizubringen kann eine Art sein, Selbstständigkeit zu vermitteln und nicht nur Gehorsam."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/take-someone-for-granted.webp",
+        "searchPrompt": "portrait family doing household chores together",
+        "alt": "Family members sharing household chores",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/2253879/",
+        "attribution": "Photo by Emma Bauso on Pexels",
+        "photographer": "Emma Bauso",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for household chores as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "household chores",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "household chores",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "routine"
+      ]
+    },
+    {
+      "id": "resilient",
+      "type": "vocabulary",
+      "term": "resilient",
+      "translation": "widerstandsfähig; resilient",
+      "ipa": "/rɪˈzɪliənt/",
+      "definition": "able to recover well from stress, difficulty, or change",
+      "examples": [
+        {
+          "source": "Children often seem resilient, but they still need help making sense of change.",
+          "translation": "Kinder wirken oft widerstandsfähig, brauchen aber dennoch Hilfe dabei, Veränderungen zu verstehen."
+        },
+        {
+          "source": "What made the family resilient was not perfection but the habit of talking honestly after conflict.",
+          "translation": "Was die Familie widerstandsfähig machte, war nicht Perfektion, sondern die Gewohnheit, nach Konflikten ehrlich zu sprechen."
+        },
+        {
+          "source": "A resilient relationship is flexible enough to survive awkward seasons.",
+          "translation": "Eine resiliente Beziehung ist flexibel genug, um unbequeme Phasen zu überstehen."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/make-amends.webp",
+        "searchPrompt": "portrait family showing resilience and support",
+        "alt": "A resilient family",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3171128/",
+        "attribution": "Photo by August de Richelieu on Pexels",
+        "photographer": "August de Richelieu",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for resilient as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "resilient",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "resilient",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "strength"
+      ]
+    },
+    {
+      "id": "work-through",
+      "type": "collocation",
+      "term": "work through",
+      "translation": "durcharbeiten; bewältigen",
+      "ipa": "/wɜːk θruː/",
+      "definition": "to deal with a problem by discussing it or processing it gradually",
+      "examples": [
+        {
+          "source": "They needed a quiet evening to work through the misunderstanding.",
+          "translation": "Sie brauchten einen ruhigen Abend, um das Missverständnis aufzuarbeiten."
+        },
+        {
+          "source": "Some conflicts disappear on their own, but others must be worked through patiently.",
+          "translation": "Manche Konflikte verschwinden von selbst, andere müssen geduldig bewältigt werden."
+        },
+        {
+          "source": "Therapy helped the siblings work through years of resentment.",
+          "translation": "Die Therapie half den Geschwistern, Jahre des Grolls aufzuarbeiten."
+        }
+      ],
+      "image": {
+        "url": "images/family-relationships-dynamics-001/strained.webp",
+        "searchPrompt": "portrait family members working through a conversation",
+        "alt": "Family members working through a problem",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/5082872/",
+        "attribution": "Photo by Vanessa Loring on Pexels",
+        "photographer": "Vanessa Loring",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A5966",
+          "#E3AEB7"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for work through as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "work through",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "work through",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "family",
+        "conflict"
+      ]
+    }
+  ],
+  "story": {
+    "title": "Relationships & Routines Recap",
+    "pages": [
+      {
+        "text": "People often imagine strong families as families without tension, but that has rarely been true in my experience. Real closeness is less polished and more practical. It lives in affectionate habits, in the way someone checks whether you got home safely, or in how a tired parent still remembers which story a child wants to hear again. At the same time, routines can become crowded, and when everyone is rushing, even considerate people can begin to sound sharp without meaning to."
+      },
+      {
+        "text": "That is why boundaries matter. One couple I know had to set boundaries around work, devices and visiting relatives simply to keep the evenings from dissolving into irritation. Their children, who take after each parent in different ways, also needed predictable responsibilities. Instead of treating household chores as punishment, the family tried to make them part of a nurturing rhythm in which everyone contributed something visible. The goal was not perfection but steadiness."
+      },
+      {
+        "text": "Like many families, they also had periods when people drifted apart emotionally, especially under stress. What helped was not dramatic reconciliation but small reassurance, repeated over time, and the willingness to work through difficult conversations instead of pretending nothing had happened. That habit, more than any public image of harmony, made them resilient."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "affectionate",
+      "definition": "showing love or fondness openly and warmly"
+    },
+    {
+      "itemId": "drift-apart",
+      "definition": "to gradually become less close over time"
+    },
+    {
+      "itemId": "reassurance",
+      "definition": "words or actions that reduce someone’s worry"
+    },
+    {
+      "itemId": "set-boundaries",
+      "definition": "to communicate what behaviour is acceptable and what is not"
+    },
+    {
+      "itemId": "nurturing",
+      "definition": "providing care and encouragement that help growth"
+    },
+    {
+      "itemId": "take-after",
+      "definition": "to resemble an older family member"
+    },
+    {
+      "itemId": "considerate",
+      "definition": "careful not to inconvenience or hurt others"
+    },
+    {
+      "itemId": "household-chores",
+      "definition": "regular tasks needed to keep a home running"
+    },
+    {
+      "itemId": "resilient",
+      "definition": "able to recover well from stress or difficulty"
+    },
+    {
+      "itemId": "work-through",
+      "definition": "to deal with a problem gradually by discussing or processing it"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-30",
+    "reviewStatus": "validated",
+    "tags": [
+      "family",
+      "relationships-routines",
+      "c1",
+      "de"
+    ]
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "schemaVersion": "1.0",
+  "id": "psychology-bias-emotion-behaviour-002",
+  "topicId": "psychology",
+  "subtopic": "Bias, Emotion & Behaviour",
+  "title": "Bias, Emotion & Behaviour",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "bias",
+      "type": "vocabulary",
+      "term": "bias",
+      "translation": "Verzerrung; Voreingenommenheit",
+      "ipa": "/ˈbaɪəs/",
+      "definition": "a tendency to think or act in a way that unfairly favours one idea, person, or outcome",
+      "examples": [
+        {
+          "source": "Even trained professionals are not immune to bias when they feel rushed.",
+          "translation": "Selbst geschulte Fachleute sind nicht immun gegen Verzerrungen, wenn sie unter Zeitdruck stehen."
+        },
+        {
+          "source": "The study examined how bias shapes what people notice and what they ignore.",
+          "translation": "Die Studie untersuchte, wie Voreingenommenheit beeinflusst, was Menschen wahrnehmen und was sie ignorieren."
+        },
+        {
+          "source": "Recognising your own bias is uncomfortable, which is one reason it matters so much.",
+          "translation": "Die eigene Voreingenommenheit zu erkennen ist unangenehm, und genau deshalb ist es so wichtig."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/weigh-up-options.webp",
+        "searchPrompt": "portrait person reflecting on decision making and bias",
+        "alt": "A person reflecting on cognitive bias",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3756168/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for bias as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "bias",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "bias",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "cognition"
+      ]
+    },
+    {
+      "id": "cope-with",
+      "type": "collocation",
+      "term": "cope with",
+      "translation": "mit etwas zurechtkommen; etwas bewältigen",
+      "ipa": "/kəʊp wɪð/",
+      "definition": "to manage a difficult situation or emotion successfully enough to continue",
+      "examples": [
+        {
+          "source": "Children learn to cope with frustration gradually, not all at once.",
+          "translation": "Kinder lernen nach und nach, mit Frustration umzugehen, nicht auf einmal."
+        },
+        {
+          "source": "She coped with the uncertainty by creating small routines she could control.",
+          "translation": "Sie bewältigte die Unsicherheit, indem sie kleine Routinen schuf, die sie kontrollieren konnte."
+        },
+        {
+          "source": "How people cope with grief often depends as much on support as on personality.",
+          "translation": "Wie Menschen Trauer bewältigen, hängt oft ebenso sehr von Unterstützung wie von Persönlichkeit ab."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/cope-with-uncertainty.webp",
+        "searchPrompt": "portrait person using calming routine to cope with stress",
+        "alt": "A person learning to cope with stress",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3769021/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for cope with as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "cope with",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "cope with",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "emotion"
+      ]
+    },
+    {
+      "id": "ruminate",
+      "type": "vocabulary",
+      "term": "ruminate",
+      "translation": "grübeln",
+      "ipa": "/ˈruːmɪneɪt/",
+      "definition": "to think about the same problem or negative feeling repeatedly",
+      "examples": [
+        {
+          "source": "People who ruminate tend to replay conversations long after they are over.",
+          "translation": "Menschen, die grübeln, spielen Gespräche oft noch lange nach ihrem Ende im Kopf durch."
+        },
+        {
+          "source": "Instead of helping her solve the issue, the quiet evening gave her more time to ruminate.",
+          "translation": "Anstatt ihr bei der Lösung zu helfen, gab ihr der ruhige Abend mehr Zeit zum Grübeln."
+        },
+        {
+          "source": "The podcast explained why ruminating can feel productive while actually trapping attention.",
+          "translation": "Der Podcast erklärte, warum Grübeln produktiv wirken kann, obwohl es die Aufmerksamkeit in Wahrheit festhält."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/self-aware.webp",
+        "searchPrompt": "portrait thoughtful person ruminating alone",
+        "alt": "A person ruminating over thoughts",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/11049191/",
+        "attribution": "Photo by Alan Cordero on Pexels",
+        "photographer": "Alan Cordero",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932. Reused for ruminate as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "ruminate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "ruminate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "thought"
+      ]
+    },
+    {
+      "id": "regulate-emotions",
+      "type": "collocation",
+      "term": "regulate emotions",
+      "translation": "Emotionen regulieren",
+      "ipa": "/ˌreɡjʊleɪt ɪˈməʊʃənz/",
+      "definition": "to manage feelings so that they remain workable rather than overwhelming",
+      "examples": [
+        {
+          "source": "Toddlers cannot regulate emotions alone, which is why adult calm matters so much.",
+          "translation": "Kleinkinder können ihre Emotionen nicht allein regulieren, weshalb die Ruhe Erwachsener so wichtig ist."
+        },
+        {
+          "source": "Breathing exercises are useful only if they actually help you regulate emotions in real situations.",
+          "translation": "Atemübungen sind nur dann nützlich, wenn sie dir tatsächlich helfen, Gefühle in realen Situationen zu regulieren."
+        },
+        {
+          "source": "He had learned to regulate emotions in public but struggled when he was by himself.",
+          "translation": "Er hatte gelernt, seine Emotionen in der Öffentlichkeit zu regulieren, tat sich aber schwer, wenn er allein war."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/regulate-emotions.webp",
+        "searchPrompt": "portrait person using breathing to regulate emotions",
+        "alt": "A person regulating emotions",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3807738/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for regulate emotions as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "regulate emotions",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "regulate emotions",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "self-management"
+      ]
+    },
+    {
+      "id": "perception",
+      "type": "vocabulary",
+      "term": "perception",
+      "translation": "Wahrnehmung",
+      "ipa": "/pəˈsepʃən/",
+      "definition": "the way in which something is noticed, understood, or interpreted",
+      "examples": [
+        {
+          "source": "Stress narrows perception, which is one reason arguments escalate so quickly.",
+          "translation": "Stress verengt die Wahrnehmung, weshalb Streit so schnell eskaliert."
+        },
+        {
+          "source": "The experiment explored how perception changes when context is altered.",
+          "translation": "Das Experiment untersuchte, wie sich Wahrnehmung verändert, wenn der Kontext geändert wird."
+        },
+        {
+          "source": "Our perception of fairness is influenced by emotion more than we like to admit.",
+          "translation": "Unsere Wahrnehmung von Fairness wird stärker von Emotionen beeinflusst, als wir gern zugeben."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/self-aware.webp",
+        "searchPrompt": "portrait psychological experiment or observation about perception",
+        "alt": "A scene related to perception",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/11049191/",
+        "attribution": "Photo by Alan Cordero on Pexels",
+        "photographer": "Alan Cordero",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932. Reused for perception as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "perception",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "perception",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "research"
+      ]
+    },
+    {
+      "id": "jump-to-conclusions",
+      "type": "collocation",
+      "term": "jump to conclusions",
+      "translation": "vorschnelle Schlüsse ziehen",
+      "ipa": "/dʒʌmp tə kənˈkluːʒənz/",
+      "definition": "to make a judgment too quickly before having enough information",
+      "examples": [
+        {
+          "source": "When people are anxious, they often jump to conclusions to reduce uncertainty.",
+          "translation": "Wenn Menschen ängstlich sind, ziehen sie oft vorschnelle Schlüsse, um Unsicherheit zu verringern."
+        },
+        {
+          "source": "The therapist encouraged him to pause before jumping to conclusions about other people’s motives.",
+          "translation": "Der Therapeut ermutigte ihn, innezuhalten, bevor er vorschnell Schlussfolgerungen über die Motive anderer zog."
+        },
+        {
+          "source": "Social media rewards the impulse to jump to conclusions and move on.",
+          "translation": "Soziale Medien belohnen den Impuls, vorschnell Schlüsse zu ziehen und sofort weiterzugehen."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/impulsive.webp",
+        "searchPrompt": "portrait person making a quick judgment or assumption",
+        "alt": "A person tempted to jump to conclusions",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3768126/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "0% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Existing portrait source approved with a focal anchor that keeps the meaningful subject visible from 360×800 through 430×932. Reused for jump to conclusions as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "jump to conclusions",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "jump to conclusions",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "thinking"
+      ]
+    },
+    {
+      "id": "self-awareness",
+      "type": "vocabulary",
+      "term": "self-awareness",
+      "translation": "Selbstwahrnehmung; Selbstbewusstsein im psychologischen Sinn",
+      "ipa": "/ˌself əˈweənəs/",
+      "definition": "clear understanding of your own feelings, motives, and behaviour",
+      "examples": [
+        {
+          "source": "Self-awareness does not eliminate difficult emotions, but it changes your relationship to them.",
+          "translation": "Selbstwahrnehmung beseitigt schwierige Emotionen nicht, aber sie verändert die Beziehung zu ihnen."
+        },
+        {
+          "source": "Leadership courses talk about self-awareness so often because it is harder than it sounds.",
+          "translation": "In Führungskursen spricht man so oft über Selbstwahrnehmung, weil sie schwieriger ist, als sie klingt."
+        },
+        {
+          "source": "Her self-awareness allowed her to apologise without collapsing into shame.",
+          "translation": "Ihre Selbstwahrnehmung ermöglichte es ihr, sich zu entschuldigen, ohne in Scham zu versinken."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/self-aware.webp",
+        "searchPrompt": "portrait reflective person journaling for self-awareness",
+        "alt": "A person building self-awareness",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/11049191/",
+        "attribution": "Photo by Alan Cordero on Pexels",
+        "photographer": "Alan Cordero",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932. Reused for self-awareness as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "self-awareness",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "self-awareness",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "growth"
+      ]
+    },
+    {
+      "id": "fall-into-a-pattern",
+      "type": "collocation",
+      "term": "fall into a pattern",
+      "translation": "in ein Muster verfallen",
+      "ipa": "/fɔːl ˈɪntuː ə ˈpætən/",
+      "definition": "to begin repeating the same way of thinking or behaving",
+      "examples": [
+        {
+          "source": "Couples often fall into a pattern in which one pursues and the other withdraws.",
+          "translation": "Paare verfallen oft in ein Muster, in dem einer drängt und der andere sich zurückzieht."
+        },
+        {
+          "source": "Once you notice how quickly you fall into a pattern, you have more choice than you think.",
+          "translation": "Sobald du bemerkst, wie schnell du in ein Muster verfällst, hast du mehr Wahlmöglichkeiten, als du denkst."
+        },
+        {
+          "source": "Teams can fall into a pattern of silence if disagreement is subtly punished.",
+          "translation": "Teams können in ein Schweigemuster verfallen, wenn Widerspruch subtil bestraft wird."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/fall-into-a-pattern.webp",
+        "searchPrompt": "portrait repeating behavioural pattern concept in everyday life",
+        "alt": "People falling into a pattern",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/7176026/",
+        "attribution": "Photo by Alex Green on Pexels",
+        "photographer": "Alex Green",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for fall into a pattern as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "fall into a pattern",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "fall into a pattern",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "habits"
+      ]
+    },
+    {
+      "id": "ambivalent",
+      "type": "vocabulary",
+      "term": "ambivalent",
+      "translation": "hin- und hergerissen; ambivalent",
+      "ipa": "/æmˈbɪvələnt/",
+      "definition": "having mixed feelings or contradictory ideas about someone or something",
+      "examples": [
+        {
+          "source": "She felt ambivalent about the promotion because it offered status but little peace of mind.",
+          "translation": "Sie war wegen der Beförderung hin- und hergerissen, weil sie Ansehen bot, aber wenig innere Ruhe."
+        },
+        {
+          "source": "People can be ambivalent about change even when they know it is necessary.",
+          "translation": "Menschen können Veränderungen ambivalent gegenüberstehen, selbst wenn sie wissen, dass sie notwendig sind."
+        },
+        {
+          "source": "His reaction sounded ambivalent rather than enthusiastic, which told us more than his words did.",
+          "translation": "Seine Reaktion klang eher ambivalent als begeistert, und das sagte mehr aus als seine Worte."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/ambivalent.webp",
+        "searchPrompt": "portrait person reflecting with mixed feelings or uncertainty",
+        "alt": "A person with mixed feelings, looking ambivalent",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/5699456/",
+        "attribution": "Photo by Alex Green on Pexels",
+        "photographer": "Alex Green",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for ambivalent as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "ambivalent",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "ambivalent",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "analysis"
+      ]
+    },
+    {
+      "id": "trigger-a-response",
+      "type": "collocation",
+      "term": "trigger a response",
+      "translation": "eine Reaktion auslösen",
+      "ipa": "/ˌtrɪɡə ə rɪˈspɒns/",
+      "definition": "to cause a reaction, especially an emotional or behavioural one",
+      "examples": [
+        {
+          "source": "A certain tone of voice can trigger a response before the words are even processed.",
+          "translation": "Ein bestimmter Tonfall kann eine Reaktion auslösen, noch bevor die Worte verarbeitet sind."
+        },
+        {
+          "source": "The image was designed to trigger a response, not to persuade through reason.",
+          "translation": "Das Bild wurde so gestaltet, dass es eine Reaktion auslöst, nicht dass es durch Vernunft überzeugt."
+        },
+        {
+          "source": "Understanding what triggers a response in you can be the beginning of change.",
+          "translation": "Zu verstehen, was in dir eine Reaktion auslöst, kann der Anfang von Veränderung sein."
+        }
+      ],
+      "image": {
+        "url": "images/psychology-emotions-decisions-001/inhibiting.webp",
+        "searchPrompt": "portrait emotional trigger and response in conversation",
+        "alt": "An interaction that triggers a response",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/4098228/",
+        "attribution": "Photo by cottonbro studio on Pexels",
+        "photographer": "cottonbro studio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#327569",
+          "#8FC4B8"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for trigger a response as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "trigger a response",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "trigger a response",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "psychology",
+        "behaviour"
+      ]
+    }
+  ],
+  "story": {
+    "title": "Bias, Emotion & Behaviour Recap",
+    "pages": [
+      {
+        "text": "One reason psychology fascinates so many people is that it gives names to experiences we already half recognise. We know what it feels like to cope with uncertainty, to ruminate after an awkward conversation or to notice that a small remark can trigger a response far out of proportion to the moment itself. We also know, if we are honest, that bias shapes our judgments even when we believe we are being reasonable."
+      },
+      {
+        "text": "Good psychological thinking does not promise perfect control. Instead, it helps us understand the patterns into which we repeatedly fall. Someone under stress may jump to conclusions because uncertainty feels unbearable. Another person may struggle to regulate emotions and then later feel ashamed of how they reacted. In both cases, perception is narrowed by pressure. What looks obvious in hindsight was not obvious at the time. Under strain, a person can fall into a pattern before noticing how automatic it has become."
+      },
+      {
+        "text": "That is why self-awareness matters. It creates a small pause between feeling and action, a pause in which choices become possible even when our feelings remain ambivalent. The aim is not to stop being human, but to understand the conditions under which we become defensive, avoidant, generous or brave. Seen this way, psychology is less about labelling people than about helping them live with greater freedom."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "bias",
+      "definition": "a tendency that unfairly favours one idea or outcome"
+    },
+    {
+      "itemId": "cope-with",
+      "definition": "to manage a difficult situation or emotion"
+    },
+    {
+      "itemId": "ruminate",
+      "definition": "to think repeatedly about the same problem or feeling"
+    },
+    {
+      "itemId": "regulate-emotions",
+      "definition": "to manage feelings so they stay workable"
+    },
+    {
+      "itemId": "perception",
+      "definition": "the way something is noticed or interpreted"
+    },
+    {
+      "itemId": "jump-to-conclusions",
+      "definition": "to decide too quickly without enough information"
+    },
+    {
+      "itemId": "self-awareness",
+      "definition": "clear understanding of your own feelings and behaviour"
+    },
+    {
+      "itemId": "fall-into-a-pattern",
+      "definition": "to begin repeating the same way of thinking or acting"
+    },
+    {
+      "itemId": "ambivalent",
+      "definition": "having mixed feelings or contradictory ideas about something"
+    },
+    {
+      "itemId": "trigger-a-response",
+      "definition": "to cause a reaction, especially an emotional one"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-30",
+    "reviewStatus": "validated",
+    "tags": [
+      "psychology",
+      "bias-emotion-behaviour",
+      "c1",
+      "de"
+    ]
+  }
+}

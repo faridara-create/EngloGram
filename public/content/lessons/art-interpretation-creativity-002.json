@@ -1,0 +1,631 @@
+{
+  "schemaVersion": "1.0",
+  "id": "art-interpretation-creativity-002",
+  "topicId": "art",
+  "subtopic": "Interpretation & Creativity",
+  "title": "Interpretation & Creativity",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "evoke",
+      "type": "vocabulary",
+      "term": "evoke",
+      "translation": "hervorrufen; wachrufen",
+      "ipa": "/ɪˈvəʊk/",
+      "definition": "to bring a feeling, memory, or image into the mind",
+      "examples": [
+        {
+          "source": "The photograph evokes a sense of loss without showing anything dramatic.",
+          "translation": "Das Foto ruft ein Gefühl von Verlust hervor, ohne etwas Dramatisches zu zeigen."
+        },
+        {
+          "source": "Great music can evoke emotion before we know how to explain what we are hearing.",
+          "translation": "Großartige Musik kann Gefühle hervorrufen, bevor wir erklären können, was wir hören."
+        },
+        {
+          "source": "The film deliberately evokes childhood wonder and adult unease at the same time.",
+          "translation": "Der Film ruft bewusst zugleich kindliches Staunen und erwachsene Unruhe hervor."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/evocative.webp",
+        "searchPrompt": "portrait visitor looking at evocative artwork in gallery",
+        "alt": "Artwork that evokes emotion",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/27853838/",
+        "attribution": "Photo by Dinara Guseinova on Pexels",
+        "photographer": "Dinara Guseinova",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for evoke as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "evoke",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "evoke",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "interpretation"
+      ]
+    },
+    {
+      "id": "open-to-interpretation",
+      "type": "collocation",
+      "term": "open to interpretation",
+      "translation": "interpretationsoffen",
+      "ipa": "/ˌəʊpən tuː ɪnˌtɜːprɪˈteɪʃən/",
+      "definition": "able to be understood in more than one way",
+      "examples": [
+        {
+          "source": "The ending is open to interpretation, which is why audiences keep arguing about it.",
+          "translation": "Das Ende ist interpretationsoffen, weshalb das Publikum immer weiter darüber diskutiert."
+        },
+        {
+          "source": "Abstract work is not automatically better, but it is often more open to interpretation.",
+          "translation": "Abstrakte Kunst ist nicht automatisch besser, aber sie ist oft offener für Interpretation."
+        },
+        {
+          "source": "Her silence on the matter left the gesture deliberately open to interpretation.",
+          "translation": "Ihr Schweigen dazu ließ die Geste bewusst interpretationsoffen."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/leave-room-for-interpretation.webp",
+        "searchPrompt": "portrait abstract art exhibition open to interpretation",
+        "alt": "Abstract art open to interpretation",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1646953/",
+        "attribution": "Photo by Steve Johnson on Pexels",
+        "photographer": "Steve Johnson",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for open to interpretation as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "open to interpretation",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "open to interpretation",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "criticism"
+      ]
+    },
+    {
+      "id": "intricate",
+      "type": "vocabulary",
+      "term": "intricate",
+      "translation": "kunstvoll; filigran; komplex",
+      "ipa": "/ˈɪntrɪkət/",
+      "definition": "containing many small details and therefore complex or delicate",
+      "examples": [
+        {
+          "source": "The costume design was so intricate that it deserved attention in its own right.",
+          "translation": "Das Kostümdesign war so kunstvoll, dass es eigene Aufmerksamkeit verdiente."
+        },
+        {
+          "source": "From a distance the drawing looked simple, but up close it revealed an intricate network of lines.",
+          "translation": "Aus der Entfernung wirkte die Zeichnung einfach, doch aus der Nähe zeigte sie ein filigranes Netz von Linien."
+        },
+        {
+          "source": "The novel’s structure is intricate without ever feeling mechanical.",
+          "translation": "Die Struktur des Romans ist komplex, ohne je mechanisch zu wirken."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/intricate.webp",
+        "searchPrompt": "portrait close-up of intricate artwork details",
+        "alt": "Intricate details in artwork",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/31332836/",
+        "attribution": "Photo by Gül Işık on Pexels",
+        "photographer": "Gül Işık",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for intricate as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "intricate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "intricate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "visual art"
+      ]
+    },
+    {
+      "id": "capture-the-mood",
+      "type": "collocation",
+      "term": "capture the mood",
+      "translation": "die Stimmung einfangen",
+      "ipa": "/ˌkæptʃə ðə ˈmuːd/",
+      "definition": "to express the feeling or atmosphere of something successfully",
+      "examples": [
+        {
+          "source": "The painter managed to capture the mood of a rainy afternoon with remarkable restraint.",
+          "translation": "Der Maler schaffte es mit bemerkenswerter Zurückhaltung, die Stimmung eines verregneten Nachmittags einzufangen."
+        },
+        {
+          "source": "Good documentary photography does not just record events; it captures the mood surrounding them.",
+          "translation": "Gute Dokumentarfotografie zeichnet nicht nur Ereignisse auf; sie fängt die Stimmung darum herum ein."
+        },
+        {
+          "source": "The soundtrack captures the mood so precisely that even minor scenes become memorable.",
+          "translation": "Der Soundtrack fängt die Stimmung so präzise ein, dass selbst kleine Szenen einprägsam werden."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/bring-a-vision-to-life.webp",
+        "searchPrompt": "portrait artist or photographer capturing the mood",
+        "alt": "An artist capturing the mood",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1763075/",
+        "attribution": "Photo by Daian Gan on Pexels",
+        "photographer": "Daian Gan",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for capture the mood as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "capture the mood",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "capture the mood",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "photography"
+      ]
+    },
+    {
+      "id": "composition",
+      "type": "vocabulary",
+      "term": "composition",
+      "translation": "Komposition; Bildaufbau",
+      "ipa": "/ˌkɒmpəˈzɪʃən/",
+      "definition": "the arrangement of elements within a work of art",
+      "examples": [
+        {
+          "source": "The composition guides the eye so subtly that you barely notice how carefully it is constructed.",
+          "translation": "Die Komposition lenkt den Blick so subtil, dass man kaum bemerkt, wie sorgfältig sie aufgebaut ist."
+        },
+        {
+          "source": "In class we discussed how colour and composition influence meaning.",
+          "translation": "Im Unterricht diskutierten wir, wie Farbe und Komposition die Bedeutung beeinflussen."
+        },
+        {
+          "source": "The curator placed the smaller works together because their composition created an unexpected dialogue.",
+          "translation": "Die Kuratorin platzierte die kleineren Werke zusammen, weil ihre Komposition einen unerwarteten Dialog erzeugte."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/timeless.webp",
+        "searchPrompt": "portrait art student studying composition on canvas",
+        "alt": "A student analysing composition",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/10322846/",
+        "attribution": "Photo by Lisett Kruusimäe on Pexels",
+        "photographer": "Lisett Kruusimäe",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for composition as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "composition",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "composition",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "design"
+      ]
+    },
+    {
+      "id": "draw-inspiration-from",
+      "type": "collocation",
+      "term": "draw inspiration from",
+      "translation": "sich inspirieren lassen von",
+      "ipa": "/drɔː ˌɪnspəˈreɪʃən frɒm/",
+      "definition": "to use someone or something as a source of creative ideas",
+      "examples": [
+        {
+          "source": "Many contemporary artists draw inspiration from folklore without copying it literally.",
+          "translation": "Viele zeitgenössische Künstler lassen sich von Folklore inspirieren, ohne sie wörtlich zu kopieren."
+        },
+        {
+          "source": "She draws inspiration from city noise, old diaries and fragments of overheard speech.",
+          "translation": "Sie lässt sich von Stadtgeräuschen, alten Tagebüchern und aufgeschnappten Satzfragmenten inspirieren."
+        },
+        {
+          "source": "The designer drew inspiration from traditional textiles but translated them into a modern form.",
+          "translation": "Der Designer ließ sich von traditionellen Textilien inspirieren, übertrug sie jedoch in eine moderne Form."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/draw-inspiration-from.webp",
+        "searchPrompt": "portrait artist in studio drawing inspiration from materials",
+        "alt": "An artist drawing inspiration from surroundings",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/37486742/",
+        "attribution": "Photo by Adalet gok on Pexels",
+        "photographer": "Adalet gok",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for draw inspiration from as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "draw inspiration from",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "draw inspiration from",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "drawn inspiration from"
+      ],
+      "tags": [
+        "art",
+        "creativity"
+      ]
+    },
+    {
+      "id": "bold",
+      "type": "vocabulary",
+      "term": "bold",
+      "translation": "mutig; kräftig; markant",
+      "ipa": "/bəʊld/",
+      "definition": "confident, striking, and not afraid to stand out",
+      "examples": [
+        {
+          "source": "The exhibition opens with a bold installation that leaves no visitor indifferent.",
+          "translation": "Die Ausstellung eröffnet mit einer markanten Installation, die keinen Besucher gleichgültig lässt."
+        },
+        {
+          "source": "Her use of colour is bold without becoming aggressive.",
+          "translation": "Ihr Farbeinsatz ist mutig, ohne aggressiv zu werden."
+        },
+        {
+          "source": "It was a bold curatorial choice to hang the classical portraits beside experimental video art.",
+          "translation": "Es war eine mutige kuratorische Entscheidung, die klassischen Porträts neben experimenteller Videokunst zu hängen."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/provocative.webp",
+        "searchPrompt": "portrait bold contemporary art installation in gallery",
+        "alt": "A bold work of art",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/35079824/",
+        "attribution": "Photo by yun zhu on Pexels",
+        "photographer": "yun zhu",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "100% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Existing portrait source approved with a focal anchor that keeps the meaningful subject visible from 360×800 through 430×932. Reused for bold as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "bold",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "bold",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "style"
+      ]
+    },
+    {
+      "id": "stand-out",
+      "type": "collocation",
+      "term": "stand out",
+      "translation": "herausstechen",
+      "ipa": "/stænd aʊt/",
+      "definition": "to be especially noticeable or memorable",
+      "examples": [
+        {
+          "source": "Among dozens of submissions, hers stood out for its emotional precision.",
+          "translation": "Unter Dutzenden Einsendungen stach ihre durch emotionale Präzision heraus."
+        },
+        {
+          "source": "The final scene stands out not because it is loud, but because it is unexpectedly restrained.",
+          "translation": "Die letzte Szene sticht nicht heraus, weil sie laut ist, sondern weil sie unerwartet zurückgenommen ist."
+        },
+        {
+          "source": "Certain poems stand out for years because they name something we had felt but never phrased.",
+          "translation": "Manche Gedichte stechen über Jahre hervor, weil sie etwas benennen, das wir gefühlt, aber nie formuliert hatten."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/unconventional.webp",
+        "searchPrompt": "portrait artwork that stands out in a gallery setting",
+        "alt": "A work of art that stands out",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/13614101/",
+        "attribution": "Photo by Ekaterina Astakhova on Pexels",
+        "photographer": "Ekaterina Astakhova",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for stand out as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "stand out",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "stand out",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "criticism"
+      ]
+    },
+    {
+      "id": "symbolism",
+      "type": "vocabulary",
+      "term": "symbolism",
+      "translation": "Symbolik",
+      "ipa": "/ˈsɪmbəlɪzəm/",
+      "definition": "the use of symbols to represent ideas, qualities, or meanings",
+      "examples": [
+        {
+          "source": "The novel’s religious symbolism becomes clearer on a second reading.",
+          "translation": "Die religiöse Symbolik des Romans wird bei einer zweiten Lektüre klarer."
+        },
+        {
+          "source": "Children often notice emotional truth in an image before they can discuss its symbolism.",
+          "translation": "Kinder bemerken oft die emotionale Wahrheit eines Bildes, bevor sie über seine Symbolik sprechen können."
+        },
+        {
+          "source": "The director refused to explain every detail, arguing that symbolism loses force when it is over-explained.",
+          "translation": "Der Regisseur weigerte sich, jedes Detail zu erklären, und argumentierte, Symbolik verliere an Kraft, wenn man sie übererklärt."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/convey-a-message.webp",
+        "searchPrompt": "portrait book or painting with rich symbolism",
+        "alt": "Artwork rich in symbolism",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/33924920/",
+        "attribution": "Photo by Tahir Xəlfə on Pexels",
+        "photographer": "Tahir Xəlfə",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for symbolism as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "symbolism",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "symbolism",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "literature"
+      ]
+    },
+    {
+      "id": "mixed-media",
+      "type": "collocation",
+      "term": "mixed media",
+      "translation": "Mischtechnik; verschiedene Medien kombiniert",
+      "ipa": "/mɪkst ˈmiːdiə/",
+      "definition": "made using more than one material or artistic medium",
+      "examples": [
+        {
+          "source": "The artist moved from painting to mixed media because one surface no longer felt sufficient.",
+          "translation": "Die Künstlerin wechselte von der Malerei zur Mischtechnik, weil ihr eine Oberfläche nicht mehr genügte."
+        },
+        {
+          "source": "A mixed-media piece can feel playful, messy or deeply controlled depending on how the materials interact.",
+          "translation": "Ein Werk in Mischtechnik kann verspielt, chaotisch oder tief kontrolliert wirken – je nachdem, wie die Materialien zusammenwirken."
+        },
+        {
+          "source": "Students were invited to create mixed-media journals rather than traditional sketches.",
+          "translation": "Die Studierenden wurden eingeladen, Mixed-Media-Journale statt traditioneller Skizzen zu gestalten."
+        }
+      ],
+      "image": {
+        "url": "images/art-creativity-interpretation-001/defy-conventions.webp",
+        "searchPrompt": "portrait mixed media art materials and artwork",
+        "alt": "A mixed-media artwork",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/5682333/",
+        "attribution": "Photo by Anna Shvets on Pexels",
+        "photographer": "Anna Shvets",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A45131",
+          "#DEA07B"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for mixed media as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "mixed media",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "mixed media",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "art",
+        "studio"
+      ]
+    }
+  ],
+  "story": {
+    "title": "Interpretation & Creativity Recap",
+    "pages": [
+      {
+        "text": "At first glance, the exhibition looked almost modest. There were no giant digital spectacles, no theatrical soundtrack leaking from hidden speakers. Yet the show began to work on visitors slowly. One room held a set of small photographs that seemed to evoke childhood memory without stating exactly whose memory it was. Across from them hung an intricate paper installation whose composition pulled the eye inward, line by line. Nothing shouted, yet several works continued to stand out long after people had left the gallery."
+      },
+      {
+        "text": "Part of the excitement came from the fact that many pieces were deliberately open to interpretation. A film sequence with almost no dialogue left viewers arguing in whispers, while a painter across the hall managed to capture the mood of loneliness using only three dominant colours. Another artist had drawn inspiration from family archives and local myths, combining them in a bold mixed-media series that felt intimate without becoming sentimental."
+      },
+      {
+        "text": "As we moved from room to room, the role of symbolism became more apparent. Repeated shapes and recurring objects formed a quiet vocabulary of grief, repair and desire. What impressed me most was not a single masterpiece, but the intelligence with which the curator had allowed very different works to converse. The exhibition trusted its audience enough not to explain everything, and that trust felt refreshing."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "evoke",
+      "definition": "to bring a feeling, memory or image into the mind"
+    },
+    {
+      "itemId": "open-to-interpretation",
+      "definition": "able to be understood in more than one way"
+    },
+    {
+      "itemId": "intricate",
+      "definition": "complex or delicate because of many small details"
+    },
+    {
+      "itemId": "capture-the-mood",
+      "definition": "to express an atmosphere successfully"
+    },
+    {
+      "itemId": "composition",
+      "definition": "the arrangement of elements within a work of art"
+    },
+    {
+      "itemId": "draw-inspiration-from",
+      "definition": "to use something as a source of creative ideas"
+    },
+    {
+      "itemId": "bold",
+      "definition": "striking and confident enough to stand out"
+    },
+    {
+      "itemId": "stand-out",
+      "definition": "to be especially noticeable or memorable"
+    },
+    {
+      "itemId": "symbolism",
+      "definition": "the use of symbols to represent deeper meanings"
+    },
+    {
+      "itemId": "mixed-media",
+      "definition": "made using more than one artistic material or medium"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-30",
+    "reviewStatus": "validated",
+    "tags": [
+      "art",
+      "interpretation-creativity",
+      "c1",
+      "de"
+    ]
+  }
+}

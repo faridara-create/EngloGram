@@ -1,0 +1,635 @@
+{
+  "schemaVersion": "1.0",
+  "id": "travel-delays-culture-navigation-002",
+  "topicId": "travel",
+  "subtopic": "Delays, Culture & Navigation",
+  "title": "Delays, Culture & Navigation",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "itinerary",
+      "type": "vocabulary",
+      "term": "itinerary",
+      "translation": "Reiseplan",
+      "ipa": "/aɪˈtɪnərəri/",
+      "definition": "a plan or list of the places you will visit and the times you will travel",
+      "examples": [
+        {
+          "source": "Our itinerary looked relaxed on paper, but it involved far more train changes than we had realised.",
+          "translation": "Unser Reiseplan wirkte auf dem Papier entspannt, beinhaltete aber viel mehr Zugwechsel, als uns bewusst gewesen war."
+        },
+        {
+          "source": "She kept the itinerary flexible because weather in the mountains can change quickly.",
+          "translation": "Sie hielt den Reiseplan flexibel, weil sich das Wetter in den Bergen schnell ändern kann."
+        },
+        {
+          "source": "By the third day, the itinerary mattered less than the places we discovered by accident.",
+          "translation": "Am dritten Tag war der Reiseplan weniger wichtig als die Orte, die wir zufällig entdeckten."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/resourceful.webp",
+        "searchPrompt": "portrait traveler planning itinerary with map and tickets",
+        "alt": "A traveler planning an itinerary",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/6140451/",
+        "attribution": "Photo by William Fortunato on Pexels",
+        "photographer": "William Fortunato",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for itinerary as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "itinerary",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "itinerary",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "planning"
+      ]
+    },
+    {
+      "id": "get-around",
+      "type": "collocation",
+      "term": "get around",
+      "translation": "sich fortbewegen; herumkommen",
+      "ipa": "/ɡet əˈraʊnd/",
+      "definition": "to travel from place to place in a town, city, or region",
+      "examples": [
+        {
+          "source": "In Lisbon, you can get around easily on foot if you do not mind steep streets.",
+          "translation": "In Lissabon kommt man leicht zu Fuß herum, wenn einen steile Straßen nicht stören."
+        },
+        {
+          "source": "We rented bicycles because they seemed the best way to get around the old town.",
+          "translation": "Wir mieteten Fahrräder, weil sie uns als beste Möglichkeit erschienen, uns in der Altstadt fortzubewegen."
+        },
+        {
+          "source": "As soon as the buses stopped running, getting around became far more complicated.",
+          "translation": "Sobald die Busse nicht mehr fuhren, wurde das Herumkommen deutlich komplizierter."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/navigate-unfamiliar-territory.webp",
+        "searchPrompt": "portrait travelers getting around a city on foot or bicycle",
+        "alt": "Travelers getting around a city",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/358319/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for get around as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "get around",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "get around",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "getting around"
+      ],
+      "tags": [
+        "travel",
+        "city"
+      ]
+    },
+    {
+      "id": "scenic",
+      "type": "vocabulary",
+      "term": "scenic",
+      "translation": "landschaftlich reizvoll",
+      "ipa": "/ˈsiːnɪk/",
+      "definition": "beautiful to look at, especially because of natural scenery",
+      "examples": [
+        {
+          "source": "The slower route turned out to be far more scenic than the motorway.",
+          "translation": "Die langsamere Strecke erwies sich als viel landschaftlich reizvoller als die Autobahn."
+        },
+        {
+          "source": "We chose the scenic train journey even though it added an extra hour.",
+          "translation": "Wir wählten die landschaftlich schöne Zugfahrt, obwohl sie eine Stunde länger dauerte."
+        },
+        {
+          "source": "At sunrise, even the harbour looked unexpectedly scenic.",
+          "translation": "Bei Sonnenaufgang wirkte sogar der Hafen unerwartet malerisch."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/remote.webp",
+        "searchPrompt": "portrait scenic travel route with beautiful landscape",
+        "alt": "A scenic travel route",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/346885/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for scenic as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "scenic",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "scenic",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "landscape"
+      ]
+    },
+    {
+      "id": "run-into-trouble",
+      "type": "collocation",
+      "term": "run into trouble",
+      "translation": "in Schwierigkeiten geraten",
+      "ipa": "/rʌn ˈɪntuː ˈtrʌbəl/",
+      "definition": "to unexpectedly encounter problems",
+      "examples": [
+        {
+          "source": "We ran into trouble when the rental office closed earlier than the website had suggested.",
+          "translation": "Wir gerieten in Schwierigkeiten, als die Autovermietung früher schloss, als die Website angegeben hatte."
+        },
+        {
+          "source": "Travellers often run into trouble when they assume card payments are accepted everywhere.",
+          "translation": "Reisende geraten oft in Schwierigkeiten, wenn sie annehmen, dass überall Kartenzahlung möglich ist."
+        },
+        {
+          "source": "If you run into trouble abroad, even a simple phone call can feel unusually complicated.",
+          "translation": "Wenn man im Ausland in Schwierigkeiten gerät, kann sich sogar ein einfacher Anruf ungewohnt kompliziert anfühlen."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/adapt-to-circumstances.webp",
+        "searchPrompt": "portrait travelers dealing with unexpected travel problem",
+        "alt": "Travelers who have run into trouble",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1271619/",
+        "attribution": "Photo by Vojta Kovařík on Pexels",
+        "photographer": "Vojta Kovařík",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for run into trouble as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "run into trouble",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "run into trouble",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "ran into trouble"
+      ],
+      "tags": [
+        "travel",
+        "problems"
+      ]
+    },
+    {
+      "id": "accommodate",
+      "type": "vocabulary",
+      "term": "accommodate",
+      "translation": "unterbringen; berücksichtigen",
+      "ipa": "/əˈkɒmədeɪt/",
+      "definition": "to provide space or adjust plans so that someone’s needs can be met",
+      "examples": [
+        {
+          "source": "The hotel was happy to accommodate our late arrival.",
+          "translation": "Das Hotel war gern bereit, unsere späte Ankunft zu berücksichtigen."
+        },
+        {
+          "source": "Small guesthouses cannot always accommodate special requests at short notice.",
+          "translation": "Kleine Pensionen können Sonderwünsche nicht immer kurzfristig berücksichtigen."
+        },
+        {
+          "source": "The guide adjusted the route to accommodate the slower walkers in the group.",
+          "translation": "Der Guide passte die Route an, um auf die langsameren Läufer in der Gruppe Rücksicht zu nehmen."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/make-the-most-of.webp",
+        "searchPrompt": "portrait hotel reception accommodating a traveler",
+        "alt": "A hotel accommodating a traveler",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1309644/",
+        "attribution": "Photo by Oleksandr P on Pexels",
+        "photographer": "Oleksandr P",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for accommodate as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "accommodate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "accommodate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "hospitality"
+      ]
+    },
+    {
+      "id": "off-the-beaten-track",
+      "type": "collocation",
+      "term": "off the beaten track",
+      "translation": "abseits der üblichen Wege",
+      "ipa": "/ɒf ðə ˌbiːtn ˈtræk/",
+      "definition": "in a place that is not commonly visited by tourists",
+      "examples": [
+        {
+          "source": "The village was slightly off the beaten track, which is exactly why we loved it.",
+          "translation": "Das Dorf lag etwas abseits der üblichen Wege, und genau deshalb mochten wir es."
+        },
+        {
+          "source": "She prefers travelling off the beaten track to collecting famous landmarks.",
+          "translation": "Sie reist lieber abseits der bekannten Routen, als berühmte Sehenswürdigkeiten abzuhaken."
+        },
+        {
+          "source": "Our best meal happened in a café so far off the beaten track that we found it only by accident.",
+          "translation": "Unser bestes Essen gab es in einem Café so weit abseits der üblichen Wege, dass wir es nur zufällig fanden."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/venture-off-the-beaten-track.webp",
+        "searchPrompt": "portrait quiet village off the beaten track",
+        "alt": "A destination off the beaten track",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/2868242/",
+        "attribution": "Photo by Quang Nguyen Vinh on Pexels",
+        "photographer": "Quang Nguyen Vinh",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for off the beaten track as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "off the beaten track",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "off the beaten track",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "culture"
+      ]
+    },
+    {
+      "id": "layover",
+      "type": "vocabulary",
+      "term": "layover",
+      "translation": "Zwischenstopp",
+      "ipa": "/ˈleɪəʊvə/",
+      "definition": "a period of waiting between two parts of a journey, especially flights",
+      "examples": [
+        {
+          "source": "We had a six-hour layover in Istanbul and used it to explore the waterfront.",
+          "translation": "Wir hatten einen sechsstündigen Zwischenstopp in Istanbul und nutzten ihn, um die Uferpromenade zu erkunden."
+        },
+        {
+          "source": "A short layover can feel much longer when you are tired and carrying a heavy backpack.",
+          "translation": "Ein kurzer Zwischenstopp kann sich viel länger anfühlen, wenn man müde ist und einen schweren Rucksack trägt."
+        },
+        {
+          "source": "The airline offered hotel vouchers because the overnight layover had been caused by a delay.",
+          "translation": "Die Fluggesellschaft bot Hotelgutscheine an, weil der Zwischenstopp über Nacht durch eine Verspätung verursacht worden war."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/miss-a-connection.webp",
+        "searchPrompt": "portrait travelers waiting during airport layover",
+        "alt": "Travelers during a layover",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/164287/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for layover as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "layover",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "layover",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "airport"
+      ]
+    },
+    {
+      "id": "miss-a-connection",
+      "type": "collocation",
+      "term": "miss a connection",
+      "translation": "einen Anschluss verpassen",
+      "ipa": "/mɪs ə kəˈnekʃən/",
+      "definition": "to fail to catch the next flight, train, or bus in a journey",
+      "examples": [
+        {
+          "source": "We missed our connection in Frankfurt after the incoming flight landed late.",
+          "translation": "Wir verpassten unseren Anschluss in Frankfurt, nachdem der ankommende Flug verspätet gelandet war."
+        },
+        {
+          "source": "If you miss a connection on one ticket, the airline usually has to rebook you.",
+          "translation": "Wenn man auf einem Ticket einen Anschluss verpasst, muss die Fluggesellschaft einen in der Regel umbuchen."
+        },
+        {
+          "source": "She was remarkably calm even after missing the connection that would have got her home the same night.",
+          "translation": "Sie blieb erstaunlich ruhig, selbst nachdem sie den Anschluss verpasst hatte, der sie noch am selben Abend nach Hause gebracht hätte."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/miss-a-connection.webp",
+        "searchPrompt": "portrait airport travelers missing a connection and looking at board",
+        "alt": "Travelers who missed a connection",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/164287/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for miss a connection as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "miss a connection",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "miss a connection",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "missed a connection"
+      ],
+      "tags": [
+        "travel",
+        "delay"
+      ]
+    },
+    {
+      "id": "navigate",
+      "type": "vocabulary",
+      "term": "navigate",
+      "translation": "navigieren; den Weg finden",
+      "ipa": "/ˈnævɪɡeɪt/",
+      "definition": "to find the way through a place or situation",
+      "examples": [
+        {
+          "source": "It took us a moment to navigate the station because every sign seemed to point somewhere else.",
+          "translation": "Wir brauchten einen Moment, um uns im Bahnhof zurechtzufinden, weil jedes Schild scheinbar woandershin zeigte."
+        },
+        {
+          "source": "Learning to navigate a city without relying on your phone can be surprisingly satisfying.",
+          "translation": "Zu lernen, wie man sich in einer Stadt ohne Handy zurechtfindet, kann überraschend befriedigend sein."
+        },
+        {
+          "source": "She navigated the conversation as carefully as she later navigated the mountain road.",
+          "translation": "Sie steuerte das Gespräch ebenso sorgfältig, wie sie später die Bergstraße meisterte."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/navigate-unfamiliar-territory.webp",
+        "searchPrompt": "portrait traveler navigating city map or transit system",
+        "alt": "A traveler navigating a new city",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/358319/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for navigate as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "navigate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "navigate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "navigation"
+      ]
+    },
+    {
+      "id": "travel-light",
+      "type": "collocation",
+      "term": "travel light",
+      "translation": "mit leichtem Gepäck reisen",
+      "ipa": "/ˌtrævəl ˈlaɪt/",
+      "definition": "to take only a small amount of luggage when travelling",
+      "examples": [
+        {
+          "source": "Since the train had no luggage racks left, we were glad we had travelled light.",
+          "translation": "Da der Zug keine freien Gepäckablagen mehr hatte, waren wir froh, mit leichtem Gepäck gereist zu sein."
+        },
+        {
+          "source": "She always travels light, even on long trips, because it gives her more freedom.",
+          "translation": "Sie reist selbst auf langen Reisen immer mit leichtem Gepäck, weil es ihr mehr Freiheit gibt."
+        },
+        {
+          "source": "Once you travel light, you realise how much energy used to go into carrying unnecessary things.",
+          "translation": "Wenn man mit leichtem Gepäck reist, merkt man, wie viel Energie früher ins Tragen unnötiger Dinge ging."
+        }
+      ],
+      "image": {
+        "url": "images/travel-unexpected-journeys-001/spontaneous.webp",
+        "searchPrompt": "portrait traveler with small backpack traveling light",
+        "alt": "A traveler who travels light",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/14064237/",
+        "attribution": "Photo by Şeyda Nur Uğur on Pexels",
+        "photographer": "Şeyda Nur Uğur",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#9A6A22",
+          "#E7C56E"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932. Reused for travel light as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "travel light",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "travel light",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "travel",
+        "packing"
+      ]
+    }
+  ],
+  "story": {
+    "title": "Delays, Culture & Navigation Recap",
+    "pages": [
+      {
+        "text": "The original itinerary looked neat enough on the train app, but real travel has a habit of exposing the optimism built into every good plan. Our route through northern Italy included one scenic stretch by regional train, a short bus ride and a late-evening ferry. None of those connections was impossible on its own, yet the first delay changed the mood immediately. Once we missed a connection in Verona, the whole day seemed to rearrange itself without asking our permission."
+      },
+      {
+        "text": "Still, travel is not only a test of patience; it is also a lesson in adaptation. We discovered that getting around the smaller town was easiest on foot, and the receptionist went out of her way to accommodate our revised schedule. Because we had chosen to travel light, changing plans felt annoying rather than disastrous. Later, after a wrong turn, we ran into trouble on a road that looked beautiful but led nowhere useful. Finding our way back required more humour than skill."
+      },
+      {
+        "text": "The best part of the trip came after we stopped trying to control every hour. A friend recommended a village off the beaten track where the streets were quiet and the food was better than in the crowded centre. Even the layover on the journey home became strangely enjoyable once we stopped treating it as wasted time. Travel, we realised, is often less about arriving efficiently than about learning how to navigate uncertainty with grace."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "itinerary",
+      "definition": "a plan showing where and when you will travel"
+    },
+    {
+      "itemId": "get-around",
+      "definition": "to travel from place to place in a town or region"
+    },
+    {
+      "itemId": "scenic",
+      "definition": "beautiful because of the surrounding scenery"
+    },
+    {
+      "itemId": "run-into-trouble",
+      "definition": "to unexpectedly encounter problems"
+    },
+    {
+      "itemId": "accommodate",
+      "definition": "to adjust plans or provide space for someone’s needs"
+    },
+    {
+      "itemId": "off-the-beaten-track",
+      "definition": "in a place not commonly visited by tourists"
+    },
+    {
+      "itemId": "layover",
+      "definition": "a waiting period between parts of a journey"
+    },
+    {
+      "itemId": "miss-a-connection",
+      "definition": "to fail to catch the next part of a journey"
+    },
+    {
+      "itemId": "navigate",
+      "definition": "to find your way through a place or situation"
+    },
+    {
+      "itemId": "travel-light",
+      "definition": "to travel with only a small amount of luggage"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-30",
+    "reviewStatus": "validated",
+    "tags": [
+      "travel",
+      "delays-culture-navigation",
+      "c1",
+      "de"
+    ]
+  }
+}

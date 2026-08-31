@@ -1,0 +1,632 @@
+{
+  "schemaVersion": "1.0",
+  "id": "business-negotiation-alignment-002",
+  "topicId": "business",
+  "subtopic": "Negotiation & Alignment",
+  "title": "Negotiation & Alignment",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "align-expectations",
+      "type": "collocation",
+      "term": "align expectations",
+      "translation": "Erwartungen abstimmen",
+      "ipa": "/əˌlaɪn ˌekspekˈteɪʃənz/",
+      "definition": "to make sure that people have the same understanding of what should happen",
+      "examples": [
+        {
+          "source": "Before we discuss the budget, we need to align expectations about the scope of the pilot.",
+          "translation": "Bevor wir über das Budget sprechen, müssen wir die Erwartungen in Bezug auf den Umfang des Piloten abstimmen."
+        },
+        {
+          "source": "A short call at the start of the week helped the agency and the client align expectations.",
+          "translation": "Ein kurzes Telefonat zu Beginn der Woche half der Agentur und dem Kunden, ihre Erwartungen abzugleichen."
+        },
+        {
+          "source": "The workshop was designed not to make decisions immediately but to align expectations across the leadership team.",
+          "translation": "Der Workshop war nicht dazu gedacht, sofort Entscheidungen zu treffen, sondern die Erwartungen im Führungsteam aufeinander abzustimmen."
+        }
+      ],
+      "image": {
+        "url": "images/business-meetings-influence-001/find-common-ground.webp",
+        "searchPrompt": "portrait business meeting people discussing plan and reaching shared understanding",
+        "alt": "Professionals discussing a plan to align expectations",
+        "source": "https://www.pexels.com/photo/8276130/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#52613E",
+          "#C2D09A"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by PNW Production on Pexels",
+        "photographer": "PNW Production",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932. Reused for align expectations as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "align expectations",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "align expectations",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "business",
+        "negotiation",
+        "alignment"
+      ]
+    },
+    {
+      "id": "trade-off",
+      "type": "vocabulary",
+      "term": "trade-off",
+      "translation": "Abwägung; Kompromiss zwischen zwei Vorteilen/Nachteilen",
+      "ipa": "/ˈtreɪd ɒf/",
+      "definition": "a balance in which you accept one disadvantage in order to gain another advantage",
+      "examples": [
+        {
+          "source": "Choosing speed over precision is a trade-off every start-up confronts sooner or later.",
+          "translation": "Sich für Geschwindigkeit statt Präzision zu entscheiden, ist eine Abwägung, mit der jedes Start-up früher oder später konfrontiert wird."
+        },
+        {
+          "source": "She framed the staffing issue as a trade-off rather than a failure of planning.",
+          "translation": "Sie stellte die Personalfrage als Abwägung dar und nicht als Planungsfehler."
+        },
+        {
+          "source": "The board accepted the trade-off because the lower risk more than compensated for the delayed launch.",
+          "translation": "Der Vorstand akzeptierte die Abwägung, weil das geringere Risiko den verzögerten Start mehr als aufwog."
+        }
+      ],
+      "image": {
+        "url": "images/business-meetings-influence-001/concede.jpg",
+        "searchPrompt": "portrait executive discussion weighing options around a table",
+        "alt": "Executives weighing options and considering a trade-off",
+        "source": "https://www.pexels.com/photo/8730172/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#7A5137",
+          "#D6B98C"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Mikhail Nilov on Pexels",
+        "photographer": "Mikhail Nilov",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for trade-off as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "trade-off",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "trade-off",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "business",
+        "strategy"
+      ]
+    },
+    {
+      "id": "clarify",
+      "type": "vocabulary",
+      "term": "clarify",
+      "translation": "klarstellen; präzisieren",
+      "ipa": "/ˈklærɪfaɪ/",
+      "definition": "to make something easier to understand by explaining it more clearly",
+      "examples": [
+        {
+          "source": "Could you clarify whether the figures include external contractors or only internal staff?",
+          "translation": "Könnten Sie bitte klarstellen, ob die Zahlen externe Auftragnehmer oder nur interne Mitarbeitende einschließen?"
+        },
+        {
+          "source": "Instead of defending his position at once, he asked a question that clarified the real source of tension.",
+          "translation": "Anstatt seine Position sofort zu verteidigen, stellte er eine Frage, die die eigentliche Spannungsquelle klärte."
+        },
+        {
+          "source": "The follow-up note clarified what had been agreed and what still needed executive approval.",
+          "translation": "Die Nachfassnotiz präzisierte, was vereinbart worden war und was noch die Zustimmung der Geschäftsleitung brauchte."
+        }
+      ],
+      "image": {
+        "url": "images/business-meetings-influence-001/articulate.jpg",
+        "searchPrompt": "portrait professional pointing at document while explaining details",
+        "alt": "A professional clarifying details in a discussion",
+        "source": "https://www.pexels.com/photo/17501008/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#264653",
+          "#7CB6B8"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Asoje Emprende on Pexels",
+        "photographer": "Asoje Emprende",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for clarify as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "clarify",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "clarify",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "business",
+        "communication"
+      ]
+    },
+    {
+      "id": "bridge-a-gap",
+      "type": "collocation",
+      "term": "bridge a gap",
+      "translation": "eine Lücke überbrücken; Unterschiede ausgleichen",
+      "ipa": "/brɪdʒ ə ɡæp/",
+      "definition": "to reduce a difference or disconnect between people, ideas, or situations",
+      "examples": [
+        {
+          "source": "The pilot project helped bridge a gap between the technical team and the operational managers.",
+          "translation": "Das Pilotprojekt half, eine Lücke zwischen dem technischen Team und den operativen Führungskräften zu überbrücken."
+        },
+        {
+          "source": "Her summary bridged a gap that had widened during weeks of fragmented email exchanges.",
+          "translation": "Ihre Zusammenfassung überbrückte eine Kluft, die sich in wochenlangen fragmentierten E-Mail-Wechseln vergrößert hatte."
+        },
+        {
+          "source": "A shared dashboard can bridge the gap between strategic targets and daily delivery work.",
+          "translation": "Ein gemeinsames Dashboard kann die Lücke zwischen strategischen Zielen und der täglichen Umsetzungsarbeit überbrücken."
+        }
+      ],
+      "image": {
+        "url": "images/business-meetings-influence-001/establish-rapport.webp",
+        "searchPrompt": "portrait coworkers collaborating to connect ideas on whiteboard",
+        "alt": "Coworkers working together to bridge a gap",
+        "source": "https://www.pexels.com/photo/6149785/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#2F6F62",
+          "#A6D2B7"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Diva Plavalaguna on Pexels",
+        "photographer": "Diva Plavalaguna",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932. Reused for bridge a gap as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "bridge a gap",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "bridge a gap",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "business",
+        "alignment"
+      ]
+    },
+    {
+      "id": "leverage",
+      "type": "vocabulary",
+      "term": "leverage",
+      "translation": "nutzen; gezielt einsetzen",
+      "ipa": "/ˈliːvərɪdʒ/",
+      "definition": "to use something effectively in order to gain an advantage",
+      "examples": [
+        {
+          "source": "Smaller firms often leverage niche expertise instead of competing on scale.",
+          "translation": "Kleinere Firmen nutzen oft Nischenkompetenz, anstatt über Größe zu konkurrieren."
+        },
+        {
+          "source": "By involving regional leads early, she leveraged local trust to speed up adoption.",
+          "translation": "Indem sie die regionalen Leitungen früh einband, nutzte sie lokales Vertrauen, um die Einführung zu beschleunigen."
+        },
+        {
+          "source": "The proposal was persuasive because it leveraged data without losing sight of practical realities.",
+          "translation": "Der Vorschlag war überzeugend, weil er Daten nutzte, ohne die praktischen Realitäten aus dem Blick zu verlieren."
+        }
+      ],
+      "image": {
+        "url": "images/business-meetings-influence-001/compelling.jpg",
+        "searchPrompt": "portrait manager presenting charts and leveraging expertise",
+        "alt": "Manager using data and expertise strategically",
+        "source": "https://www.pexels.com/photo/6476778/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#5D3A66",
+          "#C5A6C9"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Mikael Blomkvist on Pexels",
+        "photographer": "Mikael Blomkvist",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for leverage as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "leverage",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "leverage",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "business",
+        "strategy"
+      ]
+    },
+    {
+      "id": "reach-a-compromise",
+      "type": "collocation",
+      "term": "reach a compromise",
+      "translation": "einen Kompromiss erzielen",
+      "ipa": "/riːtʃ ə ˈkɒmprəmaɪz/",
+      "definition": "to find a solution that both sides can accept even if neither gets everything they want",
+      "examples": [
+        {
+          "source": "After two rounds of discussion, both departments reached a compromise on the deadline.",
+          "translation": "Nach zwei Gesprächsrunden erzielten beide Abteilungen einen Kompromiss beim Termin."
+        },
+        {
+          "source": "They reached a compromise by limiting the first phase instead of cancelling the idea altogether.",
+          "translation": "Sie fanden einen Kompromiss, indem sie die erste Phase begrenzten, statt die Idee ganz zu streichen."
+        },
+        {
+          "source": "In sensitive negotiations, it matters less who wins a point than whether you can reach a compromise that lasts.",
+          "translation": "In sensiblen Verhandlungen ist weniger wichtig, wer einen Punkt gewinnt, als ob man einen tragfähigen Kompromiss erzielt."
+        }
+      ],
+      "image": {
+        "url": "images/business-meetings-influence-001/find-common-ground.webp",
+        "searchPrompt": "portrait negotiation table with two sides agreeing",
+        "alt": "Two parties reaching a compromise in negotiation",
+        "source": "https://www.pexels.com/photo/8276130/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#52613E",
+          "#C2D09A"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by PNW Production on Pexels",
+        "photographer": "PNW Production",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932. Reused for reach a compromise as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "reach a compromise",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "reach a compromise",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "reached a compromise"
+      ],
+      "tags": [
+        "business",
+        "negotiation"
+      ]
+    },
+    {
+      "id": "misalignment",
+      "type": "vocabulary",
+      "term": "misalignment",
+      "translation": "Fehlanpassung; mangelnde Abstimmung",
+      "ipa": "/ˌmɪsəˈlaɪnmənt/",
+      "definition": "a situation in which goals, assumptions, or actions do not match each other",
+      "examples": [
+        {
+          "source": "The delay was caused less by a lack of effort than by misalignment between teams.",
+          "translation": "Die Verzögerung wurde weniger durch mangelnden Einsatz als durch fehlende Abstimmung zwischen den Teams verursacht."
+        },
+        {
+          "source": "Her report exposed a fundamental misalignment between what headquarters expected and what the market could absorb.",
+          "translation": "Ihr Bericht legte eine grundlegende Fehlanpassung zwischen den Erwartungen der Zentrale und der Aufnahmefähigkeit des Marktes offen."
+        },
+        {
+          "source": "Unless you address misalignment early, even motivated people start working at cross-purposes.",
+          "translation": "Wenn man mangelnde Abstimmung nicht früh angeht, arbeiten selbst motivierte Menschen irgendwann gegeneinander."
+        }
+      ],
+      "image": {
+        "url": "images/business-meetings-influence-001/challenge-an-assumption.jpg",
+        "searchPrompt": "portrait team members looking concerned over conflicting plans",
+        "alt": "Team members dealing with misalignment",
+        "source": "https://www.pexels.com/photo/8171223/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#315B7A",
+          "#9FC3D9"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Kampus Production on Pexels",
+        "photographer": "Kampus Production",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for misalignment as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "misalignment",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "misalignment",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "business",
+        "teams"
+      ]
+    },
+    {
+      "id": "set-the-tone",
+      "type": "collocation",
+      "term": "set the tone",
+      "translation": "den Ton setzen; die Richtung vorgeben",
+      "ipa": "/set ðə təʊn/",
+      "definition": "to create the mood or style that influences what happens next",
+      "examples": [
+        {
+          "source": "Her opening remarks set the tone for a candid and surprisingly productive exchange.",
+          "translation": "Ihre einleitenden Worte gaben den Ton für einen offenen und überraschend produktiven Austausch vor."
+        },
+        {
+          "source": "The way a manager handles the first disagreement often sets the tone for the whole project.",
+          "translation": "Wie eine Führungskraft mit dem ersten Konflikt umgeht, setzt oft den Ton für das ganze Projekt."
+        },
+        {
+          "source": "A calm response set the tone, even though the figures on the screen were disappointing.",
+          "translation": "Eine ruhige Reaktion gab den Ton vor, obwohl die Zahlen auf dem Bildschirm enttäuschend waren."
+        }
+      ],
+      "image": {
+        "url": "images/business-meetings-influence-001/steer-the-conversation.jpg",
+        "searchPrompt": "portrait team lead opening a meeting and setting the tone",
+        "alt": "A team lead setting the tone at the start of a meeting",
+        "source": "https://www.pexels.com/photo/7446600/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#A84A44",
+          "#E0AA88"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Gustavo Fring on Pexels",
+        "photographer": "Gustavo Fring",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for set the tone as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "set the tone",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "set the tone",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "business",
+        "leadership"
+      ]
+    },
+    {
+      "id": "candid",
+      "type": "vocabulary",
+      "term": "candid",
+      "translation": "offen; unverblümt",
+      "ipa": "/ˈkændɪd/",
+      "definition": "honest and direct, even about difficult or sensitive issues",
+      "examples": [
+        {
+          "source": "The most useful part of the session was the candid feedback from the regional managers.",
+          "translation": "Der nützlichste Teil der Sitzung war das offene Feedback der Regionalleiter."
+        },
+        {
+          "source": "She was candid about the risks, which made the rest of her proposal easier to trust.",
+          "translation": "Sie sprach offen über die Risiken, was den übrigen Teil ihres Vorschlags glaubwürdiger machte."
+        },
+        {
+          "source": "Investors appreciate a candid explanation far more than polished optimism that ignores the facts.",
+          "translation": "Investoren schätzen eine offene Erklärung weit mehr als geschniegelt wirkenden Optimismus, der die Fakten ignoriert."
+        }
+      ],
+      "image": {
+        "url": "images/business-meetings-influence-001/raise-a-concern.jpg",
+        "searchPrompt": "portrait professional giving candid feedback in conversation",
+        "alt": "A professional speaking candidly in a business discussion",
+        "source": "https://www.pexels.com/photo/7648052/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#B64B3B",
+          "#E7A177"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by RDNE Stock project on Pexels",
+        "photographer": "RDNE Stock project",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for candid as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "candid",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "candid",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "business",
+        "communication"
+      ]
+    },
+    {
+      "id": "win-over",
+      "type": "collocation",
+      "term": "win over",
+      "translation": "für sich gewinnen; überzeugen",
+      "ipa": "/wɪn ˈəʊvə/",
+      "definition": "to persuade someone to support or like an idea, person, or plan",
+      "examples": [
+        {
+          "source": "The prototype was simple, but it was enough to win over the more sceptical stakeholders.",
+          "translation": "Der Prototyp war einfach, aber er reichte aus, um die skeptischeren Stakeholder zu überzeugen."
+        },
+        {
+          "source": "Rather than pushing harder, she listened carefully and gradually won over the client.",
+          "translation": "Anstatt stärker zu drängen, hörte sie aufmerksam zu und gewann den Kunden nach und nach für sich."
+        },
+        {
+          "source": "You rarely win over a doubtful audience with slides alone.",
+          "translation": "Ein zweifelndes Publikum gewinnt man selten allein mit Folien für sich."
+        }
+      ],
+      "image": {
+        "url": "images/business-meetings-influence-001/compelling.jpg",
+        "searchPrompt": "portrait presenter winning over audience in meeting room",
+        "alt": "A presenter winning over stakeholders",
+        "source": "https://www.pexels.com/photo/6476778/",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#5D3A66",
+          "#C5A6C9"
+        ],
+        "provider": "Pexels",
+        "attribution": "Photo by Mikael Blomkvist on Pexels",
+        "photographer": "Mikael Blomkvist",
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for win over as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "win over",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "win over",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "business",
+        "persuasion"
+      ]
+    }
+  ],
+  "story": {
+    "title": "Negotiation & Alignment Recap",
+    "pages": [
+      {
+        "text": "When the merger team met for the first time, the room was full of smart people but not much shared understanding. Marta opened the session in a calm voice and managed to set the tone before anyone could retreat into defensive talking points. Her first goal was simple: align expectations. The regional directors had assumed the project was mainly about cost savings, while the product team wanted more freedom to experiment. That misalignment had already created frustration, and everyone knew it."
+      },
+      {
+        "text": "Instead of pretending that the tension did not exist, Marta was candid about the trade-off ahead. If the company pushed too hard for standardisation, it could lose the local agility that had made the brands successful. Yet if every team kept its own process, the integration would stall. She asked both sides to clarify what they absolutely needed and what they could live without. As people listened more carefully, it became easier to bridge a gap that had looked wider in emails than it did in person."
+      },
+      {
+        "text": "By the end of the afternoon, they had reached a compromise on governance and agreed to leverage one shared analytics platform rather than three competing systems. Marta did not try to win over the room with charisma alone; she did it by making each concern visible and workable. The plan was not perfect, but the executives left with a clearer sense of direction and with far less suspicion than they had brought into the room."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "align-expectations",
+      "definition": "to make sure everyone shares the same understanding of what should happen"
+    },
+    {
+      "itemId": "trade-off",
+      "definition": "a balance in which one benefit is gained by accepting a related disadvantage"
+    },
+    {
+      "itemId": "clarify",
+      "definition": "to make something easier to understand by explaining it more clearly"
+    },
+    {
+      "itemId": "bridge-a-gap",
+      "definition": "to reduce a difference or disconnect between people or ideas"
+    },
+    {
+      "itemId": "leverage",
+      "definition": "to use something strategically in order to gain an advantage"
+    },
+    {
+      "itemId": "reach-a-compromise",
+      "definition": "to find an outcome that both sides can accept"
+    },
+    {
+      "itemId": "misalignment",
+      "definition": "a lack of match between goals, assumptions or actions"
+    },
+    {
+      "itemId": "set-the-tone",
+      "definition": "to create a mood or style that influences what follows"
+    },
+    {
+      "itemId": "candid",
+      "definition": "honest and direct, especially about difficult issues"
+    },
+    {
+      "itemId": "win-over",
+      "definition": "to persuade someone to support an idea or person"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-30",
+    "reviewStatus": "validated",
+    "tags": [
+      "business",
+      "negotiation-alignment",
+      "c1",
+      "de"
+    ]
+  }
+}

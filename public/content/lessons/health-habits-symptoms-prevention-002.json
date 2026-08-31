@@ -1,0 +1,631 @@
+{
+  "schemaVersion": "1.0",
+  "id": "health-habits-symptoms-prevention-002",
+  "topicId": "health",
+  "subtopic": "Habits, Symptoms & Prevention",
+  "title": "Habits, Symptoms & Prevention",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "alleviate",
+      "type": "vocabulary",
+      "term": "alleviate",
+      "translation": "lindern",
+      "ipa": "/əˈliːvieɪt/",
+      "definition": "to make pain, stress, or a problem less severe",
+      "examples": [
+        {
+          "source": "A short walk after lunch can alleviate the stiffness that builds up after hours at a desk.",
+          "translation": "Ein kurzer Spaziergang nach dem Mittagessen kann die Steifheit lindern, die sich nach Stunden am Schreibtisch aufbaut."
+        },
+        {
+          "source": "The cream did not cure the condition, but it alleviated the irritation.",
+          "translation": "Die Creme heilte den Zustand nicht, aber sie linderte die Reizung."
+        },
+        {
+          "source": "Many people find that naming their anxiety aloud can alleviate some of its intensity.",
+          "translation": "Viele Menschen erleben, dass das laute Benennen ihrer Angst einen Teil ihrer Intensität lindern kann."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/listen-to-your-body.webp",
+        "searchPrompt": "portrait person stretching or using wellness practice to alleviate discomfort",
+        "alt": "A person alleviating discomfort",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/414029/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for alleviate as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "alleviate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "alleviate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "wellbeing"
+      ]
+    },
+    {
+      "id": "nutrient-dense",
+      "type": "vocabulary",
+      "term": "nutrient-dense",
+      "translation": "nährstoffreich",
+      "ipa": "/ˈnjuːtriənt dens/",
+      "definition": "containing a high level of beneficial nutrients relative to calories",
+      "examples": [
+        {
+          "source": "Her coach encouraged her to build meals around nutrient-dense foods rather than around restrictions alone.",
+          "translation": "Ihr Coach riet ihr, Mahlzeiten eher um nährstoffreiche Lebensmittel als nur um Verbote herum aufzubauen."
+        },
+        {
+          "source": "Soup can be surprisingly nutrient-dense if it includes beans, vegetables and a good source of protein.",
+          "translation": "Suppe kann überraschend nährstoffreich sein, wenn sie Bohnen, Gemüse und eine gute Eiweißquelle enthält."
+        },
+        {
+          "source": "When energy is low, reaching for something convenient is understandable, but nutrient-dense choices usually help more in the long run.",
+          "translation": "Wenn die Energie niedrig ist, greift man verständlicherweise zu etwas Bequemem, aber nährstoffreiche Entscheidungen helfen langfristig meist mehr."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/sustainable.webp",
+        "searchPrompt": "portrait healthy meal with vegetables and protein",
+        "alt": "A nutrient-dense meal",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/6740512/",
+        "attribution": "Photo by Mikhail Nilov on Pexels",
+        "photographer": "Mikhail Nilov",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for nutrient-dense as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "nutrient-dense",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "nutrient-dense",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "come-down-with",
+      "type": "collocation",
+      "term": "come down with",
+      "translation": "sich etwas einfangen; an etwas erkranken",
+      "ipa": "/kʌm daʊn wɪð/",
+      "definition": "to start to become ill with an illness",
+      "examples": [
+        {
+          "source": "I thought I was just tired, but by evening I had clearly come down with a cold.",
+          "translation": "Ich dachte, ich sei nur müde, aber am Abend hatte ich mir eindeutig eine Erkältung eingefangen."
+        },
+        {
+          "source": "Several colleagues came down with the same virus after the conference.",
+          "translation": "Mehrere Kollegen erkrankten nach der Konferenz an demselben Virus."
+        },
+        {
+          "source": "She cancelled the hike when she felt she might be coming down with something.",
+          "translation": "Sie sagte die Wanderung ab, als sie merkte, dass sie vielleicht etwas ausbrütete."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/restorative.webp",
+        "searchPrompt": "portrait person resting at home with early signs of illness",
+        "alt": "A person coming down with a cold",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3759657/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for come down with as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "come down with",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "come down with",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "came down with"
+      ],
+      "tags": [
+        "health",
+        "illness"
+      ]
+    },
+    {
+      "id": "persistent",
+      "type": "vocabulary",
+      "term": "persistent",
+      "translation": "anhaltend; hartnäckig",
+      "ipa": "/pəˈsɪstənt/",
+      "definition": "continuing for a long time or refusing to go away",
+      "examples": [
+        {
+          "source": "A persistent cough is worth checking, especially if it disrupts sleep.",
+          "translation": "Ein anhaltender Husten sollte abgeklärt werden, besonders wenn er den Schlaf stört."
+        },
+        {
+          "source": "The headache was not dramatic, just persistent enough to become distracting.",
+          "translation": "Die Kopfschmerzen waren nicht dramatisch, aber hartnäckig genug, um abzulenken."
+        },
+        {
+          "source": "Persistent fatigue can have many causes, which is why context matters.",
+          "translation": "Anhaltende Müdigkeit kann viele Ursachen haben, weshalb der Kontext wichtig ist."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/detrimental.webp",
+        "searchPrompt": "portrait person consulting doctor about persistent symptoms",
+        "alt": "A person dealing with persistent symptoms",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/11384117/",
+        "attribution": "Photo by Sed “Creatives” Sardar on Pexels",
+        "photographer": "Sed “Creatives” Sardar",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932. Reused for persistent as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "persistent",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "persistent",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "symptoms"
+      ]
+    },
+    {
+      "id": "ward-off",
+      "type": "collocation",
+      "term": "ward off",
+      "translation": "abwehren; fernhalten",
+      "ipa": "/wɔːd ɒf/",
+      "definition": "to prevent something unpleasant or harmful from happening",
+      "examples": [
+        {
+          "source": "Staying hydrated can help ward off headaches during hot weather.",
+          "translation": "Genug zu trinken kann helfen, Kopfschmerzen bei heißem Wetter abzuwehren."
+        },
+        {
+          "source": "He washed his hands repeatedly in the hope of warding off the infection.",
+          "translation": "Er wusch sich wiederholt die Hände, in der Hoffnung, die Infektion abzuwehren."
+        },
+        {
+          "source": "Some evening routines do more to ward off stress than people realise.",
+          "translation": "Manche Abendroutinen tun mehr, um Stress fernzuhalten, als vielen bewusst ist."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/prioritise-wellbeing.webp",
+        "searchPrompt": "portrait person following healthy routine to ward off illness",
+        "alt": "A healthy routine that helps ward off illness",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/868483/",
+        "attribution": "Photo by Nathan Cowley on Pexels",
+        "photographer": "Nathan Cowley",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for ward off as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "ward off",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "ward off",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "prevention"
+      ]
+    },
+    {
+      "id": "sedentary",
+      "type": "vocabulary",
+      "term": "sedentary",
+      "translation": "sitzend; bewegungsarm",
+      "ipa": "/ˈsedəntri/",
+      "definition": "involving a lot of sitting and very little physical activity",
+      "examples": [
+        {
+          "source": "Remote work can become surprisingly sedentary if you are not intentional about movement.",
+          "translation": "Remote-Arbeit kann überraschend bewegungsarm werden, wenn man nicht bewusst auf Bewegung achtet."
+        },
+        {
+          "source": "A sedentary lifestyle affects energy levels long before it shows up in lab results.",
+          "translation": "Ein sitzender Lebensstil beeinflusst das Energielevel lange bevor er sich in Laborwerten zeigt."
+        },
+        {
+          "source": "The article argues that being active for an hour does not entirely cancel out a sedentary day.",
+          "translation": "Der Artikel argumentiert, dass eine aktive Stunde einen bewegungsarmen Tag nicht vollständig ausgleicht."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/sedentary.webp",
+        "searchPrompt": "portrait office worker sitting too long at desk",
+        "alt": "A sedentary workday",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3764014/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for sedentary as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "sedentary",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "sedentary",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "regulate",
+      "type": "vocabulary",
+      "term": "regulate",
+      "translation": "regulieren; steuern",
+      "ipa": "/ˈreɡjʊleɪt/",
+      "definition": "to control something so that it functions in a stable and balanced way",
+      "examples": [
+        {
+          "source": "Regular sleep helps regulate appetite and mood.",
+          "translation": "Regelmäßiger Schlaf hilft, Appetit und Stimmung zu regulieren."
+        },
+        {
+          "source": "The body regulates temperature remarkably well until heat or dehydration push it too far.",
+          "translation": "Der Körper reguliert die Temperatur erstaunlich gut, bis Hitze oder Dehydrierung ihn zu stark belasten."
+        },
+        {
+          "source": "Breathing slowly can regulate the nervous system more effectively than people expect.",
+          "translation": "Langsames Atmen kann das Nervensystem wirksamer regulieren, als viele erwarten."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/maintain-a-balance.webp",
+        "searchPrompt": "portrait calm breathing or sleep routine that helps regulate health",
+        "alt": "A routine that helps regulate body functions",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3768593/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for regulate as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "regulate",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "regulate",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "sleep"
+      ]
+    },
+    {
+      "id": "make-a-recovery",
+      "type": "collocation",
+      "term": "make a recovery",
+      "translation": "sich erholen; genesen",
+      "ipa": "/meɪk ə rɪˈkʌvəri/",
+      "definition": "to become healthy again after an illness or difficult period",
+      "examples": [
+        {
+          "source": "She made a steady recovery after taking time off and following the treatment plan.",
+          "translation": "Sie erholte sich stetig, nachdem sie sich freigenommen und den Behandlungsplan befolgt hatte."
+        },
+        {
+          "source": "Older adults may take longer to make a recovery, but gradual progress still matters.",
+          "translation": "Ältere Menschen brauchen möglicherweise länger, um sich zu erholen, aber schrittweiser Fortschritt ist dennoch wichtig."
+        },
+        {
+          "source": "The runner wanted to return too quickly, even though his body clearly still needed time to make a recovery.",
+          "translation": "Der Läufer wollte zu schnell zurückkehren, obwohl sein Körper offensichtlich noch Zeit zur Erholung brauchte."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/resilient.webp",
+        "searchPrompt": "portrait person recovering and regaining strength",
+        "alt": "A person making a recovery",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3823039/",
+        "attribution": "Photo by Andrea Piacquadio on Pexels",
+        "photographer": "Andrea Piacquadio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for make a recovery as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "make a recovery",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "make a recovery",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "recovery"
+      ]
+    },
+    {
+      "id": "dehydration",
+      "type": "vocabulary",
+      "term": "dehydration",
+      "translation": "Dehydrierung; Flüssigkeitsmangel",
+      "ipa": "/ˌdiːhaɪˈdreɪʃən/",
+      "definition": "a condition in which the body does not have enough water",
+      "examples": [
+        {
+          "source": "Dehydration can sneak up on you during travel, exercise or even a long day at work.",
+          "translation": "Dehydrierung kann sich beim Reisen, beim Sport oder sogar an einem langen Arbeitstag unbemerkt entwickeln."
+        },
+        {
+          "source": "Mild dehydration often shows up first as fatigue or difficulty concentrating.",
+          "translation": "Leichte Dehydrierung zeigt sich oft zuerst durch Müdigkeit oder Konzentrationsschwierigkeiten."
+        },
+        {
+          "source": "The nurse explained how quickly dehydration becomes more serious in very hot weather.",
+          "translation": "Die Pflegekraft erklärte, wie schnell Flüssigkeitsmangel bei sehr heißem Wetter ernster werden kann."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/listen-to-your-body.webp",
+        "searchPrompt": "portrait glass of water and person exercising to prevent dehydration",
+        "alt": "Hydration helping prevent dehydration",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/414029/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for dehydration as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "dehydration",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "dehydration",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "hydration"
+      ]
+    },
+    {
+      "id": "stick-to",
+      "type": "collocation",
+      "term": "stick to",
+      "translation": "bei etwas bleiben; sich an etwas halten",
+      "ipa": "/stɪk tuː/",
+      "definition": "to continue doing something or to follow a plan consistently",
+      "examples": [
+        {
+          "source": "The hardest part of any health plan is often not starting but sticking to it.",
+          "translation": "Der schwierigste Teil eines Gesundheitsplans ist oft nicht der Anfang, sondern das Durchhalten."
+        },
+        {
+          "source": "He found it easier to stick to a routine once he linked it to his morning coffee.",
+          "translation": "Es fiel ihm leichter, bei einer Routine zu bleiben, sobald er sie mit seinem Morgenkaffee verknüpfte."
+        },
+        {
+          "source": "People are more likely to stick to exercise when it fits their real life rather than an idealised schedule.",
+          "translation": "Menschen bleiben eher bei Bewegung, wenn sie zu ihrem echten Leben passt und nicht zu einem idealisierten Plan."
+        }
+      ],
+      "image": {
+        "url": "images/health-habits-wellbeing-001/stick-to-a-routine.webp",
+        "searchPrompt": "portrait person sticking to healthy routine or exercise habit",
+        "alt": "A person sticking to a healthy routine",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/7900311/",
+        "attribution": "Photo by Ivan S on Pexels",
+        "photographer": "Ivan S",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4F7041",
+          "#B8D59D"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait source selected so the complete subject and action remain meaningful from 360×800 through 430×932. Reused for stick to as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "stick to",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "stick to",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "health",
+        "habits"
+      ]
+    }
+  ],
+  "story": {
+    "title": "Habits, Symptoms & Prevention Recap",
+    "pages": [
+      {
+        "text": "After months of feeling slightly off, Lena decided to stop treating her health as something that would somehow improve on its own. Her symptoms were not dramatic, but a persistent tiredness had started to colour everything: work, family evenings and even weekends. The doctor was reassuring. Nothing urgent appeared in the tests, yet the consultation made one thing clear: her daily routine was far more sedentary than she had admitted to herself, and her meals were quick but rarely nutrient-dense."
+      },
+      {
+        "text": "Rather than chasing a miracle solution, Lena began with modest changes. She tried to stick to a more regular bedtime, walked after lunch and kept a bottle of water close by because mild dehydration had become normal without her noticing it. She also paid attention to the habits that seemed to ward off stress rather than intensify it. On difficult days she used stretching and slow breathing to alleviate tension and to regulate her energy more gently."
+      },
+      {
+        "text": "A few weeks later she came down with a minor cold, which felt discouraging at first. But even that interruption taught her something useful. Recovery did not mean doing everything perfectly; it meant learning how to make a recovery without giving up on the larger routine. By the end of the season, the difference was not dramatic enough for anyone else to applaud, yet it was real enough for Lena to feel she had reclaimed some authority over her own body."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "alleviate",
+      "definition": "to make pain, stress or a problem less severe"
+    },
+    {
+      "itemId": "nutrient-dense",
+      "definition": "containing many beneficial nutrients for its calorie level"
+    },
+    {
+      "itemId": "come-down-with",
+      "definition": "to begin to become ill with an illness"
+    },
+    {
+      "itemId": "persistent",
+      "definition": "continuing for a long time without going away"
+    },
+    {
+      "itemId": "ward-off",
+      "definition": "to prevent something unpleasant from happening"
+    },
+    {
+      "itemId": "sedentary",
+      "definition": "involving a lot of sitting and little physical activity"
+    },
+    {
+      "itemId": "regulate",
+      "definition": "to control something so it stays balanced and stable"
+    },
+    {
+      "itemId": "make-a-recovery",
+      "definition": "to become healthy again after illness or difficulty"
+    },
+    {
+      "itemId": "dehydration",
+      "definition": "a condition caused by not having enough water in the body"
+    },
+    {
+      "itemId": "stick-to",
+      "definition": "to follow a plan consistently over time"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-30",
+    "reviewStatus": "validated",
+    "tags": [
+      "health",
+      "habits-symptoms-prevention",
+      "c1",
+      "de"
+    ]
+  }
+}

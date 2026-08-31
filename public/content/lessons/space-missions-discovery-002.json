@@ -1,0 +1,629 @@
+{
+  "schemaVersion": "1.0",
+  "id": "space-missions-discovery-002",
+  "topicId": "space",
+  "subtopic": "Missions & Discovery",
+  "title": "Missions & Discovery",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "orbit",
+      "type": "vocabulary",
+      "term": "orbit",
+      "translation": "Umlaufbahn; umkreisen",
+      "ipa": "/ˈɔːbɪt/",
+      "definition": "to travel around a planet, moon, or star, or the path used to do so",
+      "examples": [
+        {
+          "source": "The telescope will orbit the Earth for at least five years.",
+          "translation": "Das Teleskop wird die Erde mindestens fünf Jahre lang umkreisen."
+        },
+        {
+          "source": "Once the spacecraft reached orbit, the team in mission control finally relaxed.",
+          "translation": "Sobald das Raumfahrzeug die Umlaufbahn erreicht hatte, entspannte sich das Team in der Missionskontrolle endlich."
+        },
+        {
+          "source": "Some satellites remain in orbit far longer than their designers originally intended.",
+          "translation": "Manche Satelliten bleiben weit länger in der Umlaufbahn, als ihre Entwickler ursprünglich vorgesehen hatten."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/orbit-a-planet.webp",
+        "searchPrompt": "portrait style photo of satellite orbiting Earth viewed from space",
+        "alt": "A spacecraft in orbit",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1274260/",
+        "attribution": "Photo by Philippe Donn on Pexels",
+        "photographer": "Philippe Donn",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for orbit as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "orbit",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "orbit",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "astronomy"
+      ]
+    },
+    {
+      "id": "propulsion",
+      "type": "vocabulary",
+      "term": "propulsion",
+      "translation": "Antrieb",
+      "ipa": "/prəˈpʌlʃən/",
+      "definition": "the force or system that moves a spacecraft or aircraft forward",
+      "examples": [
+        {
+          "source": "Engineers are testing a new propulsion system that uses far less fuel.",
+          "translation": "Ingenieure testen ein neues Antriebssystem, das deutlich weniger Treibstoff verbraucht."
+        },
+        {
+          "source": "Without reliable propulsion, deep-space missions become much harder to plan.",
+          "translation": "Ohne zuverlässigen Antrieb lassen sich Missionen in den tiefen Weltraum viel schwerer planen."
+        },
+        {
+          "source": "The lecture explained how electric propulsion changes what small probes can achieve.",
+          "translation": "Der Vortrag erklärte, wie elektrischer Antrieb verändert, was kleine Sonden leisten können."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/push-the-boundaries.webp",
+        "searchPrompt": "portrait of engineer working with propulsion concept or rocket engine model",
+        "alt": "An engineer studying spacecraft propulsion",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/586066/",
+        "attribution": "Photo by SpaceX on Pexels",
+        "photographer": "SpaceX",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for propulsion as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "propulsion",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "propulsion",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "engineering"
+      ]
+    },
+    {
+      "id": "transmit-data",
+      "type": "collocation",
+      "term": "transmit data",
+      "translation": "Daten übertragen",
+      "ipa": "/trænzˌmɪt ˈdeɪtə/",
+      "definition": "to send information from one place or system to another",
+      "examples": [
+        {
+          "source": "The lander continued to transmit data even after the main camera stopped responding.",
+          "translation": "Die Landeeinheit übermittelte weiterhin Daten, selbst nachdem die Hauptkamera nicht mehr reagierte."
+        },
+        {
+          "source": "Antennas in three countries were needed to transmit data from the probe without interruption.",
+          "translation": "Antennen in drei Ländern wurden benötigt, um Daten der Sonde ohne Unterbrechung zu übertragen."
+        },
+        {
+          "source": "Scientists were relieved that the damaged instrument could still transmit data about surface temperature.",
+          "translation": "Die Wissenschaftler waren erleichtert, dass das beschädigte Instrument noch Daten zur Oberflächentemperatur senden konnte."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/elusive.webp",
+        "searchPrompt": "portrait mission control team receiving transmitted data",
+        "alt": "Mission control receiving transmitted data",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/11392957/",
+        "attribution": "Photo by Duren Williams on Pexels",
+        "photographer": "Duren Williams",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for transmit data as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "transmit data",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "transmit data",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "data"
+      ]
+    },
+    {
+      "id": "trajectory",
+      "type": "vocabulary",
+      "term": "trajectory",
+      "translation": "Flugbahn; Verlauf",
+      "ipa": "/trəˈdʒektəri/",
+      "definition": "the path that an object follows through space or the air",
+      "examples": [
+        {
+          "source": "A tiny error in the trajectory could have sent the capsule hundreds of kilometres off course.",
+          "translation": "Ein winziger Fehler in der Flugbahn hätte die Kapsel Hunderte Kilometer vom Kurs abbringen können."
+        },
+        {
+          "source": "The team adjusted the trajectory after detecting an unexpected gravitational effect.",
+          "translation": "Das Team passte die Flugbahn an, nachdem es einen unerwarteten Gravitationseffekt festgestellt hatte."
+        },
+        {
+          "source": "Seeing the trajectory on the screen made the complexity of the mission suddenly feel real.",
+          "translation": "Als die Flugbahn auf dem Bildschirm erschien, wurde die Komplexität der Mission plötzlich greifbar."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/venture-into-space.webp",
+        "searchPrompt": "portrait mission planning with spacecraft trajectory on screen",
+        "alt": "Scientists reviewing a spacecraft trajectory",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1169754/",
+        "attribution": "Photo by Miriam Espacio on Pexels",
+        "photographer": "Miriam Espacio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for trajectory as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "trajectory",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "trajectory",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "mission"
+      ]
+    },
+    {
+      "id": "touch-down",
+      "type": "collocation",
+      "term": "touch down",
+      "translation": "aufsetzen; landen",
+      "ipa": "/tʌtʃ daʊn/",
+      "definition": "to land on a surface, especially after a flight or space journey",
+      "examples": [
+        {
+          "source": "The rover is expected to touch down in a region rich in ancient sediments.",
+          "translation": "Der Rover soll in einer Region mit alten Sedimenten aufsetzen."
+        },
+        {
+          "source": "Only a few minutes separated the descent burn from the moment the capsule touched down.",
+          "translation": "Nur wenige Minuten trennten das Abbremsmanöver von dem Moment, in dem die Kapsel aufsetzte."
+        },
+        {
+          "source": "Everyone in the auditorium held their breath as the craft prepared to touch down on the moon.",
+          "translation": "Im Auditorium hielt jeder den Atem an, als sich das Fahrzeug auf die Mondlandung vorbereitete."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/celestial.webp",
+        "searchPrompt": "portrait style photo of spacecraft touching down on planetary surface",
+        "alt": "A craft preparing to touch down",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8474475/",
+        "attribution": "Photo by RDNE Stock project on Pexels",
+        "photographer": "RDNE Stock project",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for touch down as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "touch down",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "touch down",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "landing"
+      ]
+    },
+    {
+      "id": "habitable",
+      "type": "vocabulary",
+      "term": "habitable",
+      "translation": "bewohnbar",
+      "ipa": "/ˈhæbɪtəbəl/",
+      "definition": "suitable for life or for people to live in",
+      "examples": [
+        {
+          "source": "Researchers are interested in whether the planet may once have been habitable.",
+          "translation": "Forscher interessieren sich dafür, ob der Planet einst bewohnbar gewesen sein könnte."
+        },
+        {
+          "source": "A moon can be icy and still contain pockets that make it scientifically interesting as a potentially habitable environment.",
+          "translation": "Ein Mond kann eisig sein und dennoch Bereiche enthalten, die ihn als potenziell bewohnbare Umgebung wissenschaftlich interessant machen."
+        },
+        {
+          "source": "The article explored what conditions would have to exist for a world to be considered habitable.",
+          "translation": "Der Artikel untersuchte, welche Bedingungen vorhanden sein müssten, damit eine Welt als bewohnbar gilt."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/habitable.webp",
+        "searchPrompt": "portrait of astronomer observing potentially habitable planet imagery",
+        "alt": "Scientist studying a potentially habitable world",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/34180947/",
+        "attribution": "Photo by Jason Pittman on Pexels",
+        "photographer": "Jason Pittman",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for habitable as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "habitable",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "habitable",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "planetary science"
+      ]
+    },
+    {
+      "id": "launch-window",
+      "type": "collocation",
+      "term": "launch window",
+      "translation": "Startfenster",
+      "ipa": "/lɔːntʃ ˈwɪndəʊ/",
+      "definition": "the period of time during which a spacecraft can be launched successfully",
+      "examples": [
+        {
+          "source": "Because of weather and fuel constraints, the launch window was surprisingly short.",
+          "translation": "Aufgrund von Wetter- und Treibstoffbedingungen war das Startfenster überraschend kurz."
+        },
+        {
+          "source": "Missing the launch window would have delayed the mission by several weeks.",
+          "translation": "Das Verpassen des Startfensters hätte die Mission um mehrere Wochen verzögert."
+        },
+        {
+          "source": "Reporters gathered before dawn as the final launch window approached.",
+          "translation": "Reporter versammelten sich vor Tagesanbruch, als das letzte Startfenster näher rückte."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/push-the-boundaries.webp",
+        "searchPrompt": "portrait rocket launch control room before launch window",
+        "alt": "A team preparing for a launch window",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/586066/",
+        "attribution": "Photo by SpaceX on Pexels",
+        "photographer": "SpaceX",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for launch window as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "launch window",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "launch window",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "launch"
+      ]
+    },
+    {
+      "id": "debris",
+      "type": "vocabulary",
+      "term": "debris",
+      "translation": "Trümmer; Schrott",
+      "ipa": "/ˈdeɪbriː/",
+      "definition": "scattered pieces left after something has broken apart or been destroyed",
+      "examples": [
+        {
+          "source": "Even tiny pieces of orbital debris can damage a satellite.",
+          "translation": "Selbst winzige Teile von Weltraumschrott können einen Satelliten beschädigen."
+        },
+        {
+          "source": "The mission included a sensor designed to track debris around the station.",
+          "translation": "Die Mission umfasste einen Sensor, der Trümmer in der Umgebung der Station verfolgen sollte."
+        },
+        {
+          "source": "A growing belt of debris is forcing agencies to rethink how satellites are retired.",
+          "translation": "Ein wachsender Gürtel aus Trümmern zwingt Raumfahrtagenturen dazu, zu überdenken, wie Satelliten außer Betrieb genommen werden."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/withstand-extreme-conditions.webp",
+        "searchPrompt": "portrait view of space debris near satellite concept",
+        "alt": "Space debris threatening a satellite",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/998641/",
+        "attribution": "Photo by Pixabay on Pexels",
+        "photographer": "Pixabay",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for debris as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "debris",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "debris",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "safety"
+      ]
+    },
+    {
+      "id": "carry-out-an-experiment",
+      "type": "collocation",
+      "term": "carry out an experiment",
+      "translation": "ein Experiment durchführen",
+      "ipa": "/ˌkæri aʊt ən ɪkˈsperɪmənt/",
+      "definition": "to perform a scientific test in order to discover or prove something",
+      "examples": [
+        {
+          "source": "Astronauts will carry out an experiment on muscle loss during long missions.",
+          "translation": "Astronauten werden ein Experiment zum Muskelabbau bei langen Missionen durchführen."
+        },
+        {
+          "source": "The probe carried out an experiment that revealed unusual chemical activity below the surface.",
+          "translation": "Die Sonde führte ein Experiment durch, das ungewöhnliche chemische Aktivität unter der Oberfläche aufzeigte."
+        },
+        {
+          "source": "Students watched live as researchers carried out an experiment aboard the space station.",
+          "translation": "Schüler sahen live zu, wie Forschende an Bord der Raumstation ein Experiment durchführten."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/shed-light-on.webp",
+        "searchPrompt": "portrait astronauts or researchers carrying out an experiment",
+        "alt": "Researchers carrying out an experiment in a space context",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/821718/",
+        "attribution": "Photo by Miriam Espacio on Pexels",
+        "photographer": "Miriam Espacio",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for carry out an experiment as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "carry out an experiment",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "carry out an experiment",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "research"
+      ]
+    },
+    {
+      "id": "probe",
+      "type": "vocabulary",
+      "term": "probe",
+      "translation": "Sonde",
+      "ipa": "/prəʊb/",
+      "definition": "an unmanned spacecraft sent to collect information in space",
+      "examples": [
+        {
+          "source": "The probe has been travelling for so long that some of its original designers are now retired.",
+          "translation": "Die Sonde ist schon so lange unterwegs, dass einige ihrer ursprünglichen Entwickler inzwischen im Ruhestand sind."
+        },
+        {
+          "source": "Unlike a crewed mission, a probe can venture into environments that would be far too dangerous for people.",
+          "translation": "Im Gegensatz zu einer bemannten Mission kann eine Sonde in Umgebungen vordringen, die für Menschen viel zu gefährlich wären."
+        },
+        {
+          "source": "New images from the probe transformed a distant moon into a place with visible texture and history.",
+          "translation": "Neue Bilder der Sonde machten aus einem fernen Mond einen Ort mit sichtbarer Struktur und Geschichte."
+        }
+      ],
+      "image": {
+        "url": "images/space-exploring-universe-001/elusive.webp",
+        "searchPrompt": "portrait of space probe model or control center with probe imagery",
+        "alt": "A space probe on a discovery mission",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/11392957/",
+        "attribution": "Photo by Duren Williams on Pexels",
+        "photographer": "Duren Williams",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#4A3E77",
+          "#A7A0CE"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for probe as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "probe",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "probe",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "space",
+        "exploration"
+      ]
+    }
+  ],
+  "story": {
+    "title": "Missions & Discovery Recap",
+    "pages": [
+      {
+        "text": "Months before launch day, the mission team seemed to be living inside spreadsheets, simulations and coffee cups. Their challenge was not only to get the spacecraft off the ground, but to time the launch window so precisely that the vehicle would settle into the correct orbit after a series of burns. Because the mission relied on efficient propulsion, even minor miscalculations mattered. A tiny deviation in the initial trajectory could multiply into a major course correction later on."
+      },
+      {
+        "text": "Once the probe was in flight, the focus shifted from engineering drama to patient observation. The craft needed to transmit data across enormous distances, and the signals were often faint. Scientists hoped to carry out an experiment that might reveal whether the target moon had conditions that had once been habitable. At the same time, mission planners kept an anxious eye on debris in near-Earth space, which remains an increasing problem for every new launch."
+      },
+      {
+        "text": "The most emotional moment came much later, when the lander finally prepared to touch down. By then, the spacecraft had become more than a machine to the people who had built it. When the first image arrived, grainy but unmistakably real, the control room erupted. Years of design reviews, delays and doubt had produced a few priceless minutes of discovery."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "orbit",
+      "definition": "to travel around a planet or the path used for such movement"
+    },
+    {
+      "itemId": "propulsion",
+      "definition": "the force or system that moves a spacecraft forward"
+    },
+    {
+      "itemId": "transmit-data",
+      "definition": "to send information from one system or place to another"
+    },
+    {
+      "itemId": "trajectory",
+      "definition": "the path an object follows through space"
+    },
+    {
+      "itemId": "touch-down",
+      "definition": "to land on a surface after a flight or space journey"
+    },
+    {
+      "itemId": "habitable",
+      "definition": "suitable for life or living"
+    },
+    {
+      "itemId": "launch-window",
+      "definition": "the period during which a spacecraft can be launched successfully"
+    },
+    {
+      "itemId": "debris",
+      "definition": "scattered pieces left after something breaks apart"
+    },
+    {
+      "itemId": "carry-out-an-experiment",
+      "definition": "to perform a scientific test"
+    },
+    {
+      "itemId": "probe",
+      "definition": "an unmanned spacecraft sent to collect information"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-30",
+    "reviewStatus": "validated",
+    "tags": [
+      "space",
+      "missions-discovery",
+      "c1",
+      "de"
+    ]
+  }
+}

@@ -1,0 +1,631 @@
+{
+  "schemaVersion": "1.0",
+  "id": "technology-ai-data-security-002",
+  "topicId": "technology",
+  "subtopic": "AI, Data & Security",
+  "title": "AI, Data & Security",
+  "level": "C1",
+  "sourceLanguage": "en",
+  "translationLanguage": "de",
+  "accent": "en-GB",
+  "items": [
+    {
+      "id": "deploy",
+      "type": "vocabulary",
+      "term": "deploy",
+      "translation": "einführen; einsetzen; bereitstellen",
+      "ipa": "/dɪˈplɔɪ/",
+      "definition": "to put a system, tool, or resource into effective use",
+      "examples": [
+        {
+          "source": "The team decided to deploy the new model gradually rather than release it to all users at once.",
+          "translation": "Das Team entschied sich, das neue Modell schrittweise einzuführen, anstatt es allen Nutzern auf einmal bereitzustellen."
+        },
+        {
+          "source": "You can design elegant software in theory, but the real test begins when you deploy it in production.",
+          "translation": "Man kann elegante Software theoretisch entwerfen, aber der eigentliche Test beginnt, wenn man sie produktiv einsetzt."
+        },
+        {
+          "source": "During the outage, engineers deployed a temporary fix while they investigated the deeper cause.",
+          "translation": "Während des Ausfalls spielten die Ingenieure eine vorläufige Lösung ein, während sie die eigentliche Ursache untersuchten."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/automate-a-process.webp",
+        "searchPrompt": "portrait software engineer deploying application in modern workspace",
+        "alt": "An engineer deploying software",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8439093/",
+        "attribution": "Photo by Pavel Danilyuk on Pexels",
+        "photographer": "Pavel Danilyuk",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for deploy as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "deploy",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "deploy",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "software"
+      ]
+    },
+    {
+      "id": "scalable",
+      "type": "vocabulary",
+      "term": "scalable",
+      "translation": "skalierbar",
+      "ipa": "/ˈskeɪləbəl/",
+      "definition": "able to grow or handle increased demand without losing performance",
+      "examples": [
+        {
+          "source": "A clever prototype is not enough if the architecture is not scalable.",
+          "translation": "Ein cleverer Prototyp reicht nicht aus, wenn die Architektur nicht skalierbar ist."
+        },
+        {
+          "source": "The investors were less interested in the demo than in whether the business model was scalable.",
+          "translation": "Die Investoren interessierten sich weniger für die Demo als dafür, ob das Geschäftsmodell skalierbar war."
+        },
+        {
+          "source": "Cloud services can make a product more scalable, but they do not remove the need for good design.",
+          "translation": "Cloud-Dienste können ein Produkt skalierbarer machen, ersetzen aber kein gutes Design."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/scalable.webp",
+        "searchPrompt": "portrait developer with cloud diagrams discussing scalable systems",
+        "alt": "Developer discussing scalable systems",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3861958/",
+        "attribution": "Photo by ThisIsEngineering on Pexels",
+        "photographer": "ThisIsEngineering",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for scalable as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "scalable",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "scalable",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "cloud"
+      ]
+    },
+    {
+      "id": "encrypt-data",
+      "type": "collocation",
+      "term": "encrypt data",
+      "translation": "Daten verschlüsseln",
+      "ipa": "/ɪnˌkrɪpt ˈdeɪtə/",
+      "definition": "to convert information into a coded form so that unauthorised people cannot read it",
+      "examples": [
+        {
+          "source": "The policy requires staff to encrypt data before transferring files outside the organisation.",
+          "translation": "Die Richtlinie verlangt, dass Mitarbeitende Daten verschlüsseln, bevor sie Dateien außerhalb der Organisation übertragen."
+        },
+        {
+          "source": "Even small firms should encrypt data on laptops that travel regularly.",
+          "translation": "Auch kleine Firmen sollten Daten auf Laptops verschlüsseln, die regelmäßig unterwegs sind."
+        },
+        {
+          "source": "They discovered only after the incident that one legacy tool could not encrypt data properly.",
+          "translation": "Erst nach dem Vorfall stellten sie fest, dass ein Altsystem Daten nicht richtig verschlüsseln konnte."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/safeguard-privacy.webp",
+        "searchPrompt": "portrait IT professional securing laptop with privacy concept",
+        "alt": "IT professional working to encrypt data",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8386440/",
+        "attribution": "Photo by Pavel Danilyuk on Pexels",
+        "photographer": "Pavel Danilyuk",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for encrypt data as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "encrypt data",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "encrypt data",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "security"
+      ]
+    },
+    {
+      "id": "interoperability",
+      "type": "vocabulary",
+      "term": "interoperability",
+      "translation": "Interoperabilität; Zusammenspiel verschiedener Systeme",
+      "ipa": "/ˌɪntərˌɒpərəˈbɪləti/",
+      "definition": "the ability of different systems or tools to work together effectively",
+      "examples": [
+        {
+          "source": "Without interoperability, hospitals end up duplicating information across incompatible systems.",
+          "translation": "Ohne Interoperabilität doppeln Krankenhäuser Informationen über inkompatible Systeme hinweg."
+        },
+        {
+          "source": "The conference focused less on flashy innovation than on the boring but essential issue of interoperability.",
+          "translation": "Die Konferenz konzentrierte sich weniger auf auffällige Innovation als auf die langweilige, aber wesentliche Frage der Interoperabilität."
+        },
+        {
+          "source": "Interoperability becomes critical the moment a product leaves the lab and enters a real ecosystem.",
+          "translation": "Interoperabilität wird in dem Moment kritisch, in dem ein Produkt das Labor verlässt und in ein reales Ökosystem eintritt."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/interoperable.webp",
+        "searchPrompt": "portrait people discussing system integration and interoperability",
+        "alt": "Professionals discussing interoperability between systems",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1181244/",
+        "attribution": "Photo by Christina Morillo on Pexels",
+        "photographer": "Christina Morillo",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for interoperability as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "interoperability",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "interoperability",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "integration"
+      ]
+    },
+    {
+      "id": "phase-out",
+      "type": "collocation",
+      "term": "phase out",
+      "translation": "schrittweise auslaufen lassen",
+      "ipa": "/feɪz aʊt/",
+      "definition": "to stop using or providing something gradually rather than suddenly",
+      "examples": [
+        {
+          "source": "The company plans to phase out the old portal over six months.",
+          "translation": "Das Unternehmen plant, das alte Portal über sechs Monate schrittweise auslaufen zu lassen."
+        },
+        {
+          "source": "Rather than forcing a dramatic switch, they phased out the legacy process in carefully managed stages.",
+          "translation": "Anstatt einen abrupten Wechsel zu erzwingen, ließen sie den Altprozess in sorgfältig gesteuerten Phasen auslaufen."
+        },
+        {
+          "source": "A tool should be phased out only after users have a credible alternative.",
+          "translation": "Ein Werkzeug sollte erst dann auslaufen, wenn die Nutzer eine glaubwürdige Alternative haben."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/obsolete.webp",
+        "searchPrompt": "portrait office worker transitioning from old to new technology",
+        "alt": "A team phasing out an old system",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3184465/",
+        "attribution": "Photo by fauxels on Pexels",
+        "photographer": "fauxels",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for phase out as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "phase out",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "phase out",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [
+        "phased out"
+      ],
+      "tags": [
+        "technology",
+        "change"
+      ]
+    },
+    {
+      "id": "proprietary",
+      "type": "vocabulary",
+      "term": "proprietary",
+      "translation": "proprietär; herstellerspezifisch",
+      "ipa": "/prəˈpraɪətəri/",
+      "definition": "owned and controlled by a particular company, often with restricted use",
+      "examples": [
+        {
+          "source": "The device uses a proprietary charging system, which frustrates many customers.",
+          "translation": "Das Gerät verwendet ein proprietäres Ladesystem, was viele Kunden frustriert."
+        },
+        {
+          "source": "They avoided a proprietary format because long-term access to the records mattered more than convenience.",
+          "translation": "Sie vermieden ein proprietäres Format, weil der langfristige Zugriff auf die Unterlagen wichtiger war als Bequemlichkeit."
+        },
+        {
+          "source": "The start-up built its reputation on proprietary analytics rather than on hardware.",
+          "translation": "Das Start-up baute seinen Ruf auf proprietärer Analytik statt auf Hardware auf."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/ubiquitous.webp",
+        "searchPrompt": "portrait close-up of device ecosystem with proprietary technology",
+        "alt": "A proprietary technology ecosystem",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3861969/",
+        "attribution": "Photo by ThisIsEngineering on Pexels",
+        "photographer": "ThisIsEngineering",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for proprietary as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "proprietary",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "proprietary",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "products"
+      ]
+    },
+    {
+      "id": "troubleshoot",
+      "type": "vocabulary",
+      "term": "troubleshoot",
+      "translation": "Fehler beheben; Störungen analysieren",
+      "ipa": "/ˈtrʌbəlʃuːt/",
+      "definition": "to identify and solve technical problems systematically",
+      "examples": [
+        {
+          "source": "Support staff spent the morning troubleshooting a login issue that affected remote users.",
+          "translation": "Der Support verbrachte den Vormittag damit, ein Anmeldeproblem zu beheben, das Remote-Nutzer betraf."
+        },
+        {
+          "source": "When systems interact, troubleshooting becomes as much about communication as about code.",
+          "translation": "Wenn Systeme miteinander interagieren, geht es bei der Fehlersuche ebenso sehr um Kommunikation wie um Code."
+        },
+        {
+          "source": "She documented each step carefully so the team could troubleshoot similar failures faster next time.",
+          "translation": "Sie dokumentierte jeden Schritt sorgfältig, damit das Team ähnliche Fehler beim nächsten Mal schneller beheben konnte."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/interoperable.webp",
+        "searchPrompt": "portrait technician troubleshooting computer system at desk",
+        "alt": "A technician troubleshooting a system problem",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1181244/",
+        "attribution": "Photo by Christina Morillo on Pexels",
+        "photographer": "Christina Morillo",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for troubleshoot as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "troubleshoot",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "troubleshoot",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "support"
+      ]
+    },
+    {
+      "id": "roll-out",
+      "type": "collocation",
+      "term": "roll out",
+      "translation": "einführen; ausrollen",
+      "ipa": "/rəʊl aʊt/",
+      "definition": "to introduce a new product, service, or process in stages",
+      "examples": [
+        {
+          "source": "The bank will roll out the new security feature to business customers first.",
+          "translation": "Die Bank wird die neue Sicherheitsfunktion zunächst für Geschäftskunden ausrollen."
+        },
+        {
+          "source": "Instead of a dramatic launch, the company rolled out the update region by region.",
+          "translation": "Anstatt eines spektakulären Starts rollte das Unternehmen das Update Region für Region aus."
+        },
+        {
+          "source": "A rushed roll-out can damage trust even when the technology itself is solid.",
+          "translation": "Ein überhasteter Roll-out kann Vertrauen zerstören, selbst wenn die Technologie an sich solide ist."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/harness-the-potential.webp",
+        "searchPrompt": "portrait product team rolling out a digital update",
+        "alt": "A team rolling out a digital product",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/1181675/",
+        "attribution": "Photo by Christina Morillo on Pexels",
+        "photographer": "Christina Morillo",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for roll out as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "roll out",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "roll out",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "launch"
+      ]
+    },
+    {
+      "id": "vulnerable-to",
+      "type": "collocation",
+      "term": "vulnerable to",
+      "translation": "anfällig für",
+      "ipa": "/ˈvʌlnərəbəl tuː/",
+      "definition": "easily harmed or exposed to risk from something",
+      "examples": [
+        {
+          "source": "Unpatched devices are especially vulnerable to ransomware attacks.",
+          "translation": "Nicht gepatchte Geräte sind besonders anfällig für Ransomware-Angriffe."
+        },
+        {
+          "source": "Any system becomes vulnerable to error when staff create workarounds under pressure.",
+          "translation": "Jedes System wird anfällig für Fehler, wenn Mitarbeitende unter Druck Umgehungslösungen basteln."
+        },
+        {
+          "source": "The audit showed that even well-funded organisations remain vulnerable to simple phishing attempts.",
+          "translation": "Das Audit zeigte, dass selbst gut finanzierte Organisationen für einfache Phishing-Versuche anfällig bleiben."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/safeguard-privacy.webp",
+        "searchPrompt": "portrait cybersecurity concept with person monitoring risk",
+        "alt": "A system vulnerable to cyber risk",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/8386440/",
+        "attribution": "Photo by Pavel Danilyuk on Pexels",
+        "photographer": "Pavel Danilyuk",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for vulnerable to as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "vulnerable to",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "vulnerable to",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "security"
+      ]
+    },
+    {
+      "id": "seamless",
+      "type": "vocabulary",
+      "term": "seamless",
+      "translation": "nahtlos; reibungslos",
+      "ipa": "/ˈsiːmləs/",
+      "definition": "smooth and continuous, without noticeable problems or interruptions",
+      "examples": [
+        {
+          "source": "From the user’s perspective, the payment process should feel seamless.",
+          "translation": "Aus Sicht des Nutzers sollte sich der Zahlungsvorgang reibungslos anfühlen."
+        },
+        {
+          "source": "The migration looked seamless on the outside, though it required months of careful preparation.",
+          "translation": "Die Migration wirkte nach außen nahtlos, obwohl sie Monate sorgfältiger Vorbereitung erforderte."
+        },
+        {
+          "source": "A seamless interface is often the visible result of invisible engineering discipline.",
+          "translation": "Eine nahtlose Oberfläche ist oft das sichtbare Ergebnis unsichtbarer technischer Disziplin."
+        }
+      ],
+      "image": {
+        "url": "images/technology-ai-digital-transformation-001/ubiquitous.webp",
+        "searchPrompt": "portrait user interacting with seamless app on modern device",
+        "alt": "A smooth, seamless digital experience",
+        "provider": "Pexels",
+        "source": "https://www.pexels.com/photo/3861969/",
+        "attribution": "Photo by ThisIsEngineering on Pexels",
+        "photographer": "ThisIsEngineering",
+        "license": "Pexels License — free use in apps; attribution not required (https://www.pexels.com/license/)",
+        "palette": [
+          "#276678",
+          "#9CC9D5"
+        ],
+        "orientation": "portrait",
+        "objectPosition": "50% 50%",
+        "safeCropApproved": true,
+        "cropNotes": "Portrait crop reviewed from 360×800 through 430×932; the meaningful subject remains visible. Reused for seamless as an approved topic-context photograph."
+      },
+      "audio": {
+        "text": "seamless",
+        "language": "en-GB",
+        "voiceHint": "British English"
+      },
+      "youglish": {
+        "query": "seamless",
+        "language": "english",
+        "accent": "uk"
+      },
+      "aliases": [],
+      "tags": [
+        "technology",
+        "ux"
+      ]
+    }
+  ],
+  "story": {
+    "title": "AI, Data & Security Recap",
+    "pages": [
+      {
+        "text": "The company’s new analytics platform had impressed everyone in the demo, but the real pressure began when the team prepared to deploy it in production. The engineers knew that a flashy prototype meant little if the system was not scalable and if every regional unit had to invent its own workaround. During the planning session, one architect kept returning to interoperability: if the platform could not exchange information cleanly with existing tools, the promised efficiency gains would never arrive."
+      },
+      {
+        "text": "Security complicated the discussion, as it usually does. Customer files had to be handled in a way that allowed teams to collaborate without exposing the organisation to unnecessary risk. That meant they needed to encrypt data by default, not as an afterthought. It also meant recognising where legacy components were still vulnerable to attack. Some of those older tools used proprietary formats, which made integration slower and limited what the support team could do when incidents occurred."
+      },
+      {
+        "text": "In the end, the leadership group agreed to roll out the platform in controlled stages while they phased out the old reporting process. The support team built a clear runbook to troubleshoot failures quickly, and the product lead kept insisting that the user experience should feel seamless from the first login onward. The launch was not dramatic, but it was disciplined, and that is precisely why it worked."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "itemId": "deploy",
+      "definition": "to put a system or tool into active use"
+    },
+    {
+      "itemId": "scalable",
+      "definition": "able to cope with growth or increasing demand"
+    },
+    {
+      "itemId": "encrypt-data",
+      "definition": "to protect information by converting it into coded form"
+    },
+    {
+      "itemId": "interoperability",
+      "definition": "the ability of different systems to work together"
+    },
+    {
+      "itemId": "phase-out",
+      "definition": "to stop using something gradually"
+    },
+    {
+      "itemId": "proprietary",
+      "definition": "owned and controlled by one company with restricted use"
+    },
+    {
+      "itemId": "troubleshoot",
+      "definition": "to identify and solve technical problems"
+    },
+    {
+      "itemId": "roll-out",
+      "definition": "to introduce something in stages"
+    },
+    {
+      "itemId": "vulnerable-to",
+      "definition": "easily exposed to harm or risk from something"
+    },
+    {
+      "itemId": "seamless",
+      "definition": "smooth and free from noticeable problems"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-08-30",
+    "reviewStatus": "validated",
+    "tags": [
+      "technology",
+      "ai-data-security",
+      "c1",
+      "de"
+    ]
+  }
+}
