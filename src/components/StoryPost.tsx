@@ -6,6 +6,51 @@ import { useSpeech } from '../hooks/useSpeech'
 
 type Range = { start: number; end: number }
 
+const STORY_PAGE_CHARACTER_LIMIT = 300
+
+function splitLongSentence(sentence: string, characterLimit: number) {
+  const words = sentence.trim().split(/\s+/)
+  const parts: string[] = []
+  let current = ''
+
+  for (const word of words) {
+    const candidate = current ? current + ' ' + word : word
+    if (current && candidate.length > characterLimit) {
+      parts.push(current)
+      current = word
+    } else {
+      current = candidate
+    }
+  }
+
+  if (current) parts.push(current)
+  return parts
+}
+
+export function paginateStoryPages(pages: Lesson['story']['pages'], characterLimit = STORY_PAGE_CHARACTER_LIMIT) {
+  return pages.flatMap((page) => {
+    const text = page.text.trim()
+    if (text.length <= characterLimit) return [{ text }]
+
+    const sentences = text.match(/[^.!?]+(?:[.!?]+["'’”)]*|$)/g)?.map((sentence) => sentence.trim()).filter(Boolean) ?? [text]
+    const chunks: string[] = []
+    let current = ''
+
+    for (const sentence of sentences.flatMap((value) => value.length > characterLimit ? splitLongSentence(value, characterLimit) : [value])) {
+      const candidate = current ? current + ' ' + sentence : sentence
+      if (current && candidate.length > characterLimit) {
+        chunks.push(current)
+        current = sentence
+      } else {
+        current = candidate
+      }
+    }
+
+    if (current) chunks.push(current)
+    return chunks.map((chunk) => ({ text: chunk }))
+  })
+}
+
 function HighlightedStory({ text, items, spokenAt, onReveal }: { text: string; items: LearningItem[]; spokenAt: Range | null; onReveal: (item: LearningItem) => void }) {
   const targets = useMemo(() => findTargetMatches(text, items), [items, text])
   const tokens = useMemo(() => {
@@ -38,19 +83,23 @@ function HighlightedStory({ text, items, spokenAt, onReveal }: { text: string; i
 export function StoryPost({ lesson, isActive, onComplete }: { lesson: Lesson; isActive: boolean; onComplete: () => void }) {
   const { ref, index, onScroll, goTo } = useCarousel()
   const { speak, stop, pause, resume, speaking, paused, supported } = useSpeech()
+  const storyPages = useMemo(() => paginateStoryPages(lesson.story.pages), [lesson.story.pages])
   const [audioPage, setAudioPage] = useState<number | null>(null)
   const [spokenAt, setSpokenAt] = useState<Range | null>(null)
   const [rate, setRate] = useState(.8)
   const [revealed, setRevealed] = useState<LearningItem | null>(null)
   const continueRef = useRef(false)
+  const activeRef = useRef(isActive)
+  const autoplayStartedRef = useRef(false)
+  const activationTimerRef = useRef<number | null>(null)
 
   useEffect(() => {
-    if (isActive && index === lesson.story.pages.length - 1) onComplete()
-  }, [index, isActive, lesson.story.pages.length, onComplete])
+    if (isActive && index === storyPages.length - 1) onComplete()
+  }, [index, isActive, onComplete, storyPages.length])
 
   useEffect(() => {
     if (audioPage === null) return
-    const page = lesson.story.pages[audioPage]
+    const page = storyPages[audioPage]
     if (!page) return
     goTo(audioPage)
     setSpokenAt(null)
@@ -60,24 +109,43 @@ export function StoryPost({ lesson, isActive, onComplete }: { lesson: Lesson; is
       onEnd: () => {
         setSpokenAt(null)
         const next = audioPage + 1
-        if (continueRef.current && next < lesson.story.pages.length) setAudioPage(next)
+        if (continueRef.current && next < storyPages.length) setAudioPage(next)
         else {
           continueRef.current = false
           setAudioPage(null)
         }
       },
     })
-  }, [audioPage, goTo, lesson.accent, lesson.story.pages, rate, speak])
+  }, [audioPage, goTo, lesson.accent, rate, speak, storyPages])
 
   useEffect(() => {
+    activeRef.current = isActive
     if (!isActive) {
+      if (activationTimerRef.current) window.clearTimeout(activationTimerRef.current)
+      activationTimerRef.current = null
+      autoplayStartedRef.current = false
       continueRef.current = false
       setAudioPage(null)
       setSpokenAt(null)
       setRevealed(null)
       stop()
+      return
     }
-  }, [isActive, stop])
+
+    if (!supported || autoplayStartedRef.current) return
+    activationTimerRef.current = window.setTimeout(() => {
+      activationTimerRef.current = null
+      if (!activeRef.current || autoplayStartedRef.current) return
+      autoplayStartedRef.current = true
+      continueRef.current = true
+      setAudioPage(index)
+    }, 180)
+
+    return () => {
+      if (activationTimerRef.current) window.clearTimeout(activationTimerRef.current)
+      activationTimerRef.current = null
+    }
+  }, [index, isActive, stop, supported])
 
   const toggleAudio = () => {
     if (speaking && paused) {
@@ -88,6 +156,7 @@ export function StoryPost({ lesson, isActive, onComplete }: { lesson: Lesson; is
       pause()
       return
     }
+    autoplayStartedRef.current = true
     continueRef.current = true
     setAudioPage(index)
   }
@@ -102,7 +171,7 @@ export function StoryPost({ lesson, isActive, onComplete }: { lesson: Lesson; is
   return (
     <article className="story-post">
       <header className="story-header">
-        <div><span>RECAP STORY</span><b>{index + 1} / {lesson.story.pages.length}</b></div>
+        <div><span>RECAP STORY</span><b>{index + 1} / {storyPages.length}</b></div>
         <h2>{lesson.story.title}</h2>
         <div className="story-controls">
           <button onClick={toggleAudio} disabled={!supported}>{speaking ? paused ? '▶ Resume' : 'Ⅱ Pause' : '▶ Listen'}</button>
@@ -113,7 +182,7 @@ export function StoryPost({ lesson, isActive, onComplete }: { lesson: Lesson; is
         </div>
       </header>
       <div className="story-carousel" ref={ref} onScroll={onScroll}>
-        {lesson.story.pages.map((page, pageIndex) => (
+        {storyPages.map((page, pageIndex) => (
           <section className="story-page" key={pageIndex}>
             <HighlightedStory text={page.text} items={lesson.items} spokenAt={audioPage === pageIndex ? spokenAt : null} onReveal={setRevealed} />
             <span className="story-page-number">{String(pageIndex + 1).padStart(2, '0')}</span>
@@ -126,7 +195,7 @@ export function StoryPost({ lesson, isActive, onComplete }: { lesson: Lesson; is
           <b>{revealed.term}</b><span>{revealed.translation}</span>
         </div>
       )}
-      <div className="story-progress"><i style={{ width: `${((index + 1) / lesson.story.pages.length) * 100}%` }} /></div>
+      <div className="story-progress"><i style={{ width: `${((index + 1) / storyPages.length) * 100}%` }} /></div>
       <p className="story-legend"><mark>Tap highlighted language</mark> for German.</p>
     </article>
   )
