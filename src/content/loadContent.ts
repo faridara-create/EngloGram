@@ -1,4 +1,4 @@
-import { catalogSchema, lessonSchema, type Catalog, type Lesson } from './schema'
+import { catalogSchema, lessonSchema, registrySchema, type Catalog, type Lesson, type Registry } from './schema'
 import { validateLesson } from './validateLesson'
 
 async function loadJson(path: string): Promise<unknown> {
@@ -18,6 +18,10 @@ export function resolvePublicAsset(path: string): string {
 
 export async function loadCatalog(): Promise<Catalog> {
   return catalogSchema.parse(await loadJson('content/catalog.json'))
+}
+
+export async function loadRegistry(): Promise<Registry> {
+  return registrySchema.parse(await loadJson('content/registry/vocabulary-registry.json'))
 }
 
 export async function loadLesson(path: string): Promise<Lesson> {

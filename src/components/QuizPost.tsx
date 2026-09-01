@@ -36,10 +36,12 @@ export function QuizPost({ lesson, progress, onAnswer, onComplete, onReviewItem 
   if (isComplete && !reviewMode) {
     return (
       <article className="completion-screen">
-        <span className="completion-kicker">LESSON COMPLETED</span>
+        <span className="completion-kicker">{progress.completed ? 'LESSON COMPLETED' : 'QUIZ COMPLETED'}</span>
         <div className="completion-score"><b>{correctCount}</b><span>/ {questions.length}</span></div>
-        <h2>You finished<br /><em>{lesson.title}</em></h2>
-        <p>{incorrectItems.length ? `${incorrectItems.length} item${incorrectItems.length === 1 ? '' : 's'} to strengthen next.` : 'A perfect result — every item landed.'}</p>
+        <h2>{progress.completed ? 'You finished' : 'Quiz finished'}<br /><em>{lesson.title}</em></h2>
+        <p>{progress.completed
+          ? incorrectItems.length ? `${incorrectItems.length} item${incorrectItems.length === 1 ? '' : 's'} to strengthen next.` : 'A perfect result — every item landed.'
+          : 'Complete every learning item and the Story to finish this lesson.'}</p>
         {incorrectItems.length > 0 && <div className="mistake-list">{incorrectItems.map((item) => <span key={item.id}>{item.term}<small>{item.translation}</small></span>)}</div>}
         <div className="completion-actions">
           <button onClick={reviewMistakes} disabled={!incorrectItems.length}>Review mistakes</button>

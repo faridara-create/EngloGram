@@ -35,7 +35,7 @@ function HighlightedStory({ text, items, spokenAt, onReveal }: { text: string; i
   )
 }
 
-export function StoryPost({ lesson, isActive }: { lesson: Lesson; isActive: boolean }) {
+export function StoryPost({ lesson, isActive, onComplete }: { lesson: Lesson; isActive: boolean; onComplete: () => void }) {
   const { ref, index, onScroll, goTo } = useCarousel()
   const { speak, stop, pause, resume, speaking, paused, supported } = useSpeech()
   const [audioPage, setAudioPage] = useState<number | null>(null)
@@ -43,6 +43,10 @@ export function StoryPost({ lesson, isActive }: { lesson: Lesson; isActive: bool
   const [rate, setRate] = useState(.8)
   const [revealed, setRevealed] = useState<LearningItem | null>(null)
   const continueRef = useRef(false)
+
+  useEffect(() => {
+    if (isActive && index === lesson.story.pages.length - 1) onComplete()
+  }, [index, isActive, lesson.story.pages.length, onComplete])
 
   useEffect(() => {
     if (audioPage === null) return
