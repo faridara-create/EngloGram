@@ -6,7 +6,7 @@ import { useSpeech } from '../hooks/useSpeech'
 
 type Range = { start: number; end: number }
 
-const STORY_PAGE_CHARACTER_LIMIT = 300
+const STORY_PAGE_CHARACTER_LIMIT = 480
 
 function splitLongSentence(sentence: string, characterLimit: number) {
   const words = sentence.trim().split(/\s+/)
@@ -28,27 +28,30 @@ function splitLongSentence(sentence: string, characterLimit: number) {
 }
 
 export function paginateStoryPages(pages: Lesson['story']['pages'], characterLimit = STORY_PAGE_CHARACTER_LIMIT) {
-  return pages.flatMap((page) => {
-    const text = page.text.trim()
-    if (text.length <= characterLimit) return [{ text }]
+  const text = pages.map((page) => page.text.trim()).filter(Boolean).join(' ')
+  const sentences = text.match(/[^.!?]+(?:[.!?]+["'’”)]*|$)/g)?.map((sentence) => sentence.trim()).filter(Boolean) ?? [text]
+  const chunks: string[] = []
+  let current = ''
 
-    const sentences = text.match(/[^.!?]+(?:[.!?]+["'’”)]*|$)/g)?.map((sentence) => sentence.trim()).filter(Boolean) ?? [text]
-    const chunks: string[] = []
-    let current = ''
-
-    for (const sentence of sentences.flatMap((value) => value.length > characterLimit ? splitLongSentence(value, characterLimit) : [value])) {
-      const candidate = current ? current + ' ' + sentence : sentence
-      if (current && candidate.length > characterLimit) {
-        chunks.push(current)
-        current = sentence
-      } else {
-        current = candidate
-      }
+  for (const sentence of sentences.flatMap((value) => value.length > characterLimit ? splitLongSentence(value, characterLimit) : [value])) {
+    const candidate = current ? current + ' ' + sentence : sentence
+    if (current && candidate.length > characterLimit) {
+      chunks.push(current)
+      current = sentence
+    } else {
+      current = candidate
     }
+  }
 
-    if (current) chunks.push(current)
-    return chunks.map((chunk) => ({ text: chunk }))
-  })
+  if (current) chunks.push(current)
+  return chunks.map((chunk) => ({ text: chunk }))
+}
+
+function spokenWordRanges(text: string): Range[] {
+  return [...text.matchAll(/\S+/g)].map((match) => ({
+    start: match.index ?? 0,
+    end: (match.index ?? 0) + match[0].length,
+  }))
 }
 
 function HighlightedStory({ text, items, spokenAt, onReveal }: { text: string; items: LearningItem[]; spokenAt: Range | null; onReveal: (item: LearningItem) => void }) {
@@ -92,6 +95,11 @@ export function StoryPost({ lesson, isActive, onComplete }: { lesson: Lesson; is
   const activeRef = useRef(isActive)
   const autoplayStartedRef = useRef(false)
   const activationTimerRef = useRef<number | null>(null)
+  const pausedRef = useRef(paused)
+
+  useEffect(() => {
+    pausedRef.current = paused
+  }, [paused])
 
   useEffect(() => {
     if (isActive && index === storyPages.length - 1) onComplete()
@@ -101,11 +109,28 @@ export function StoryPost({ lesson, isActive, onComplete }: { lesson: Lesson; is
     if (audioPage === null) return
     const page = storyPages[audioPage]
     if (!page) return
+    const words = spokenWordRanges(page.text)
+    const fallbackDelay = Math.max(240, Math.round(280 / rate))
+    let fallbackIndex = Math.min(1, words.length)
+    let lastBoundaryAt = 0
     goTo(audioPage)
-    setSpokenAt(null)
+    setSpokenAt(words[0] ?? null)
+    const fallbackTimer = window.setInterval(() => {
+      if (pausedRef.current || performance.now() - lastBoundaryAt < fallbackDelay * .85) return
+      const range = words[fallbackIndex]
+      if (!range) return
+      setSpokenAt(range)
+      fallbackIndex += 1
+    }, fallbackDelay)
     speak(page.text, lesson.accent, {
       rate,
-      onBoundary: (start, length) => setSpokenAt({ start, end: start + length }),
+      onBoundary: (start, length) => {
+        lastBoundaryAt = performance.now()
+        const boundaryRange = { start, end: start + length }
+        const boundaryIndex = words.findIndex((word) => start < word.end && boundaryRange.end > word.start)
+        if (boundaryIndex >= 0) fallbackIndex = boundaryIndex + 1
+        setSpokenAt(boundaryRange)
+      },
       onEnd: () => {
         setSpokenAt(null)
         const next = audioPage + 1
@@ -116,6 +141,7 @@ export function StoryPost({ lesson, isActive, onComplete }: { lesson: Lesson; is
         }
       },
     })
+    return () => window.clearInterval(fallbackTimer)
   }, [audioPage, goTo, lesson.accent, rate, speak, storyPages])
 
   useEffect(() => {
